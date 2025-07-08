@@ -1,0 +1,2001 @@
+Incident Category,Date,Loss Amount,Region
+Human Error,01-01-2023,94896,Europe
+Human Error,02-01-2023,92462,Latin America
+Human Error,03-01-2023,18032,North America
+Compliance Breach,04-01-2023,17051,Asia-Pacific
+Fraud,05-01-2023,90284,Europe
+Compliance Breach,06-01-2023,87064,Europe
+Fraud,07-01-2023,80459,North America
+Fraud,08-01-2023,88501,Europe
+Human Error,09-01-2023,79837,Asia-Pacific
+IT Failure,10-01-2023,79405,North America
+Compliance Breach,11-01-2023,79494,Latin America
+IT Failure,12-01-2023,46391,Latin America
+Human Error,13-01-2023,13631,Asia-Pacific
+Fraud,14-01-2023,57935,Europe
+Fraud,15-01-2023,23374,Europe
+IT Failure,16-01-2023,92607,Asia-Pacific
+Human Error,17-01-2023,84861,North America
+Fraud,18-01-2023,84915,North America
+Fraud,19-01-2023,66830,Europe
+Fraud,20-01-2023,87545,North America
+Compliance Breach,21-01-2023,49952,North America
+Human Error,22-01-2023,95332,Latin America
+Human Error,23-01-2023,30664,Asia-Pacific
+IT Failure,24-01-2023,61811,North America
+IT Failure,25-01-2023,13860,Latin America
+Fraud,26-01-2023,24301,Latin America
+Human Error,27-01-2023,97580,Asia-Pacific
+Human Error,28-01-2023,18907,Asia-Pacific
+Compliance Breach,29-01-2023,19131,Europe
+Compliance Breach,30-01-2023,92839,Europe
+Human Error,31-01-2023,32041,Asia-Pacific
+Fraud,01-02-2023,39118,Asia-Pacific
+Fraud,02-02-2023,40611,Latin America
+Compliance Breach,03-02-2023,37280,North America
+Compliance Breach,04-02-2023,67965,North America
+Fraud,05-02-2023,55898,Latin America
+Human Error,06-02-2023,7031,Latin America
+Human Error,07-02-2023,75161,Asia-Pacific
+Human Error,08-02-2023,77576,North America
+Compliance Breach,09-02-2023,22180,Latin America
+Compliance Breach,10-02-2023,43478,Asia-Pacific
+Human Error,11-02-2023,43663,Asia-Pacific
+Human Error,12-02-2023,72922,North America
+Human Error,13-02-2023,30231,Europe
+Fraud,14-02-2023,42906,Latin America
+Human Error,15-02-2023,30491,North America
+IT Failure,16-02-2023,21707,North America
+Compliance Breach,17-02-2023,21511,Latin America
+Fraud,18-02-2023,73603,Asia-Pacific
+Fraud,19-02-2023,8853,Latin America
+Compliance Breach,20-02-2023,64038,Latin America
+Compliance Breach,21-02-2023,98223,Europe
+Compliance Breach,22-02-2023,40448,Latin America
+Human Error,23-02-2023,58513,Asia-Pacific
+Fraud,24-02-2023,76976,Asia-Pacific
+Human Error,25-02-2023,54214,Europe
+Fraud,26-02-2023,63909,Latin America
+IT Failure,27-02-2023,12536,Latin America
+Compliance Breach,28-02-2023,29582,Asia-Pacific
+Compliance Breach,01-03-2023,14580,Europe
+Human Error,02-03-2023,96861,North America
+Fraud,03-03-2023,89509,Asia-Pacific
+Compliance Breach,04-03-2023,46731,Asia-Pacific
+IT Failure,05-03-2023,59725,Asia-Pacific
+Fraud,06-03-2023,72044,Asia-Pacific
+IT Failure,07-03-2023,40891,North America
+Human Error,08-03-2023,86553,Asia-Pacific
+Compliance Breach,09-03-2023,25653,Europe
+IT Failure,10-03-2023,47659,Europe
+Human Error,11-03-2023,47176,Latin America
+Human Error,12-03-2023,93143,Europe
+IT Failure,13-03-2023,67114,North America
+IT Failure,14-03-2023,50047,Asia-Pacific
+Fraud,15-03-2023,42444,Latin America
+IT Failure,16-03-2023,42313,North America
+Fraud,17-03-2023,49611,North America
+Fraud,18-03-2023,7928,North America
+Compliance Breach,19-03-2023,76361,Europe
+IT Failure,20-03-2023,17495,Europe
+IT Failure,21-03-2023,27412,Asia-Pacific
+IT Failure,22-03-2023,65746,Latin America
+Compliance Breach,23-03-2023,49872,Europe
+IT Failure,24-03-2023,34429,Europe
+Fraud,25-03-2023,7221,North America
+Human Error,26-03-2023,88023,North America
+Fraud,27-03-2023,44246,North America
+Human Error,28-03-2023,82587,North America
+Compliance Breach,29-03-2023,49164,Europe
+Fraud,30-03-2023,90961,North America
+Human Error,31-03-2023,50356,North America
+Human Error,01-04-2023,37531,Europe
+Fraud,02-04-2023,88124,Latin America
+Human Error,03-04-2023,86182,Asia-Pacific
+Compliance Breach,04-04-2023,89204,North America
+Compliance Breach,05-04-2023,50709,North America
+IT Failure,06-04-2023,57787,Asia-Pacific
+IT Failure,07-04-2023,76736,Asia-Pacific
+Human Error,08-04-2023,17367,Europe
+Human Error,09-04-2023,68700,North America
+Compliance Breach,10-04-2023,67680,North America
+Compliance Breach,11-04-2023,49376,Europe
+Human Error,12-04-2023,27832,North America
+Human Error,13-04-2023,15274,Europe
+Fraud,14-04-2023,69255,Europe
+Compliance Breach,15-04-2023,56510,Asia-Pacific
+IT Failure,16-04-2023,56582,Asia-Pacific
+Fraud,17-04-2023,76736,Latin America
+Fraud,18-04-2023,68652,North America
+Compliance Breach,19-04-2023,39085,Latin America
+Fraud,20-04-2023,6363,North America
+Human Error,21-04-2023,54913,North America
+IT Failure,22-04-2023,96570,Europe
+Human Error,23-04-2023,15334,North America
+IT Failure,24-04-2023,22270,Asia-Pacific
+Compliance Breach,25-04-2023,96263,Europe
+Compliance Breach,26-04-2023,24869,North America
+Fraud,27-04-2023,46373,Latin America
+IT Failure,28-04-2023,10678,Europe
+Human Error,29-04-2023,40952,Europe
+Human Error,30-04-2023,75940,Asia-Pacific
+IT Failure,01-05-2023,83331,North America
+IT Failure,02-05-2023,81704,Latin America
+Fraud,03-05-2023,95080,North America
+IT Failure,04-05-2023,55252,Asia-Pacific
+Fraud,05-05-2023,64979,Latin America
+Human Error,06-05-2023,44375,North America
+IT Failure,07-05-2023,70774,Latin America
+Compliance Breach,08-05-2023,39974,Latin America
+Compliance Breach,09-05-2023,80676,Asia-Pacific
+Human Error,10-05-2023,61162,North America
+Human Error,11-05-2023,38477,North America
+Fraud,12-05-2023,75487,Asia-Pacific
+Compliance Breach,13-05-2023,84238,Asia-Pacific
+Human Error,14-05-2023,20340,North America
+Compliance Breach,15-05-2023,81176,Asia-Pacific
+Human Error,16-05-2023,76378,North America
+Compliance Breach,17-05-2023,34240,Asia-Pacific
+Compliance Breach,18-05-2023,34741,Asia-Pacific
+IT Failure,19-05-2023,46351,North America
+Human Error,20-05-2023,9978,Latin America
+Human Error,21-05-2023,87670,Asia-Pacific
+Fraud,22-05-2023,75744,North America
+Human Error,23-05-2023,28864,Latin America
+Compliance Breach,24-05-2023,10978,Europe
+Fraud,25-05-2023,45241,Europe
+IT Failure,26-05-2023,27954,Latin America
+Human Error,27-05-2023,35794,Latin America
+IT Failure,28-05-2023,99937,Latin America
+Fraud,29-05-2023,12045,Asia-Pacific
+Compliance Breach,30-05-2023,36779,Latin America
+Human Error,31-05-2023,58588,North America
+IT Failure,01-06-2023,84038,Asia-Pacific
+Fraud,02-06-2023,47220,Europe
+Fraud,03-06-2023,86166,Latin America
+Compliance Breach,04-06-2023,83164,Asia-Pacific
+Fraud,05-06-2023,25093,North America
+Fraud,06-06-2023,12148,Asia-Pacific
+Fraud,07-06-2023,96192,Asia-Pacific
+Human Error,08-06-2023,25773,Asia-Pacific
+Compliance Breach,09-06-2023,93302,Europe
+IT Failure,10-06-2023,61084,Latin America
+Compliance Breach,11-06-2023,95713,North America
+Compliance Breach,12-06-2023,47869,North America
+IT Failure,13-06-2023,93552,North America
+Human Error,14-06-2023,8721,Latin America
+Human Error,15-06-2023,37666,Latin America
+Compliance Breach,16-06-2023,81199,Europe
+Fraud,17-06-2023,26463,North America
+Human Error,18-06-2023,82515,Asia-Pacific
+Human Error,19-06-2023,81093,Latin America
+Compliance Breach,20-06-2023,91571,Latin America
+Human Error,21-06-2023,33998,Latin America
+Compliance Breach,22-06-2023,97660,Latin America
+Fraud,23-06-2023,33009,Asia-Pacific
+IT Failure,24-06-2023,65628,Asia-Pacific
+Compliance Breach,25-06-2023,73027,Europe
+Fraud,26-06-2023,96807,Latin America
+Human Error,27-06-2023,92186,Europe
+Fraud,28-06-2023,69036,Asia-Pacific
+Fraud,29-06-2023,60509,Asia-Pacific
+IT Failure,30-06-2023,51693,Latin America
+IT Failure,01-07-2023,93373,Asia-Pacific
+Fraud,02-07-2023,75232,Latin America
+Compliance Breach,03-07-2023,69743,Europe
+Human Error,04-07-2023,55981,Latin America
+IT Failure,05-07-2023,69143,North America
+IT Failure,06-07-2023,75531,Asia-Pacific
+IT Failure,07-07-2023,37200,North America
+Compliance Breach,08-07-2023,51120,Latin America
+Fraud,09-07-2023,70233,Asia-Pacific
+Human Error,10-07-2023,98958,Europe
+Fraud,11-07-2023,62482,North America
+Human Error,12-07-2023,89901,Asia-Pacific
+Fraud,13-07-2023,90615,Europe
+Fraud,14-07-2023,44308,Latin America
+IT Failure,15-07-2023,28555,Europe
+Fraud,16-07-2023,28778,Latin America
+Fraud,17-07-2023,74228,Europe
+Human Error,18-07-2023,91122,Europe
+Fraud,19-07-2023,52001,North America
+Human Error,20-07-2023,16765,Asia-Pacific
+Human Error,21-07-2023,13620,North America
+Human Error,22-07-2023,79366,Europe
+IT Failure,23-07-2023,84585,North America
+Human Error,24-07-2023,17038,Latin America
+Compliance Breach,25-07-2023,28031,Europe
+Human Error,26-07-2023,23655,Asia-Pacific
+Compliance Breach,27-07-2023,6875,Europe
+IT Failure,28-07-2023,71816,Europe
+Fraud,29-07-2023,89790,North America
+Human Error,30-07-2023,83254,Europe
+Human Error,31-07-2023,61234,Europe
+Compliance Breach,01-08-2023,68044,North America
+Fraud,02-08-2023,62109,Europe
+Human Error,03-08-2023,81764,Asia-Pacific
+IT Failure,04-08-2023,71686,Latin America
+Compliance Breach,05-08-2023,63130,Europe
+IT Failure,06-08-2023,53046,Asia-Pacific
+Fraud,07-08-2023,22197,North America
+Compliance Breach,08-08-2023,70112,Asia-Pacific
+Compliance Breach,09-08-2023,78630,Asia-Pacific
+Compliance Breach,10-08-2023,47226,North America
+Compliance Breach,11-08-2023,51493,Latin America
+Human Error,12-08-2023,79467,Europe
+Human Error,13-08-2023,23436,Latin America
+Fraud,14-08-2023,40834,Asia-Pacific
+Compliance Breach,15-08-2023,61757,North America
+Human Error,16-08-2023,92274,North America
+Human Error,17-08-2023,12633,Latin America
+Human Error,18-08-2023,34515,Asia-Pacific
+Compliance Breach,19-08-2023,83180,Asia-Pacific
+IT Failure,20-08-2023,89509,North America
+Fraud,21-08-2023,13647,North America
+Compliance Breach,22-08-2023,93192,North America
+Human Error,23-08-2023,45154,North America
+Human Error,24-08-2023,74285,Europe
+Compliance Breach,25-08-2023,15722,Asia-Pacific
+Human Error,26-08-2023,90442,Europe
+Compliance Breach,27-08-2023,40679,Europe
+Human Error,28-08-2023,97325,Europe
+Fraud,29-08-2023,72005,Latin America
+Compliance Breach,30-08-2023,28245,Europe
+Human Error,31-08-2023,71133,Europe
+Fraud,01-09-2023,49191,Latin America
+Fraud,02-09-2023,57476,Latin America
+IT Failure,03-09-2023,37412,North America
+Compliance Breach,04-09-2023,44702,Asia-Pacific
+Fraud,05-09-2023,65939,North America
+Human Error,06-09-2023,39289,North America
+Fraud,07-09-2023,53138,Asia-Pacific
+Human Error,08-09-2023,11154,Latin America
+Human Error,09-09-2023,59427,Latin America
+Human Error,10-09-2023,33466,Asia-Pacific
+Human Error,11-09-2023,19810,Europe
+IT Failure,12-09-2023,89075,Latin America
+Fraud,13-09-2023,8819,Asia-Pacific
+Fraud,14-09-2023,24815,North America
+IT Failure,15-09-2023,72303,Latin America
+Human Error,16-09-2023,27004,Asia-Pacific
+Human Error,17-09-2023,9548,Latin America
+Human Error,18-09-2023,72533,North America
+Compliance Breach,19-09-2023,74971,North America
+Human Error,20-09-2023,29971,Europe
+IT Failure,21-09-2023,32387,Latin America
+IT Failure,22-09-2023,31054,Latin America
+IT Failure,23-09-2023,5195,Europe
+Human Error,24-09-2023,91082,Asia-Pacific
+Fraud,25-09-2023,55742,Europe
+Human Error,26-09-2023,89834,Asia-Pacific
+Human Error,27-09-2023,74827,Asia-Pacific
+Compliance Breach,28-09-2023,38597,North America
+IT Failure,29-09-2023,63399,Asia-Pacific
+Compliance Breach,30-09-2023,91467,Latin America
+IT Failure,01-10-2023,15794,North America
+Compliance Breach,02-10-2023,81604,Asia-Pacific
+Compliance Breach,03-10-2023,58391,North America
+Compliance Breach,04-10-2023,8894,North America
+Compliance Breach,05-10-2023,75661,North America
+Fraud,06-10-2023,93235,North America
+Fraud,07-10-2023,18395,North America
+Fraud,08-10-2023,33018,Latin America
+Fraud,09-10-2023,85578,Europe
+Fraud,10-10-2023,84184,Asia-Pacific
+IT Failure,11-10-2023,25102,Latin America
+Human Error,12-10-2023,30749,North America
+Fraud,13-10-2023,37893,Latin America
+Human Error,14-10-2023,89944,Asia-Pacific
+Human Error,15-10-2023,43364,Asia-Pacific
+IT Failure,16-10-2023,46667,Europe
+Compliance Breach,17-10-2023,85817,Europe
+Compliance Breach,18-10-2023,8771,Europe
+Compliance Breach,19-10-2023,94111,North America
+Human Error,20-10-2023,10549,Latin America
+IT Failure,21-10-2023,80727,Latin America
+IT Failure,22-10-2023,24641,North America
+Fraud,23-10-2023,32189,North America
+IT Failure,24-10-2023,33195,Latin America
+Human Error,25-10-2023,59842,Latin America
+Compliance Breach,26-10-2023,72432,Europe
+Human Error,27-10-2023,54600,North America
+Human Error,28-10-2023,29474,Latin America
+IT Failure,29-10-2023,54421,Latin America
+IT Failure,30-10-2023,30057,Latin America
+IT Failure,31-10-2023,11060,North America
+Human Error,01-11-2023,6625,North America
+IT Failure,02-11-2023,55381,North America
+Compliance Breach,03-11-2023,99123,Latin America
+Human Error,04-11-2023,32625,North America
+Fraud,05-11-2023,59256,Europe
+Human Error,06-11-2023,36594,Asia-Pacific
+Human Error,07-11-2023,55847,Latin America
+Human Error,08-11-2023,60519,North America
+IT Failure,09-11-2023,54922,North America
+IT Failure,10-11-2023,87514,Asia-Pacific
+IT Failure,11-11-2023,43718,North America
+Human Error,12-11-2023,57934,North America
+IT Failure,13-11-2023,44634,Asia-Pacific
+Fraud,14-11-2023,84206,North America
+Human Error,15-11-2023,43191,North America
+Compliance Breach,16-11-2023,94182,Europe
+Human Error,17-11-2023,64394,North America
+Compliance Breach,18-11-2023,96226,Asia-Pacific
+Human Error,19-11-2023,65216,Europe
+Human Error,20-11-2023,75984,Europe
+Fraud,21-11-2023,39126,North America
+IT Failure,22-11-2023,99797,Latin America
+IT Failure,23-11-2023,62853,North America
+Fraud,24-11-2023,61297,Latin America
+Fraud,25-11-2023,26207,Europe
+Fraud,26-11-2023,75735,Asia-Pacific
+Fraud,27-11-2023,85736,Latin America
+Fraud,28-11-2023,64037,Europe
+Fraud,29-11-2023,76939,North America
+IT Failure,30-11-2023,83656,Asia-Pacific
+Compliance Breach,01-12-2023,58427,Asia-Pacific
+IT Failure,02-12-2023,21021,Latin America
+IT Failure,03-12-2023,74862,Asia-Pacific
+IT Failure,04-12-2023,87300,Latin America
+Human Error,05-12-2023,10888,Europe
+Fraud,06-12-2023,94727,North America
+IT Failure,07-12-2023,89901,North America
+Compliance Breach,08-12-2023,18299,North America
+Compliance Breach,09-12-2023,37291,North America
+IT Failure,10-12-2023,37871,Asia-Pacific
+IT Failure,11-12-2023,70541,Asia-Pacific
+Human Error,12-12-2023,16428,Europe
+Fraud,13-12-2023,17139,North America
+IT Failure,14-12-2023,25382,Europe
+Fraud,15-12-2023,13972,North America
+IT Failure,16-12-2023,96867,Europe
+Fraud,17-12-2023,61690,Latin America
+IT Failure,18-12-2023,39723,Europe
+Fraud,19-12-2023,21451,Latin America
+Human Error,20-12-2023,63417,Latin America
+Fraud,21-12-2023,64646,Europe
+Fraud,22-12-2023,76468,Europe
+Human Error,23-12-2023,22884,Asia-Pacific
+Compliance Breach,24-12-2023,85924,North America
+Fraud,25-12-2023,38048,Latin America
+Fraud,26-12-2023,22681,Asia-Pacific
+Human Error,27-12-2023,13886,North America
+Compliance Breach,28-12-2023,67487,Latin America
+IT Failure,29-12-2023,23290,Europe
+IT Failure,30-12-2023,11236,Asia-Pacific
+Human Error,31-12-2023,39969,North America
+Human Error,01-01-2024,82616,Europe
+IT Failure,02-01-2024,75763,Latin America
+Fraud,03-01-2024,76071,North America
+Human Error,04-01-2024,30035,North America
+Fraud,05-01-2024,92373,Asia-Pacific
+Compliance Breach,06-01-2024,40333,Asia-Pacific
+Fraud,07-01-2024,76561,North America
+Compliance Breach,08-01-2024,37045,Asia-Pacific
+Human Error,09-01-2024,23183,Europe
+IT Failure,10-01-2024,67579,Asia-Pacific
+IT Failure,11-01-2024,6268,Europe
+Fraud,12-01-2024,8561,Latin America
+Compliance Breach,13-01-2024,79436,Asia-Pacific
+Human Error,14-01-2024,49651,Europe
+Human Error,15-01-2024,86276,Latin America
+Fraud,16-01-2024,15455,Asia-Pacific
+IT Failure,17-01-2024,17543,Asia-Pacific
+Compliance Breach,18-01-2024,19861,Europe
+Fraud,19-01-2024,47698,Asia-Pacific
+Compliance Breach,20-01-2024,95815,North America
+Fraud,21-01-2024,90463,Europe
+Fraud,22-01-2024,57740,Asia-Pacific
+Human Error,23-01-2024,12865,Asia-Pacific
+Fraud,24-01-2024,17173,North America
+Human Error,25-01-2024,95202,North America
+Fraud,26-01-2024,35240,Europe
+IT Failure,27-01-2024,39145,Asia-Pacific
+Compliance Breach,28-01-2024,27807,Europe
+Compliance Breach,29-01-2024,15977,Asia-Pacific
+Fraud,30-01-2024,39985,Europe
+Compliance Breach,31-01-2024,17701,Latin America
+Human Error,01-02-2024,11413,Europe
+IT Failure,02-02-2024,10634,Europe
+Fraud,03-02-2024,29070,Latin America
+IT Failure,04-02-2024,93955,North America
+Compliance Breach,05-02-2024,81610,Europe
+IT Failure,06-02-2024,48183,Asia-Pacific
+Fraud,07-02-2024,27928,Latin America
+Compliance Breach,08-02-2024,98305,Latin America
+Human Error,09-02-2024,21276,Europe
+Compliance Breach,10-02-2024,19098,Asia-Pacific
+Fraud,11-02-2024,25501,Asia-Pacific
+Compliance Breach,12-02-2024,43788,Latin America
+Compliance Breach,13-02-2024,29699,North America
+Human Error,14-02-2024,72543,North America
+Human Error,15-02-2024,37470,Europe
+Human Error,16-02-2024,36311,North America
+Compliance Breach,17-02-2024,94572,Latin America
+Fraud,18-02-2024,46381,Asia-Pacific
+Fraud,19-02-2024,85667,Europe
+Human Error,20-02-2024,76903,Latin America
+Fraud,21-02-2024,53486,Asia-Pacific
+Compliance Breach,22-02-2024,76905,Europe
+Compliance Breach,23-02-2024,40911,Asia-Pacific
+Fraud,24-02-2024,69652,Europe
+Fraud,25-02-2024,32748,North America
+Fraud,26-02-2024,34057,Europe
+Human Error,27-02-2024,96898,North America
+IT Failure,28-02-2024,69721,Europe
+Fraud,29-02-2024,99536,Asia-Pacific
+Fraud,01-03-2024,50722,Latin America
+Compliance Breach,02-03-2024,38185,North America
+IT Failure,03-03-2024,23318,Europe
+Fraud,04-03-2024,24805,Latin America
+Fraud,05-03-2024,21712,Latin America
+Compliance Breach,06-03-2024,96096,North America
+IT Failure,07-03-2024,47890,Asia-Pacific
+Human Error,08-03-2024,98575,Asia-Pacific
+IT Failure,09-03-2024,97010,Asia-Pacific
+Compliance Breach,10-03-2024,16784,Asia-Pacific
+Compliance Breach,11-03-2024,71345,Europe
+Fraud,12-03-2024,64960,Europe
+IT Failure,13-03-2024,21765,Europe
+IT Failure,14-03-2024,29438,Europe
+Human Error,15-03-2024,87081,Asia-Pacific
+Human Error,16-03-2024,10421,Europe
+IT Failure,17-03-2024,7154,Asia-Pacific
+Human Error,18-03-2024,98412,North America
+Compliance Breach,19-03-2024,30703,Asia-Pacific
+IT Failure,20-03-2024,48334,North America
+Compliance Breach,21-03-2024,45890,Europe
+IT Failure,22-03-2024,58510,Europe
+Human Error,23-03-2024,35721,Asia-Pacific
+IT Failure,24-03-2024,97724,North America
+Compliance Breach,25-03-2024,53875,North America
+Human Error,26-03-2024,38864,Latin America
+IT Failure,27-03-2024,70876,Europe
+Human Error,28-03-2024,32040,Latin America
+Compliance Breach,29-03-2024,82288,Europe
+IT Failure,30-03-2024,81687,North America
+Fraud,31-03-2024,69861,Europe
+Fraud,01-04-2024,36085,Asia-Pacific
+IT Failure,02-04-2024,17532,Latin America
+IT Failure,03-04-2024,46520,Latin America
+Fraud,04-04-2024,45990,North America
+Human Error,05-04-2024,10700,Latin America
+IT Failure,06-04-2024,23910,North America
+IT Failure,07-04-2024,6408,Europe
+Fraud,08-04-2024,75305,Latin America
+IT Failure,09-04-2024,41457,Asia-Pacific
+Compliance Breach,10-04-2024,28417,Asia-Pacific
+Compliance Breach,11-04-2024,42629,Latin America
+Fraud,12-04-2024,97923,Europe
+Human Error,13-04-2024,8290,Asia-Pacific
+Fraud,14-04-2024,20781,Asia-Pacific
+Compliance Breach,15-04-2024,43104,Europe
+Human Error,16-04-2024,97947,Latin America
+IT Failure,17-04-2024,86074,North America
+Fraud,18-04-2024,49697,Asia-Pacific
+IT Failure,19-04-2024,90846,Asia-Pacific
+Fraud,20-04-2024,78935,Asia-Pacific
+Compliance Breach,21-04-2024,88819,Europe
+IT Failure,22-04-2024,83054,North America
+Compliance Breach,23-04-2024,77015,North America
+Fraud,24-04-2024,36240,Europe
+IT Failure,25-04-2024,92797,North America
+Compliance Breach,26-04-2024,40595,North America
+Human Error,27-04-2024,24352,North America
+Human Error,28-04-2024,72622,Asia-Pacific
+Compliance Breach,29-04-2024,10020,Latin America
+Human Error,30-04-2024,71389,Europe
+Human Error,01-05-2024,36093,North America
+Compliance Breach,02-05-2024,11136,Europe
+Compliance Breach,03-05-2024,10015,North America
+Fraud,04-05-2024,21349,Europe
+Compliance Breach,05-05-2024,39017,Asia-Pacific
+Fraud,06-05-2024,26462,North America
+Fraud,07-05-2024,18874,Latin America
+Fraud,08-05-2024,42846,Latin America
+IT Failure,09-05-2024,77341,Latin America
+Compliance Breach,10-05-2024,50376,North America
+Fraud,11-05-2024,32287,North America
+IT Failure,12-05-2024,95816,North America
+IT Failure,13-05-2024,15295,Asia-Pacific
+IT Failure,14-05-2024,99339,North America
+IT Failure,15-05-2024,35449,North America
+IT Failure,16-05-2024,60882,North America
+IT Failure,17-05-2024,15050,Latin America
+Fraud,18-05-2024,33341,Latin America
+Fraud,19-05-2024,57179,North America
+Compliance Breach,20-05-2024,86185,Latin America
+IT Failure,21-05-2024,57229,Europe
+Fraud,22-05-2024,57943,Europe
+Fraud,23-05-2024,94556,North America
+Compliance Breach,24-05-2024,21519,North America
+Compliance Breach,25-05-2024,95151,Europe
+Fraud,26-05-2024,31280,North America
+IT Failure,27-05-2024,76214,Europe
+Fraud,28-05-2024,68586,Latin America
+Fraud,29-05-2024,32519,Asia-Pacific
+Compliance Breach,30-05-2024,84596,Latin America
+Compliance Breach,31-05-2024,17001,Asia-Pacific
+Fraud,01-06-2024,8265,Europe
+IT Failure,02-06-2024,90318,Europe
+Human Error,03-06-2024,47518,North America
+Compliance Breach,04-06-2024,74319,Europe
+Compliance Breach,05-06-2024,97041,Asia-Pacific
+IT Failure,06-06-2024,10432,Asia-Pacific
+Human Error,07-06-2024,84815,Asia-Pacific
+Compliance Breach,08-06-2024,94427,Europe
+Human Error,09-06-2024,51701,Asia-Pacific
+Compliance Breach,10-06-2024,9824,North America
+Human Error,11-06-2024,88741,Europe
+Compliance Breach,12-06-2024,83431,Europe
+Compliance Breach,13-06-2024,24557,Latin America
+Fraud,14-06-2024,53072,Latin America
+Human Error,15-06-2024,53270,Europe
+IT Failure,16-06-2024,73592,Asia-Pacific
+IT Failure,17-06-2024,12821,Asia-Pacific
+Fraud,18-06-2024,68068,Europe
+Human Error,19-06-2024,53191,Asia-Pacific
+Human Error,20-06-2024,47668,Latin America
+IT Failure,21-06-2024,42042,North America
+Human Error,22-06-2024,85214,Europe
+Fraud,23-06-2024,79274,North America
+Compliance Breach,24-06-2024,51594,Latin America
+Fraud,25-06-2024,80635,Asia-Pacific
+Fraud,26-06-2024,25099,Asia-Pacific
+Fraud,27-06-2024,87385,North America
+Fraud,28-06-2024,82049,Latin America
+IT Failure,29-06-2024,77252,North America
+Human Error,30-06-2024,22394,Latin America
+Compliance Breach,01-07-2024,51507,Europe
+Fraud,02-07-2024,57728,Asia-Pacific
+Human Error,03-07-2024,19933,Asia-Pacific
+IT Failure,04-07-2024,66928,Europe
+Fraud,05-07-2024,9447,Latin America
+Fraud,06-07-2024,75830,Europe
+Fraud,07-07-2024,82794,Asia-Pacific
+IT Failure,08-07-2024,19193,North America
+Fraud,09-07-2024,49202,Asia-Pacific
+Fraud,10-07-2024,76191,Latin America
+IT Failure,11-07-2024,92484,Asia-Pacific
+Compliance Breach,12-07-2024,30923,Europe
+IT Failure,13-07-2024,83686,North America
+Fraud,14-07-2024,96030,North America
+Human Error,15-07-2024,11703,Latin America
+Compliance Breach,16-07-2024,47376,North America
+Human Error,17-07-2024,88663,Latin America
+Human Error,18-07-2024,54901,Latin America
+Fraud,19-07-2024,16371,Europe
+IT Failure,20-07-2024,99395,Asia-Pacific
+Compliance Breach,21-07-2024,79331,Asia-Pacific
+Fraud,22-07-2024,78044,North America
+IT Failure,23-07-2024,71922,Europe
+IT Failure,24-07-2024,38089,Asia-Pacific
+Fraud,25-07-2024,29398,Europe
+Compliance Breach,26-07-2024,23821,Europe
+Human Error,27-07-2024,18859,Europe
+IT Failure,28-07-2024,40172,North America
+Human Error,29-07-2024,15767,Europe
+Fraud,30-07-2024,45517,Europe
+Fraud,31-07-2024,53282,Asia-Pacific
+Compliance Breach,01-08-2024,5499,North America
+Fraud,02-08-2024,35241,Asia-Pacific
+IT Failure,03-08-2024,55271,North America
+IT Failure,04-08-2024,90270,North America
+Compliance Breach,05-08-2024,79725,Asia-Pacific
+IT Failure,06-08-2024,5345,North America
+Human Error,07-08-2024,93153,Asia-Pacific
+Fraud,08-08-2024,68089,Asia-Pacific
+Human Error,09-08-2024,87494,Asia-Pacific
+Fraud,10-08-2024,60780,Europe
+Human Error,11-08-2024,24197,North America
+IT Failure,12-08-2024,46309,North America
+IT Failure,13-08-2024,25836,Latin America
+Compliance Breach,14-08-2024,54453,Europe
+Human Error,15-08-2024,80722,Latin America
+IT Failure,16-08-2024,56244,Asia-Pacific
+Human Error,17-08-2024,49574,Latin America
+Compliance Breach,18-08-2024,13637,Asia-Pacific
+Compliance Breach,19-08-2024,7652,Europe
+IT Failure,20-08-2024,78698,Europe
+IT Failure,21-08-2024,97084,Asia-Pacific
+Human Error,22-08-2024,39709,North America
+Compliance Breach,23-08-2024,70393,Latin America
+Compliance Breach,24-08-2024,72109,Latin America
+Compliance Breach,25-08-2024,82272,Europe
+Fraud,26-08-2024,11004,Europe
+Compliance Breach,27-08-2024,94065,North America
+Fraud,28-08-2024,18715,Europe
+Compliance Breach,29-08-2024,40394,Europe
+Human Error,30-08-2024,86402,Asia-Pacific
+IT Failure,31-08-2024,43512,North America
+Fraud,01-09-2024,50297,Latin America
+Human Error,02-09-2024,73352,Latin America
+Human Error,03-09-2024,6428,North America
+IT Failure,04-09-2024,87887,North America
+IT Failure,05-09-2024,44932,Latin America
+Compliance Breach,06-09-2024,95517,North America
+Human Error,07-09-2024,21425,Europe
+IT Failure,08-09-2024,12480,Latin America
+IT Failure,09-09-2024,83357,North America
+Compliance Breach,10-09-2024,84205,North America
+Compliance Breach,11-09-2024,70047,North America
+IT Failure,12-09-2024,25070,Europe
+Compliance Breach,13-09-2024,53418,Europe
+Fraud,14-09-2024,6904,Latin America
+IT Failure,15-09-2024,24771,Europe
+IT Failure,16-09-2024,80776,Asia-Pacific
+Compliance Breach,17-09-2024,46274,North America
+Fraud,18-09-2024,64252,North America
+Compliance Breach,19-09-2024,67638,Latin America
+Human Error,20-09-2024,57275,Europe
+Fraud,21-09-2024,10057,Asia-Pacific
+IT Failure,22-09-2024,92145,Asia-Pacific
+Human Error,23-09-2024,84965,North America
+IT Failure,24-09-2024,78814,Asia-Pacific
+Fraud,25-09-2024,43007,Latin America
+Compliance Breach,26-09-2024,8253,North America
+Compliance Breach,27-09-2024,93316,Latin America
+Fraud,28-09-2024,28228,North America
+Fraud,29-09-2024,78813,North America
+Fraud,30-09-2024,59344,Europe
+Human Error,01-10-2024,66843,North America
+IT Failure,02-10-2024,5189,Europe
+Fraud,03-10-2024,86584,Europe
+Compliance Breach,04-10-2024,78633,Latin America
+IT Failure,05-10-2024,82282,Latin America
+IT Failure,06-10-2024,41004,Asia-Pacific
+Human Error,07-10-2024,45131,North America
+IT Failure,08-10-2024,60771,Latin America
+Fraud,09-10-2024,14446,Europe
+Fraud,10-10-2024,81439,Europe
+Human Error,11-10-2024,51000,Europe
+IT Failure,12-10-2024,21375,Latin America
+Human Error,13-10-2024,56760,North America
+Fraud,14-10-2024,10546,Asia-Pacific
+IT Failure,15-10-2024,13804,Latin America
+Compliance Breach,16-10-2024,17461,Latin America
+Compliance Breach,17-10-2024,82171,Europe
+Fraud,18-10-2024,88841,Asia-Pacific
+IT Failure,19-10-2024,68935,North America
+Compliance Breach,20-10-2024,19767,Asia-Pacific
+Human Error,21-10-2024,85476,Latin America
+Human Error,22-10-2024,14027,Latin America
+Human Error,23-10-2024,12029,Latin America
+Fraud,24-10-2024,64752,North America
+Fraud,25-10-2024,43325,Latin America
+Human Error,26-10-2024,89536,Asia-Pacific
+Fraud,27-10-2024,75298,Latin America
+IT Failure,28-10-2024,86656,North America
+IT Failure,29-10-2024,63767,North America
+Fraud,30-10-2024,7246,Europe
+Human Error,31-10-2024,51628,Latin America
+Fraud,01-11-2024,86653,North America
+IT Failure,02-11-2024,17207,North America
+IT Failure,03-11-2024,58598,Latin America
+Compliance Breach,04-11-2024,34125,Europe
+Human Error,05-11-2024,55499,North America
+Fraud,06-11-2024,51913,North America
+Human Error,07-11-2024,61181,Asia-Pacific
+Compliance Breach,08-11-2024,17001,Europe
+Compliance Breach,09-11-2024,93375,Asia-Pacific
+Human Error,10-11-2024,65318,Europe
+Human Error,11-11-2024,63482,Asia-Pacific
+Compliance Breach,12-11-2024,93817,North America
+IT Failure,13-11-2024,13967,Latin America
+Fraud,14-11-2024,99703,Latin America
+Human Error,15-11-2024,73478,North America
+Fraud,16-11-2024,22310,Europe
+Human Error,17-11-2024,32045,Latin America
+Fraud,18-11-2024,53171,Europe
+Human Error,19-11-2024,58739,Europe
+Fraud,20-11-2024,40171,Europe
+Fraud,21-11-2024,55341,North America
+Fraud,22-11-2024,34803,Asia-Pacific
+IT Failure,23-11-2024,55416,Asia-Pacific
+Fraud,24-11-2024,68520,Europe
+Human Error,25-11-2024,38093,Latin America
+Human Error,26-11-2024,52986,Asia-Pacific
+Fraud,27-11-2024,71339,Europe
+Compliance Breach,28-11-2024,56942,North America
+IT Failure,29-11-2024,24283,North America
+Fraud,30-11-2024,32904,Latin America
+Human Error,01-12-2024,86832,Asia-Pacific
+Fraud,02-12-2024,7539,Europe
+Fraud,03-12-2024,88466,Latin America
+Fraud,04-12-2024,25669,North America
+Compliance Breach,05-12-2024,93644,Europe
+Human Error,06-12-2024,95482,Asia-Pacific
+Compliance Breach,07-12-2024,43972,Europe
+Fraud,08-12-2024,26296,Latin America
+Human Error,09-12-2024,62794,Latin America
+Human Error,10-12-2024,93438,North America
+Human Error,11-12-2024,21588,Asia-Pacific
+Human Error,12-12-2024,91602,Europe
+IT Failure,13-12-2024,21857,Europe
+IT Failure,14-12-2024,13370,Europe
+IT Failure,15-12-2024,27329,Europe
+Fraud,16-12-2024,53735,Asia-Pacific
+Human Error,17-12-2024,72508,Europe
+Fraud,18-12-2024,89314,North America
+Fraud,19-12-2024,75811,Asia-Pacific
+Human Error,20-12-2024,87532,North America
+Human Error,21-12-2024,20909,Asia-Pacific
+Human Error,22-12-2024,22907,North America
+Compliance Breach,23-12-2024,81581,North America
+Fraud,24-12-2024,47826,Asia-Pacific
+IT Failure,25-12-2024,23675,Latin America
+Human Error,26-12-2024,53879,Latin America
+Fraud,27-12-2024,77425,Asia-Pacific
+IT Failure,28-12-2024,33029,Asia-Pacific
+IT Failure,29-12-2024,74274,Asia-Pacific
+Fraud,30-12-2024,85593,Latin America
+IT Failure,31-12-2024,35811,North America
+Human Error,01-01-2025,45970,Europe
+IT Failure,02-01-2025,18835,Europe
+IT Failure,03-01-2025,65419,Latin America
+Human Error,04-01-2025,77511,North America
+Human Error,05-01-2025,97815,Europe
+Human Error,06-01-2025,94718,North America
+Human Error,07-01-2025,70313,Europe
+Compliance Breach,08-01-2025,46912,North America
+Human Error,09-01-2025,59565,North America
+Human Error,10-01-2025,69838,North America
+Compliance Breach,11-01-2025,25821,Europe
+Fraud,12-01-2025,14968,North America
+IT Failure,13-01-2025,11023,Asia-Pacific
+Human Error,14-01-2025,76869,Asia-Pacific
+Fraud,15-01-2025,13995,North America
+Compliance Breach,16-01-2025,27265,Europe
+Human Error,17-01-2025,17958,Europe
+IT Failure,18-01-2025,8406,Asia-Pacific
+Fraud,19-01-2025,32082,Asia-Pacific
+Compliance Breach,20-01-2025,88152,Latin America
+Fraud,21-01-2025,23828,Europe
+Fraud,22-01-2025,86250,Europe
+IT Failure,23-01-2025,14910,Latin America
+Compliance Breach,24-01-2025,58340,North America
+Compliance Breach,25-01-2025,51376,Latin America
+Fraud,26-01-2025,92281,Europe
+Fraud,27-01-2025,21566,Asia-Pacific
+IT Failure,28-01-2025,27968,Latin America
+IT Failure,29-01-2025,87742,Latin America
+Compliance Breach,30-01-2025,41773,North America
+Compliance Breach,31-01-2025,30636,Europe
+Compliance Breach,01-02-2025,43580,Europe
+Human Error,02-02-2025,64049,Latin America
+Fraud,03-02-2025,94327,Latin America
+Human Error,04-02-2025,31907,Europe
+IT Failure,05-02-2025,96867,Latin America
+Human Error,06-02-2025,95422,North America
+Compliance Breach,07-02-2025,28558,Asia-Pacific
+IT Failure,08-02-2025,76512,Latin America
+Fraud,09-02-2025,86008,North America
+Fraud,10-02-2025,35543,Latin America
+Compliance Breach,11-02-2025,55186,Latin America
+Compliance Breach,12-02-2025,98374,Europe
+Fraud,13-02-2025,11004,North America
+Compliance Breach,14-02-2025,50121,North America
+Human Error,15-02-2025,54639,Latin America
+Fraud,16-02-2025,46820,Latin America
+Compliance Breach,17-02-2025,40107,Asia-Pacific
+Fraud,18-02-2025,74428,Asia-Pacific
+Fraud,19-02-2025,62484,Latin America
+Fraud,20-02-2025,33024,Europe
+Human Error,21-02-2025,45750,Latin America
+IT Failure,22-02-2025,7980,Europe
+Compliance Breach,23-02-2025,79739,Latin America
+IT Failure,24-02-2025,72583,Asia-Pacific
+Compliance Breach,25-02-2025,46995,North America
+Human Error,26-02-2025,18462,Europe
+IT Failure,27-02-2025,70928,Latin America
+Human Error,28-02-2025,28210,North America
+Fraud,01-03-2025,18260,Europe
+Human Error,02-03-2025,19544,Europe
+Fraud,03-03-2025,11253,North America
+Fraud,04-03-2025,58665,Europe
+Compliance Breach,05-03-2025,48799,Europe
+Compliance Breach,06-03-2025,6918,Asia-Pacific
+Fraud,07-03-2025,84122,North America
+Human Error,08-03-2025,43171,Europe
+Human Error,09-03-2025,20756,North America
+Human Error,10-03-2025,98830,Asia-Pacific
+Fraud,11-03-2025,31851,Latin America
+Compliance Breach,12-03-2025,77281,North America
+Compliance Breach,13-03-2025,76979,Latin America
+Compliance Breach,14-03-2025,95129,Asia-Pacific
+Compliance Breach,15-03-2025,88091,Latin America
+Human Error,16-03-2025,43991,Asia-Pacific
+Compliance Breach,17-03-2025,98694,Asia-Pacific
+IT Failure,18-03-2025,79824,Asia-Pacific
+IT Failure,19-03-2025,93978,Europe
+Human Error,20-03-2025,79347,Latin America
+Fraud,21-03-2025,6297,Latin America
+IT Failure,22-03-2025,68146,North America
+Fraud,23-03-2025,67883,North America
+Compliance Breach,24-03-2025,63261,North America
+Fraud,25-03-2025,50346,Europe
+Compliance Breach,26-03-2025,89163,North America
+Compliance Breach,27-03-2025,75655,Europe
+IT Failure,28-03-2025,54581,Asia-Pacific
+IT Failure,29-03-2025,57635,Latin America
+IT Failure,30-03-2025,54400,Latin America
+Compliance Breach,31-03-2025,73600,Asia-Pacific
+Compliance Breach,01-04-2025,35872,Europe
+Human Error,02-04-2025,80214,Europe
+Human Error,03-04-2025,40967,Asia-Pacific
+Compliance Breach,04-04-2025,78057,Europe
+IT Failure,05-04-2025,90956,North America
+Fraud,06-04-2025,79227,Asia-Pacific
+IT Failure,07-04-2025,27308,Latin America
+IT Failure,08-04-2025,95963,Asia-Pacific
+Fraud,09-04-2025,46637,Asia-Pacific
+Compliance Breach,10-04-2025,56991,Asia-Pacific
+Fraud,11-04-2025,58821,Latin America
+Fraud,12-04-2025,99608,Europe
+IT Failure,13-04-2025,37571,Latin America
+Human Error,14-04-2025,60509,Europe
+Human Error,15-04-2025,90247,Europe
+Fraud,16-04-2025,26932,Latin America
+IT Failure,17-04-2025,77376,Europe
+Fraud,18-04-2025,92745,Asia-Pacific
+Fraud,19-04-2025,10495,Asia-Pacific
+Compliance Breach,20-04-2025,81606,Europe
+Compliance Breach,21-04-2025,50297,Latin America
+IT Failure,22-04-2025,13717,Asia-Pacific
+Compliance Breach,23-04-2025,29109,Latin America
+IT Failure,24-04-2025,53525,Europe
+Human Error,25-04-2025,27653,North America
+IT Failure,26-04-2025,12134,Europe
+IT Failure,27-04-2025,48826,Asia-Pacific
+IT Failure,28-04-2025,5312,Asia-Pacific
+IT Failure,29-04-2025,83643,North America
+Compliance Breach,30-04-2025,52671,Latin America
+IT Failure,01-05-2025,63146,Latin America
+Compliance Breach,02-05-2025,43369,Europe
+Compliance Breach,03-05-2025,63699,Europe
+Human Error,04-05-2025,48910,Asia-Pacific
+Compliance Breach,05-05-2025,87792,North America
+IT Failure,06-05-2025,98075,North America
+Fraud,07-05-2025,22359,Latin America
+Human Error,08-05-2025,65637,Asia-Pacific
+Fraud,09-05-2025,42601,Latin America
+Compliance Breach,10-05-2025,33397,North America
+Compliance Breach,11-05-2025,49033,North America
+Fraud,12-05-2025,55825,Latin America
+Fraud,13-05-2025,47054,Asia-Pacific
+IT Failure,14-05-2025,65061,Asia-Pacific
+Fraud,15-05-2025,17265,North America
+IT Failure,16-05-2025,59406,North America
+IT Failure,17-05-2025,92588,North America
+IT Failure,18-05-2025,29297,North America
+Human Error,19-05-2025,85210,Europe
+Human Error,20-05-2025,5801,Asia-Pacific
+IT Failure,21-05-2025,76499,North America
+Compliance Breach,22-05-2025,97929,Europe
+Fraud,23-05-2025,32914,Europe
+Compliance Breach,24-05-2025,79456,North America
+Fraud,25-05-2025,89056,Europe
+IT Failure,26-05-2025,8300,Latin America
+Compliance Breach,27-05-2025,53894,North America
+Human Error,28-05-2025,61172,North America
+Fraud,29-05-2025,72302,North America
+Fraud,30-05-2025,14024,Asia-Pacific
+Fraud,31-05-2025,87833,Asia-Pacific
+Fraud,01-06-2025,59494,Asia-Pacific
+Human Error,02-06-2025,12484,Europe
+Compliance Breach,03-06-2025,71620,Europe
+Compliance Breach,04-06-2025,79803,Latin America
+Human Error,05-06-2025,10800,Europe
+IT Failure,06-06-2025,11435,Europe
+IT Failure,07-06-2025,33543,Asia-Pacific
+IT Failure,08-06-2025,31844,Latin America
+Compliance Breach,09-06-2025,43919,Asia-Pacific
+Fraud,10-06-2025,28658,Europe
+IT Failure,11-06-2025,87083,Latin America
+Human Error,12-06-2025,23343,North America
+Human Error,13-06-2025,56612,Asia-Pacific
+Compliance Breach,14-06-2025,20857,Latin America
+Compliance Breach,15-06-2025,66536,Asia-Pacific
+IT Failure,16-06-2025,47133,Europe
+Human Error,17-06-2025,97320,Latin America
+Fraud,18-06-2025,98686,Europe
+Fraud,19-06-2025,51245,Latin America
+Human Error,20-06-2025,92852,Latin America
+IT Failure,21-06-2025,86893,Asia-Pacific
+Human Error,22-06-2025,78471,Asia-Pacific
+Compliance Breach,23-06-2025,91857,Latin America
+Fraud,24-06-2025,43659,Asia-Pacific
+Human Error,25-06-2025,11729,Latin America
+Fraud,26-06-2025,23889,North America
+Human Error,27-06-2025,10322,Europe
+IT Failure,28-06-2025,21397,Asia-Pacific
+IT Failure,29-06-2025,38393,Latin America
+IT Failure,30-06-2025,79309,Europe
+IT Failure,01-07-2025,99258,Europe
+Fraud,02-07-2025,43171,Asia-Pacific
+Human Error,03-07-2025,42714,Asia-Pacific
+Human Error,04-07-2025,22969,Europe
+IT Failure,05-07-2025,64808,Europe
+Compliance Breach,06-07-2025,56766,Latin America
+Fraud,07-07-2025,89275,Latin America
+Compliance Breach,08-07-2025,21001,North America
+Fraud,09-07-2025,65268,Asia-Pacific
+IT Failure,10-07-2025,8384,Europe
+Fraud,11-07-2025,71400,Asia-Pacific
+Fraud,12-07-2025,27541,Latin America
+IT Failure,13-07-2025,94980,Latin America
+Fraud,14-07-2025,70847,Europe
+Compliance Breach,15-07-2025,24510,Asia-Pacific
+Human Error,16-07-2025,20200,Latin America
+IT Failure,17-07-2025,80911,North America
+Human Error,18-07-2025,65966,Europe
+Compliance Breach,19-07-2025,14624,Europe
+Compliance Breach,20-07-2025,87001,North America
+Fraud,21-07-2025,12706,Asia-Pacific
+Human Error,22-07-2025,72449,Latin America
+Human Error,23-07-2025,99323,Latin America
+Human Error,24-07-2025,32869,North America
+IT Failure,25-07-2025,26708,Europe
+IT Failure,26-07-2025,48334,North America
+IT Failure,27-07-2025,56417,Europe
+IT Failure,28-07-2025,98990,Europe
+Human Error,29-07-2025,63334,Latin America
+Fraud,30-07-2025,57181,Asia-Pacific
+Fraud,31-07-2025,15912,North America
+Compliance Breach,01-08-2025,45140,North America
+Human Error,02-08-2025,91132,North America
+IT Failure,03-08-2025,33836,Asia-Pacific
+Human Error,04-08-2025,38347,Latin America
+Fraud,05-08-2025,34709,North America
+Human Error,06-08-2025,10407,Europe
+Fraud,07-08-2025,40070,Europe
+Fraud,08-08-2025,39834,Asia-Pacific
+Human Error,09-08-2025,44179,Europe
+Compliance Breach,10-08-2025,63036,Asia-Pacific
+Fraud,11-08-2025,46130,Europe
+Human Error,12-08-2025,58559,North America
+IT Failure,13-08-2025,78945,Latin America
+Fraud,14-08-2025,47857,Latin America
+Fraud,15-08-2025,69022,North America
+Fraud,16-08-2025,95965,Asia-Pacific
+IT Failure,17-08-2025,48886,Latin America
+Fraud,18-08-2025,66186,North America
+IT Failure,19-08-2025,74652,Latin America
+Fraud,20-08-2025,92395,Latin America
+IT Failure,21-08-2025,26935,Latin America
+Human Error,22-08-2025,33883,Latin America
+Human Error,23-08-2025,10383,Asia-Pacific
+IT Failure,24-08-2025,43084,North America
+IT Failure,25-08-2025,39662,Asia-Pacific
+IT Failure,26-08-2025,11104,Europe
+Fraud,27-08-2025,59031,Latin America
+Fraud,28-08-2025,33734,Asia-Pacific
+Compliance Breach,29-08-2025,25148,Asia-Pacific
+IT Failure,30-08-2025,68470,North America
+Human Error,31-08-2025,88507,Europe
+Fraud,01-09-2025,31657,Europe
+IT Failure,02-09-2025,78137,Asia-Pacific
+Fraud,03-09-2025,83165,Latin America
+Compliance Breach,04-09-2025,67955,Europe
+Compliance Breach,05-09-2025,58032,Europe
+Fraud,06-09-2025,57885,Asia-Pacific
+Fraud,07-09-2025,85348,North America
+Human Error,08-09-2025,92452,Asia-Pacific
+Human Error,09-09-2025,9628,Latin America
+Compliance Breach,10-09-2025,7871,Latin America
+Human Error,11-09-2025,24504,Latin America
+Human Error,12-09-2025,16927,Latin America
+IT Failure,13-09-2025,41862,Asia-Pacific
+Compliance Breach,14-09-2025,46674,Latin America
+Compliance Breach,15-09-2025,29891,Asia-Pacific
+IT Failure,16-09-2025,46175,Europe
+Fraud,17-09-2025,65988,Europe
+Fraud,18-09-2025,22044,Europe
+Fraud,19-09-2025,32382,Europe
+Compliance Breach,20-09-2025,18116,Latin America
+Compliance Breach,21-09-2025,41043,Asia-Pacific
+Fraud,22-09-2025,7394,North America
+Fraud,23-09-2025,10894,Asia-Pacific
+Fraud,24-09-2025,36583,North America
+Human Error,25-09-2025,47320,Europe
+Compliance Breach,26-09-2025,20227,Asia-Pacific
+Human Error,27-09-2025,35869,North America
+Fraud,28-09-2025,30475,Europe
+Fraud,29-09-2025,61093,Latin America
+Fraud,30-09-2025,11040,North America
+Compliance Breach,01-10-2025,42901,Latin America
+Compliance Breach,02-10-2025,35598,Latin America
+IT Failure,03-10-2025,75784,North America
+Compliance Breach,04-10-2025,43200,Asia-Pacific
+Compliance Breach,05-10-2025,92452,North America
+Fraud,06-10-2025,40144,Europe
+Compliance Breach,07-10-2025,87201,Asia-Pacific
+Human Error,08-10-2025,19421,Europe
+Human Error,09-10-2025,15001,Europe
+Human Error,10-10-2025,49637,Latin America
+Human Error,11-10-2025,36916,Asia-Pacific
+Fraud,12-10-2025,37206,Asia-Pacific
+Human Error,13-10-2025,79627,Latin America
+Compliance Breach,14-10-2025,26512,North America
+Human Error,15-10-2025,51110,Asia-Pacific
+Fraud,16-10-2025,92489,North America
+IT Failure,17-10-2025,43209,Europe
+Compliance Breach,18-10-2025,71097,Latin America
+Fraud,19-10-2025,63652,Europe
+Human Error,20-10-2025,76301,North America
+Human Error,21-10-2025,93284,Europe
+Fraud,22-10-2025,16923,Europe
+IT Failure,23-10-2025,43847,Asia-Pacific
+IT Failure,24-10-2025,98642,Asia-Pacific
+Fraud,25-10-2025,11952,Europe
+Human Error,26-10-2025,6664,Latin America
+Compliance Breach,27-10-2025,60032,Europe
+Human Error,28-10-2025,16806,Latin America
+Compliance Breach,29-10-2025,65521,Latin America
+IT Failure,30-10-2025,44961,Asia-Pacific
+IT Failure,31-10-2025,19332,Latin America
+Fraud,01-11-2025,59027,Asia-Pacific
+Human Error,02-11-2025,41730,Europe
+Fraud,03-11-2025,92750,Asia-Pacific
+Fraud,04-11-2025,64417,Asia-Pacific
+Compliance Breach,05-11-2025,74948,North America
+Human Error,06-11-2025,82464,Latin America
+Human Error,07-11-2025,32377,North America
+Fraud,08-11-2025,59487,Europe
+Fraud,09-11-2025,95492,Latin America
+Human Error,10-11-2025,57200,Asia-Pacific
+Human Error,11-11-2025,94400,Europe
+Fraud,12-11-2025,96603,Asia-Pacific
+IT Failure,13-11-2025,60218,North America
+IT Failure,14-11-2025,95273,Europe
+IT Failure,15-11-2025,92816,Asia-Pacific
+Fraud,16-11-2025,81360,Europe
+IT Failure,17-11-2025,35962,Europe
+Compliance Breach,18-11-2025,80842,Europe
+Fraud,19-11-2025,28558,North America
+Compliance Breach,20-11-2025,83113,Europe
+Compliance Breach,21-11-2025,19158,Latin America
+Fraud,22-11-2025,57895,North America
+IT Failure,23-11-2025,57151,Europe
+Human Error,24-11-2025,72718,Europe
+IT Failure,25-11-2025,80325,Europe
+Human Error,26-11-2025,81591,North America
+IT Failure,27-11-2025,94708,Europe
+Fraud,28-11-2025,7364,Asia-Pacific
+Compliance Breach,29-11-2025,93561,Asia-Pacific
+Human Error,30-11-2025,12570,Europe
+IT Failure,01-12-2025,97335,Asia-Pacific
+Fraud,02-12-2025,77897,Latin America
+IT Failure,03-12-2025,44431,North America
+Compliance Breach,04-12-2025,89294,Europe
+Compliance Breach,05-12-2025,59908,North America
+Compliance Breach,06-12-2025,26310,Europe
+IT Failure,07-12-2025,7934,North America
+IT Failure,08-12-2025,21046,North America
+Compliance Breach,09-12-2025,12319,North America
+IT Failure,10-12-2025,14464,North America
+IT Failure,11-12-2025,30758,Asia-Pacific
+Human Error,12-12-2025,24352,Europe
+Fraud,13-12-2025,71343,North America
+Fraud,14-12-2025,99454,Europe
+Human Error,15-12-2025,33864,North America
+IT Failure,16-12-2025,59615,North America
+Fraud,17-12-2025,61319,North America
+Human Error,18-12-2025,20210,Europe
+Human Error,19-12-2025,88822,Latin America
+Fraud,20-12-2025,87463,Europe
+IT Failure,21-12-2025,25049,Asia-Pacific
+IT Failure,22-12-2025,86304,Asia-Pacific
+Human Error,23-12-2025,30010,Europe
+Fraud,24-12-2025,35682,Asia-Pacific
+Fraud,25-12-2025,14386,Latin America
+IT Failure,26-12-2025,53724,Latin America
+Compliance Breach,27-12-2025,18787,Latin America
+Compliance Breach,28-12-2025,58669,Europe
+IT Failure,29-12-2025,45648,North America
+Fraud,30-12-2025,10551,Asia-Pacific
+Human Error,31-12-2025,63089,Europe
+Compliance Breach,01-01-2026,28329,Latin America
+Compliance Breach,02-01-2026,92294,Asia-Pacific
+Human Error,03-01-2026,47310,Latin America
+Human Error,04-01-2026,56700,Asia-Pacific
+Fraud,05-01-2026,39089,North America
+Human Error,06-01-2026,78991,North America
+Compliance Breach,07-01-2026,18769,Latin America
+Human Error,08-01-2026,66663,North America
+Human Error,09-01-2026,12225,Latin America
+Human Error,10-01-2026,32631,Latin America
+IT Failure,11-01-2026,46924,Europe
+Human Error,12-01-2026,50338,Europe
+IT Failure,13-01-2026,48204,North America
+Compliance Breach,14-01-2026,71393,Asia-Pacific
+Compliance Breach,15-01-2026,49886,North America
+Fraud,16-01-2026,84318,Latin America
+IT Failure,17-01-2026,61156,Europe
+Compliance Breach,18-01-2026,40581,Asia-Pacific
+Compliance Breach,19-01-2026,94619,Latin America
+IT Failure,20-01-2026,67331,Latin America
+Human Error,21-01-2026,24424,Asia-Pacific
+Human Error,22-01-2026,41639,Asia-Pacific
+Human Error,23-01-2026,37199,North America
+Compliance Breach,24-01-2026,86839,Europe
+Compliance Breach,25-01-2026,7266,North America
+IT Failure,26-01-2026,11935,Asia-Pacific
+IT Failure,27-01-2026,55823,Asia-Pacific
+Compliance Breach,28-01-2026,79567,Europe
+IT Failure,29-01-2026,57279,Europe
+Human Error,30-01-2026,84317,Latin America
+Compliance Breach,31-01-2026,18432,Asia-Pacific
+Compliance Breach,01-02-2026,57777,North America
+Human Error,02-02-2026,62503,Asia-Pacific
+Human Error,03-02-2026,34801,North America
+Fraud,04-02-2026,29089,North America
+Fraud,05-02-2026,73281,Asia-Pacific
+Fraud,06-02-2026,71617,Latin America
+Compliance Breach,07-02-2026,37603,Asia-Pacific
+Fraud,08-02-2026,85453,Latin America
+IT Failure,09-02-2026,34285,Europe
+IT Failure,10-02-2026,27424,Asia-Pacific
+Fraud,11-02-2026,19093,Europe
+Compliance Breach,12-02-2026,80274,North America
+Compliance Breach,13-02-2026,40543,Europe
+IT Failure,14-02-2026,94452,North America
+Compliance Breach,15-02-2026,64096,Europe
+Human Error,16-02-2026,90269,North America
+Compliance Breach,17-02-2026,45145,Asia-Pacific
+Fraud,18-02-2026,27016,North America
+Compliance Breach,19-02-2026,90492,North America
+Human Error,20-02-2026,19901,North America
+Fraud,21-02-2026,96588,Europe
+Compliance Breach,22-02-2026,16095,Latin America
+Human Error,23-02-2026,19769,Asia-Pacific
+Compliance Breach,24-02-2026,31761,Latin America
+Compliance Breach,25-02-2026,74391,Europe
+IT Failure,26-02-2026,73956,Asia-Pacific
+Fraud,27-02-2026,47355,Latin America
+Human Error,28-02-2026,24200,Latin America
+Compliance Breach,01-03-2026,67938,Europe
+IT Failure,02-03-2026,15825,Asia-Pacific
+Fraud,03-03-2026,53699,Latin America
+IT Failure,04-03-2026,15531,Europe
+Fraud,05-03-2026,68199,Asia-Pacific
+Human Error,06-03-2026,61574,Asia-Pacific
+Compliance Breach,07-03-2026,25626,Europe
+Fraud,08-03-2026,35039,Asia-Pacific
+Fraud,09-03-2026,99346,North America
+Fraud,10-03-2026,66005,Europe
+Fraud,11-03-2026,87380,Europe
+Human Error,12-03-2026,50670,North America
+Fraud,13-03-2026,79366,North America
+Human Error,14-03-2026,38651,Europe
+IT Failure,15-03-2026,57160,North America
+Human Error,16-03-2026,70650,Asia-Pacific
+Fraud,17-03-2026,69365,North America
+Human Error,18-03-2026,82007,North America
+Compliance Breach,19-03-2026,90715,Asia-Pacific
+IT Failure,20-03-2026,66316,Europe
+Compliance Breach,21-03-2026,34393,Latin America
+Human Error,22-03-2026,44407,Latin America
+Compliance Breach,23-03-2026,36777,Europe
+Fraud,24-03-2026,93535,North America
+IT Failure,25-03-2026,50545,Europe
+Fraud,26-03-2026,77388,North America
+Fraud,27-03-2026,30037,North America
+Human Error,28-03-2026,74912,Europe
+Compliance Breach,29-03-2026,45511,Asia-Pacific
+Fraud,30-03-2026,37451,Europe
+Compliance Breach,31-03-2026,70676,Asia-Pacific
+Compliance Breach,01-04-2026,16602,North America
+Compliance Breach,02-04-2026,28090,Latin America
+IT Failure,03-04-2026,77635,North America
+Fraud,04-04-2026,60560,North America
+Compliance Breach,05-04-2026,64791,Europe
+Fraud,06-04-2026,87496,North America
+Compliance Breach,07-04-2026,37697,Asia-Pacific
+IT Failure,08-04-2026,69871,Latin America
+Human Error,09-04-2026,85040,Asia-Pacific
+Fraud,10-04-2026,6060,Latin America
+Human Error,11-04-2026,88864,North America
+Compliance Breach,12-04-2026,66895,Asia-Pacific
+IT Failure,13-04-2026,23274,North America
+Human Error,14-04-2026,47817,Asia-Pacific
+Fraud,15-04-2026,77379,Asia-Pacific
+Compliance Breach,16-04-2026,19006,Asia-Pacific
+Fraud,17-04-2026,31479,Latin America
+Human Error,18-04-2026,48610,Asia-Pacific
+Human Error,19-04-2026,31116,Latin America
+Human Error,20-04-2026,76924,North America
+IT Failure,21-04-2026,57587,Asia-Pacific
+IT Failure,22-04-2026,13923,North America
+Fraud,23-04-2026,51384,Europe
+Compliance Breach,24-04-2026,99548,Latin America
+Human Error,25-04-2026,11475,Europe
+Human Error,26-04-2026,83189,Europe
+Compliance Breach,27-04-2026,98813,Latin America
+Fraud,28-04-2026,38350,Latin America
+Human Error,29-04-2026,83148,North America
+Human Error,30-04-2026,94788,Latin America
+Compliance Breach,01-05-2026,82513,Latin America
+Compliance Breach,02-05-2026,34500,Asia-Pacific
+IT Failure,03-05-2026,73101,Asia-Pacific
+IT Failure,04-05-2026,51395,Latin America
+Compliance Breach,05-05-2026,98117,Asia-Pacific
+Human Error,06-05-2026,48988,Asia-Pacific
+Compliance Breach,07-05-2026,84419,Europe
+IT Failure,08-05-2026,80361,Europe
+Fraud,09-05-2026,35106,Asia-Pacific
+Human Error,10-05-2026,61623,Latin America
+Human Error,11-05-2026,40492,Europe
+Compliance Breach,12-05-2026,44029,North America
+Fraud,13-05-2026,41703,North America
+IT Failure,14-05-2026,41409,Europe
+Fraud,15-05-2026,87528,North America
+Compliance Breach,16-05-2026,15031,Latin America
+IT Failure,17-05-2026,24048,Asia-Pacific
+Compliance Breach,18-05-2026,78288,Latin America
+Fraud,19-05-2026,60396,North America
+Compliance Breach,20-05-2026,51142,Latin America
+Compliance Breach,21-05-2026,83282,Europe
+Human Error,22-05-2026,93030,North America
+IT Failure,23-05-2026,37175,Europe
+Fraud,24-05-2026,78726,Europe
+IT Failure,25-05-2026,69610,Asia-Pacific
+Compliance Breach,26-05-2026,21225,North America
+Compliance Breach,27-05-2026,52956,Latin America
+Human Error,28-05-2026,22610,Asia-Pacific
+IT Failure,29-05-2026,99491,North America
+Human Error,30-05-2026,20903,North America
+Compliance Breach,31-05-2026,16836,Europe
+IT Failure,01-06-2026,15402,North America
+Fraud,02-06-2026,7408,Europe
+Compliance Breach,03-06-2026,41361,Latin America
+IT Failure,04-06-2026,30626,Europe
+Compliance Breach,05-06-2026,7963,Latin America
+Compliance Breach,06-06-2026,81668,Asia-Pacific
+Fraud,07-06-2026,20819,Latin America
+Fraud,08-06-2026,11529,Latin America
+IT Failure,09-06-2026,41185,Latin America
+Fraud,10-06-2026,12379,Asia-Pacific
+Compliance Breach,11-06-2026,48188,North America
+Compliance Breach,12-06-2026,75854,North America
+Compliance Breach,13-06-2026,29399,North America
+IT Failure,14-06-2026,39900,Europe
+Fraud,15-06-2026,72123,Asia-Pacific
+Compliance Breach,16-06-2026,74509,Europe
+Compliance Breach,17-06-2026,80013,North America
+IT Failure,18-06-2026,23991,Europe
+Fraud,19-06-2026,43764,Latin America
+Fraud,20-06-2026,55698,Europe
+IT Failure,21-06-2026,56707,Latin America
+IT Failure,22-06-2026,26146,North America
+Human Error,23-06-2026,88852,Latin America
+Human Error,24-06-2026,52146,Asia-Pacific
+Fraud,25-06-2026,33148,Latin America
+Human Error,26-06-2026,30322,North America
+IT Failure,27-06-2026,60487,North America
+Human Error,28-06-2026,48937,Europe
+Human Error,29-06-2026,70389,Latin America
+Fraud,30-06-2026,47905,Europe
+IT Failure,01-07-2026,39152,North America
+IT Failure,02-07-2026,6663,Asia-Pacific
+Human Error,03-07-2026,67492,North America
+IT Failure,04-07-2026,16414,North America
+Fraud,05-07-2026,86721,Latin America
+Fraud,06-07-2026,82726,Asia-Pacific
+Compliance Breach,07-07-2026,37460,Europe
+Compliance Breach,08-07-2026,24323,Latin America
+Fraud,09-07-2026,6569,North America
+Fraud,10-07-2026,86900,Europe
+Compliance Breach,11-07-2026,52484,North America
+Human Error,12-07-2026,92312,North America
+Fraud,13-07-2026,82558,Asia-Pacific
+Fraud,14-07-2026,80026,North America
+Compliance Breach,15-07-2026,27277,Latin America
+IT Failure,16-07-2026,57045,Europe
+IT Failure,17-07-2026,64237,Asia-Pacific
+Fraud,18-07-2026,77470,Europe
+Fraud,19-07-2026,89784,North America
+Fraud,20-07-2026,97572,Asia-Pacific
+Fraud,21-07-2026,6491,North America
+IT Failure,22-07-2026,71113,Europe
+Fraud,23-07-2026,14269,Latin America
+Human Error,24-07-2026,10152,Latin America
+IT Failure,25-07-2026,45510,Europe
+IT Failure,26-07-2026,34606,Latin America
+Human Error,27-07-2026,18709,Latin America
+IT Failure,28-07-2026,87754,North America
+Compliance Breach,29-07-2026,87807,Asia-Pacific
+Human Error,30-07-2026,25507,Europe
+Human Error,31-07-2026,29622,Europe
+IT Failure,01-08-2026,35119,North America
+Compliance Breach,02-08-2026,10029,Europe
+IT Failure,03-08-2026,80594,Europe
+Compliance Breach,04-08-2026,87378,North America
+Human Error,05-08-2026,17495,North America
+Fraud,06-08-2026,72984,Latin America
+Human Error,07-08-2026,23202,Europe
+IT Failure,08-08-2026,37597,Europe
+Fraud,09-08-2026,78677,North America
+Human Error,10-08-2026,60206,Asia-Pacific
+Compliance Breach,11-08-2026,66818,North America
+IT Failure,12-08-2026,41511,Latin America
+Human Error,13-08-2026,31490,North America
+Fraud,14-08-2026,15612,Europe
+Compliance Breach,15-08-2026,13723,Asia-Pacific
+IT Failure,16-08-2026,16009,North America
+IT Failure,17-08-2026,69780,Asia-Pacific
+Human Error,18-08-2026,61611,North America
+Human Error,19-08-2026,11918,Latin America
+Fraud,20-08-2026,72654,Latin America
+Fraud,21-08-2026,91071,North America
+Compliance Breach,22-08-2026,52083,Latin America
+Human Error,23-08-2026,41741,Latin America
+Human Error,24-08-2026,42338,Asia-Pacific
+IT Failure,25-08-2026,64545,Asia-Pacific
+IT Failure,26-08-2026,88820,Europe
+Human Error,27-08-2026,15023,North America
+Human Error,28-08-2026,7849,Latin America
+Fraud,29-08-2026,92097,Europe
+Fraud,30-08-2026,72298,Latin America
+Compliance Breach,31-08-2026,21329,Latin America
+Fraud,01-09-2026,50911,North America
+Compliance Breach,02-09-2026,23462,Europe
+Compliance Breach,03-09-2026,84447,Europe
+Human Error,04-09-2026,88812,Europe
+Human Error,05-09-2026,16274,North America
+Human Error,06-09-2026,25191,Asia-Pacific
+Human Error,07-09-2026,40833,Latin America
+Human Error,08-09-2026,57041,Asia-Pacific
+Human Error,09-09-2026,61032,Europe
+Compliance Breach,10-09-2026,63375,North America
+Compliance Breach,11-09-2026,23181,North America
+Human Error,12-09-2026,93912,Asia-Pacific
+Human Error,13-09-2026,36387,Asia-Pacific
+IT Failure,14-09-2026,6354,Latin America
+Compliance Breach,15-09-2026,33510,North America
+Fraud,16-09-2026,53094,North America
+Human Error,17-09-2026,42509,North America
+Fraud,18-09-2026,62566,Europe
+Compliance Breach,19-09-2026,24526,North America
+IT Failure,20-09-2026,99428,North America
+IT Failure,21-09-2026,57652,Asia-Pacific
+Fraud,22-09-2026,8274,North America
+Compliance Breach,23-09-2026,37642,Asia-Pacific
+Human Error,24-09-2026,72085,Europe
+Fraud,25-09-2026,93514,Europe
+Compliance Breach,26-09-2026,7356,North America
+Compliance Breach,27-09-2026,22423,Europe
+IT Failure,28-09-2026,91722,North America
+IT Failure,29-09-2026,33502,Latin America
+Human Error,30-09-2026,82437,Europe
+Fraud,01-10-2026,63381,Latin America
+IT Failure,02-10-2026,54982,Asia-Pacific
+Compliance Breach,03-10-2026,50529,Latin America
+IT Failure,04-10-2026,72809,Latin America
+IT Failure,05-10-2026,15909,North America
+Human Error,06-10-2026,72580,Asia-Pacific
+IT Failure,07-10-2026,73687,North America
+Human Error,08-10-2026,96740,Latin America
+Human Error,09-10-2026,11504,Asia-Pacific
+Human Error,10-10-2026,86378,Europe
+Fraud,11-10-2026,79595,Europe
+IT Failure,12-10-2026,94619,Asia-Pacific
+Human Error,13-10-2026,86536,Latin America
+Human Error,14-10-2026,74163,North America
+IT Failure,15-10-2026,80485,Latin America
+IT Failure,16-10-2026,50101,Latin America
+Human Error,17-10-2026,64498,Europe
+IT Failure,18-10-2026,22349,Europe
+Fraud,19-10-2026,22956,Europe
+Human Error,20-10-2026,75732,North America
+IT Failure,21-10-2026,27923,Latin America
+Human Error,22-10-2026,41958,Europe
+IT Failure,23-10-2026,7287,Latin America
+IT Failure,24-10-2026,96770,Europe
+Human Error,25-10-2026,46365,Europe
+Fraud,26-10-2026,65661,Latin America
+Fraud,27-10-2026,82219,North America
+Compliance Breach,28-10-2026,71396,North America
+Human Error,29-10-2026,56980,North America
+Compliance Breach,30-10-2026,92944,Asia-Pacific
+Human Error,31-10-2026,5024,Europe
+Fraud,01-11-2026,58216,Europe
+IT Failure,02-11-2026,39743,North America
+Compliance Breach,03-11-2026,25162,Latin America
+Human Error,04-11-2026,87616,Europe
+Fraud,05-11-2026,60949,North America
+Compliance Breach,06-11-2026,6009,Europe
+Human Error,07-11-2026,13009,Asia-Pacific
+Human Error,08-11-2026,13928,North America
+Compliance Breach,09-11-2026,78752,North America
+Human Error,10-11-2026,56928,North America
+Fraud,11-11-2026,24679,Asia-Pacific
+Fraud,12-11-2026,9022,Europe
+IT Failure,13-11-2026,70353,Latin America
+Human Error,14-11-2026,98115,Europe
+Human Error,15-11-2026,71249,Asia-Pacific
+Fraud,16-11-2026,66897,Latin America
+Human Error,17-11-2026,95087,Asia-Pacific
+Compliance Breach,18-11-2026,22134,North America
+Fraud,19-11-2026,12927,North America
+Human Error,20-11-2026,88402,Europe
+Fraud,21-11-2026,34835,Asia-Pacific
+IT Failure,22-11-2026,89780,North America
+Human Error,23-11-2026,56233,Latin America
+Human Error,24-11-2026,82211,North America
+Fraud,25-11-2026,14553,Europe
+Compliance Breach,26-11-2026,74363,Europe
+Fraud,27-11-2026,39479,Europe
+Fraud,28-11-2026,79865,Asia-Pacific
+Human Error,29-11-2026,12792,North America
+Compliance Breach,30-11-2026,81600,North America
+Human Error,01-12-2026,16252,Europe
+Fraud,02-12-2026,12741,Latin America
+Fraud,03-12-2026,11163,North America
+IT Failure,04-12-2026,46160,Asia-Pacific
+Human Error,05-12-2026,43356,Latin America
+Fraud,06-12-2026,81127,Asia-Pacific
+Compliance Breach,07-12-2026,67093,North America
+Compliance Breach,08-12-2026,46705,North America
+Human Error,09-12-2026,52357,Asia-Pacific
+Fraud,10-12-2026,9884,Asia-Pacific
+Compliance Breach,11-12-2026,60735,Asia-Pacific
+IT Failure,12-12-2026,99341,Europe
+Human Error,13-12-2026,92162,North America
+Fraud,14-12-2026,16997,Asia-Pacific
+Human Error,15-12-2026,58904,Europe
+Compliance Breach,16-12-2026,38862,Latin America
+IT Failure,17-12-2026,67143,Asia-Pacific
+Fraud,18-12-2026,36739,Asia-Pacific
+Fraud,19-12-2026,52708,Latin America
+Human Error,20-12-2026,72717,Latin America
+Fraud,21-12-2026,20597,Latin America
+Fraud,22-12-2026,80142,Latin America
+Human Error,23-12-2026,16976,Latin America
+Compliance Breach,24-12-2026,36673,Asia-Pacific
+Compliance Breach,25-12-2026,56326,North America
+Human Error,26-12-2026,65730,Latin America
+Fraud,27-12-2026,73694,Europe
+Compliance Breach,28-12-2026,44967,Latin America
+Human Error,29-12-2026,39858,Europe
+Compliance Breach,30-12-2026,57266,Asia-Pacific
+Compliance Breach,31-12-2026,35803,Europe
+Fraud,01-01-2027,67407,Europe
+Human Error,02-01-2027,99699,Asia-Pacific
+Fraud,03-01-2027,78868,North America
+Fraud,04-01-2027,16596,North America
+Compliance Breach,05-01-2027,91979,Asia-Pacific
+Fraud,06-01-2027,85141,Asia-Pacific
+Human Error,07-01-2027,19480,Asia-Pacific
+IT Failure,08-01-2027,29395,Europe
+Compliance Breach,09-01-2027,55556,Latin America
+IT Failure,10-01-2027,67162,Latin America
+Human Error,11-01-2027,93446,Europe
+Fraud,12-01-2027,80846,North America
+Fraud,13-01-2027,93591,Latin America
+IT Failure,14-01-2027,37812,North America
+Compliance Breach,15-01-2027,18516,Asia-Pacific
+Fraud,16-01-2027,18227,North America
+Compliance Breach,17-01-2027,33250,Europe
+Compliance Breach,18-01-2027,53959,North America
+IT Failure,19-01-2027,37519,Europe
+Compliance Breach,20-01-2027,45504,Europe
+Compliance Breach,21-01-2027,54436,Latin America
+IT Failure,22-01-2027,78904,Latin America
+IT Failure,23-01-2027,28238,Latin America
+Human Error,24-01-2027,41303,Asia-Pacific
+Compliance Breach,25-01-2027,75432,North America
+Human Error,26-01-2027,30757,Europe
+IT Failure,27-01-2027,16245,Europe
+Fraud,28-01-2027,79860,North America
+Fraud,29-01-2027,66047,Asia-Pacific
+Compliance Breach,30-01-2027,40327,North America
+Human Error,31-01-2027,28918,North America
+IT Failure,01-02-2027,83365,Asia-Pacific
+Human Error,02-02-2027,11346,North America
+Human Error,03-02-2027,95917,Europe
+IT Failure,04-02-2027,70756,Asia-Pacific
+Fraud,05-02-2027,13916,North America
+Fraud,06-02-2027,83826,North America
+Compliance Breach,07-02-2027,61221,Asia-Pacific
+IT Failure,08-02-2027,85878,Latin America
+Fraud,09-02-2027,39953,Europe
+IT Failure,10-02-2027,79241,Europe
+Compliance Breach,11-02-2027,63752,Europe
+Compliance Breach,12-02-2027,49510,Asia-Pacific
+Compliance Breach,13-02-2027,61309,Asia-Pacific
+Human Error,14-02-2027,12206,North America
+IT Failure,15-02-2027,69202,Asia-Pacific
+Fraud,16-02-2027,66394,Europe
+Fraud,17-02-2027,94404,Asia-Pacific
+IT Failure,18-02-2027,51705,Latin America
+IT Failure,19-02-2027,51132,North America
+IT Failure,20-02-2027,36406,North America
+Compliance Breach,21-02-2027,11450,Europe
+IT Failure,22-02-2027,28527,Latin America
+IT Failure,23-02-2027,21404,North America
+Human Error,24-02-2027,54512,Europe
+Human Error,25-02-2027,39901,Asia-Pacific
+Compliance Breach,26-02-2027,95098,Latin America
+Compliance Breach,27-02-2027,88224,North America
+IT Failure,28-02-2027,88508,Latin America
+Fraud,01-03-2027,76406,North America
+Compliance Breach,02-03-2027,38659,Europe
+IT Failure,03-03-2027,60809,Latin America
+Fraud,04-03-2027,21551,North America
+Human Error,05-03-2027,5703,Asia-Pacific
+Compliance Breach,06-03-2027,13553,North America
+Human Error,07-03-2027,44932,Latin America
+Fraud,08-03-2027,19707,North America
+Human Error,09-03-2027,27734,North America
+Human Error,10-03-2027,69189,Europe
+Fraud,11-03-2027,9008,Asia-Pacific
+IT Failure,12-03-2027,45124,Latin America
+Human Error,13-03-2027,85082,Europe
+Human Error,14-03-2027,72545,Europe
+IT Failure,15-03-2027,13916,North America
+IT Failure,16-03-2027,30642,North America
+IT Failure,17-03-2027,24101,Asia-Pacific
+Fraud,18-03-2027,34138,Asia-Pacific
+IT Failure,19-03-2027,10300,Latin America
+Compliance Breach,20-03-2027,38165,Europe
+Human Error,21-03-2027,25199,Latin America
+Compliance Breach,22-03-2027,15483,Europe
+Human Error,23-03-2027,30684,Asia-Pacific
+Fraud,24-03-2027,52325,Europe
+IT Failure,25-03-2027,6142,Asia-Pacific
+Compliance Breach,26-03-2027,46082,North America
+Fraud,27-03-2027,55812,Latin America
+Compliance Breach,28-03-2027,28954,Europe
+Fraud,29-03-2027,35029,Latin America
+Fraud,30-03-2027,68655,Asia-Pacific
+Compliance Breach,31-03-2027,12787,Europe
+Compliance Breach,01-04-2027,81018,Europe
+Compliance Breach,02-04-2027,88767,Asia-Pacific
+Human Error,03-04-2027,70777,Latin America
+Fraud,04-04-2027,79426,Europe
+Fraud,05-04-2027,77865,Latin America
+IT Failure,06-04-2027,12718,Europe
+Human Error,07-04-2027,24022,North America
+Fraud,08-04-2027,40914,North America
+IT Failure,09-04-2027,33919,Europe
+Compliance Breach,10-04-2027,48943,Europe
+IT Failure,11-04-2027,72539,Asia-Pacific
+Human Error,12-04-2027,92880,North America
+Fraud,13-04-2027,85375,North America
+Human Error,14-04-2027,48107,North America
+IT Failure,15-04-2027,21187,Asia-Pacific
+Compliance Breach,16-04-2027,66522,Europe
+Human Error,17-04-2027,45052,North America
+Compliance Breach,18-04-2027,15017,North America
+IT Failure,19-04-2027,99830,Asia-Pacific
+Human Error,20-04-2027,70988,Asia-Pacific
+Fraud,21-04-2027,54388,Asia-Pacific
+Human Error,22-04-2027,75752,North America
+Compliance Breach,23-04-2027,19678,Asia-Pacific
+Human Error,24-04-2027,70183,Asia-Pacific
+Human Error,25-04-2027,5844,Europe
+Fraud,26-04-2027,93041,Asia-Pacific
+Human Error,27-04-2027,97956,Latin America
+IT Failure,28-04-2027,24884,Asia-Pacific
+IT Failure,29-04-2027,53552,Europe
+Fraud,30-04-2027,92147,North America
+Compliance Breach,01-05-2027,29591,Europe
+Human Error,02-05-2027,77988,Latin America
+Human Error,03-05-2027,60097,Asia-Pacific
+Human Error,04-05-2027,82470,Latin America
+Fraud,05-05-2027,94301,Europe
+Compliance Breach,06-05-2027,65295,Asia-Pacific
+Compliance Breach,07-05-2027,46032,Asia-Pacific
+IT Failure,08-05-2027,74758,Asia-Pacific
+Human Error,09-05-2027,37129,Europe
+Fraud,10-05-2027,35774,Europe
+Fraud,11-05-2027,48182,Europe
+IT Failure,12-05-2027,96509,Latin America
+Fraud,13-05-2027,94980,North America
+Compliance Breach,14-05-2027,12574,Asia-Pacific
+IT Failure,15-05-2027,77494,North America
+Compliance Breach,16-05-2027,97397,Europe
+Compliance Breach,17-05-2027,48736,Latin America
+Human Error,18-05-2027,45838,Latin America
+Compliance Breach,19-05-2027,22351,Europe
+Fraud,20-05-2027,81789,Europe
+Fraud,21-05-2027,42667,Asia-Pacific
+Human Error,22-05-2027,14525,Latin America
+Human Error,23-05-2027,52377,Europe
+Compliance Breach,24-05-2027,16015,Asia-Pacific
+Compliance Breach,25-05-2027,70723,North America
+IT Failure,26-05-2027,93222,Europe
+Human Error,27-05-2027,11081,Asia-Pacific
+IT Failure,28-05-2027,53870,North America
+Human Error,29-05-2027,30496,Asia-Pacific
+Compliance Breach,30-05-2027,61016,Latin America
+Compliance Breach,31-05-2027,93715,Latin America
+Compliance Breach,01-06-2027,89677,Latin America
+Human Error,02-06-2027,38440,Europe
+Human Error,03-06-2027,58058,Latin America
+Compliance Breach,04-06-2027,26999,Europe
+Human Error,05-06-2027,71249,Latin America
+Human Error,06-06-2027,13597,North America
+Compliance Breach,07-06-2027,98243,Asia-Pacific
+Compliance Breach,08-06-2027,48229,Asia-Pacific
+Compliance Breach,09-06-2027,49511,Asia-Pacific
+Fraud,10-06-2027,98858,North America
+Compliance Breach,11-06-2027,88742,Latin America
+Fraud,12-06-2027,45685,North America
+IT Failure,13-06-2027,71191,Latin America
+IT Failure,14-06-2027,23746,Europe
+IT Failure,15-06-2027,5995,Latin America
+Compliance Breach,16-06-2027,19107,Latin America
+IT Failure,17-06-2027,93030,Latin America
+Compliance Breach,18-06-2027,52912,North America
+Fraud,19-06-2027,70631,North America
+Human Error,20-06-2027,33655,Asia-Pacific
+Compliance Breach,21-06-2027,44467,Latin America
+IT Failure,22-06-2027,66399,North America
+Fraud,23-06-2027,49602,Latin America
+Fraud,24-06-2027,69128,Europe
+Human Error,25-06-2027,5092,North America
+Fraud,26-06-2027,84177,Asia-Pacific
+Human Error,27-06-2027,5002,Latin America
+Fraud,28-06-2027,66561,Latin America
+Fraud,29-06-2027,35909,North America
+Fraud,30-06-2027,27695,Asia-Pacific
+IT Failure,01-07-2027,45832,Latin America
+Human Error,02-07-2027,48062,Asia-Pacific
+Compliance Breach,03-07-2027,63984,North America
+IT Failure,04-07-2027,28719,Asia-Pacific
+Human Error,05-07-2027,37722,North America
+Compliance Breach,06-07-2027,6308,Asia-Pacific
+IT Failure,07-07-2027,76246,Asia-Pacific
+Human Error,08-07-2027,69358,Europe
+IT Failure,09-07-2027,58361,Asia-Pacific
+Fraud,10-07-2027,96539,Asia-Pacific
+Human Error,11-07-2027,18226,Europe
+Fraud,12-07-2027,23467,Latin America
+IT Failure,13-07-2027,82367,North America
+Fraud,14-07-2027,17155,Asia-Pacific
+Compliance Breach,15-07-2027,84254,Latin America
+Fraud,16-07-2027,42608,Latin America
+Fraud,17-07-2027,62698,Latin America
+Fraud,18-07-2027,35937,Asia-Pacific
+IT Failure,19-07-2027,11750,Asia-Pacific
+Fraud,20-07-2027,58217,Latin America
+Human Error,21-07-2027,52897,North America
+Compliance Breach,22-07-2027,95120,Europe
+Human Error,23-07-2027,9043,Asia-Pacific
+Human Error,24-07-2027,11484,Latin America
+IT Failure,25-07-2027,52269,Asia-Pacific
+IT Failure,26-07-2027,49278,North America
+Compliance Breach,27-07-2027,52177,Latin America
+IT Failure,28-07-2027,6065,Asia-Pacific
+Fraud,29-07-2027,61460,Asia-Pacific
+Compliance Breach,30-07-2027,61047,Latin America
+Compliance Breach,31-07-2027,87524,Europe
+Human Error,01-08-2027,13669,Latin America
+Fraud,02-08-2027,34931,Asia-Pacific
+Compliance Breach,03-08-2027,49880,North America
+Human Error,04-08-2027,26142,Asia-Pacific
+Fraud,05-08-2027,49787,Europe
+Human Error,06-08-2027,31785,Europe
+Compliance Breach,07-08-2027,58317,Latin America
+Compliance Breach,08-08-2027,73575,Asia-Pacific
+Human Error,09-08-2027,46546,North America
+IT Failure,10-08-2027,65307,Latin America
+IT Failure,11-08-2027,90534,Latin America
+Compliance Breach,12-08-2027,69799,North America
+Human Error,13-08-2027,96256,Europe
+Human Error,14-08-2027,77473,North America
+Human Error,15-08-2027,44920,Latin America
+Human Error,16-08-2027,69253,North America
+IT Failure,17-08-2027,54518,Europe
+Human Error,18-08-2027,50325,Europe
+Human Error,19-08-2027,97304,Europe
+IT Failure,20-08-2027,19430,Europe
+Fraud,21-08-2027,92740,Asia-Pacific
+Fraud,22-08-2027,30385,Europe
+IT Failure,23-08-2027,91418,Latin America
+Human Error,24-08-2027,9517,Europe
+Compliance Breach,25-08-2027,42711,Latin America
+Human Error,26-08-2027,38272,North America
+Fraud,27-08-2027,9037,North America
+Fraud,28-08-2027,63786,North America
+Compliance Breach,29-08-2027,39384,North America
+IT Failure,30-08-2027,24063,Europe
+Compliance Breach,31-08-2027,89797,North America
+IT Failure,01-09-2027,64040,Latin America
+Human Error,02-09-2027,34760,Europe
+IT Failure,03-09-2027,44363,Europe
+Compliance Breach,04-09-2027,16825,Latin America
+Compliance Breach,05-09-2027,30028,North America
+Human Error,06-09-2027,50407,Europe
+Human Error,07-09-2027,34152,Latin America
+Human Error,08-09-2027,21899,North America
+Fraud,09-09-2027,6469,Europe
+Human Error,10-09-2027,6718,North America
+Fraud,11-09-2027,58856,Europe
+Compliance Breach,12-09-2027,47225,Latin America
+IT Failure,13-09-2027,34623,North America
+Human Error,14-09-2027,82888,North America
+Fraud,15-09-2027,74244,Europe
+Human Error,16-09-2027,29672,Europe
+Compliance Breach,17-09-2027,85382,Europe
+Human Error,18-09-2027,82433,North America
+Human Error,19-09-2027,44357,Asia-Pacific
+Compliance Breach,20-09-2027,47623,Europe
+Compliance Breach,21-09-2027,94420,Asia-Pacific
+Human Error,22-09-2027,86406,Europe
+Fraud,23-09-2027,74893,Latin America
+IT Failure,24-09-2027,22699,Europe
+Compliance Breach,25-09-2027,91961,Asia-Pacific
+Fraud,26-09-2027,37466,Asia-Pacific
+Human Error,27-09-2027,65047,Asia-Pacific
+Fraud,28-09-2027,39102,North America
+Compliance Breach,29-09-2027,34143,Latin America
+Compliance Breach,30-09-2027,39519,Europe
+Human Error,01-10-2027,58292,Asia-Pacific
+Human Error,02-10-2027,97628,Latin America
+Compliance Breach,03-10-2027,14373,Asia-Pacific
+Fraud,04-10-2027,13502,Asia-Pacific
+Human Error,05-10-2027,53379,Europe
+IT Failure,06-10-2027,87592,Asia-Pacific
+Fraud,07-10-2027,34050,Asia-Pacific
+Compliance Breach,08-10-2027,91744,Latin America
+Fraud,09-10-2027,29064,North America
+Compliance Breach,10-10-2027,34375,Europe
+Fraud,11-10-2027,89834,Latin America
+Compliance Breach,12-10-2027,34489,Asia-Pacific
+Compliance Breach,13-10-2027,7671,Latin America
+Compliance Breach,14-10-2027,68329,Latin America
+Compliance Breach,15-10-2027,42157,North America
+Human Error,16-10-2027,71280,Asia-Pacific
+Compliance Breach,17-10-2027,52673,North America
+Compliance Breach,18-10-2027,66658,Europe
+IT Failure,19-10-2027,34957,Europe
+IT Failure,20-10-2027,72504,Latin America
+Human Error,21-10-2027,80183,Latin America
+IT Failure,22-10-2027,7790,Latin America
+IT Failure,23-10-2027,59976,Europe
+Human Error,24-10-2027,38983,Europe
+IT Failure,25-10-2027,90835,North America
+Human Error,26-10-2027,60871,Europe
+IT Failure,27-10-2027,91054,Asia-Pacific
+IT Failure,28-10-2027,82015,Asia-Pacific
+IT Failure,29-10-2027,12286,Latin America
+Fraud,30-10-2027,17617,Asia-Pacific
+Compliance Breach,31-10-2027,26710,Asia-Pacific
+IT Failure,01-11-2027,76403,Europe
+Fraud,02-11-2027,8381,Europe
+Human Error,03-11-2027,45739,North America
+Fraud,04-11-2027,34635,Latin America
+Compliance Breach,05-11-2027,22034,North America
+Compliance Breach,06-11-2027,33744,Asia-Pacific
+Fraud,07-11-2027,60207,North America
+Human Error,08-11-2027,71598,Europe
+Fraud,09-11-2027,73382,Asia-Pacific
+Fraud,10-11-2027,47693,Europe
+IT Failure,11-11-2027,89832,North America
+IT Failure,12-11-2027,12489,Latin America
+IT Failure,13-11-2027,47312,Asia-Pacific
+Human Error,14-11-2027,56225,Latin America
+Fraud,15-11-2027,13577,North America
+Fraud,16-11-2027,30773,Latin America
+Human Error,17-11-2027,96367,Asia-Pacific
+Fraud,18-11-2027,18466,Europe
+IT Failure,19-11-2027,7872,Latin America
+Compliance Breach,20-11-2027,17619,Europe
+Compliance Breach,21-11-2027,67434,Latin America
+IT Failure,22-11-2027,38404,North America
+Compliance Breach,23-11-2027,79377,Latin America
+Human Error,24-11-2027,24531,North America
+IT Failure,25-11-2027,66076,Asia-Pacific
+IT Failure,26-11-2027,9098,Latin America
+Compliance Breach,27-11-2027,31450,North America
+Fraud,28-11-2027,53596,Asia-Pacific
+IT Failure,29-11-2027,17082,Asia-Pacific
+Fraud,30-11-2027,62228,North America
+Fraud,01-12-2027,85319,Latin America
+Human Error,02-12-2027,96367,North America
+Human Error,03-12-2027,60465,Latin America
+Human Error,04-12-2027,69678,North America
+Compliance Breach,05-12-2027,66604,Asia-Pacific
+Fraud,06-12-2027,59995,Asia-Pacific
+Human Error,07-12-2027,28863,Asia-Pacific
+Human Error,08-12-2027,83128,Latin America
+IT Failure,09-12-2027,52904,Latin America
+Human Error,10-12-2027,55081,Europe
+Compliance Breach,11-12-2027,6763,Asia-Pacific
+Fraud,12-12-2027,29355,Latin America
+Fraud,13-12-2027,75351,Europe
+Human Error,14-12-2027,56723,Europe
+Human Error,15-12-2027,15225,Europe
+Fraud,16-12-2027,77635,North America
+IT Failure,17-12-2027,25270,North America
+Fraud,18-12-2027,67076,Europe
+IT Failure,19-12-2027,33434,North America
+Fraud,20-12-2027,24954,Asia-Pacific
+Fraud,21-12-2027,77995,Asia-Pacific
+Human Error,22-12-2027,83496,Asia-Pacific
+Fraud,23-12-2027,34449,Latin America
+Human Error,24-12-2027,52314,Europe
+Human Error,25-12-2027,7665,North America
+Human Error,26-12-2027,90226,Latin America
+Human Error,27-12-2027,48389,Asia-Pacific
+Compliance Breach,28-12-2027,99649,North America
+IT Failure,29-12-2027,68830,Asia-Pacific
+Fraud,30-12-2027,68392,Europe
+Compliance Breach,31-12-2027,68457,Europe
+Human Error,01-01-2028,97640,North America
+Human Error,02-01-2028,26099,Europe
+IT Failure,03-01-2028,97830,Asia-Pacific
+Fraud,04-01-2028,8000,Europe
+Fraud,05-01-2028,29148,Europe
+Fraud,06-01-2028,37827,Asia-Pacific
+Fraud,07-01-2028,75951,Asia-Pacific
+Human Error,08-01-2028,85655,Europe
+IT Failure,09-01-2028,44630,Europe
+Human Error,10-01-2028,45761,North America
+IT Failure,11-01-2028,99535,Asia-Pacific
+Human Error,12-01-2028,60424,Europe
+Compliance Breach,13-01-2028,27705,Latin America
+Fraud,14-01-2028,13261,Latin America
+IT Failure,15-01-2028,27616,Latin America
+Compliance Breach,16-01-2028,58992,Latin America
+Human Error,17-01-2028,8271,North America
+Compliance Breach,18-01-2028,35559,Asia-Pacific
+Fraud,19-01-2028,53468,Europe
+Human Error,20-01-2028,90650,Latin America
+Human Error,21-01-2028,65247,North America
+Human Error,22-01-2028,28340,North America
+Compliance Breach,23-01-2028,49227,Latin America
+Compliance Breach,24-01-2028,5064,North America
+Human Error,25-01-2028,35492,Asia-Pacific
+Human Error,26-01-2028,19815,North America
+Compliance Breach,27-01-2028,69635,North America
+IT Failure,28-01-2028,24917,Asia-Pacific
+Compliance Breach,29-01-2028,43478,North America
+IT Failure,30-01-2028,12203,Europe
+IT Failure,31-01-2028,54260,North America
+Fraud,01-02-2028,63511,Asia-Pacific
+Human Error,02-02-2028,66513,Europe
+Human Error,03-02-2028,7616,North America
+Fraud,04-02-2028,38986,Europe
+Human Error,05-02-2028,84244,Latin America
+IT Failure,06-02-2028,47838,Europe
+Human Error,07-02-2028,29568,Asia-Pacific
+IT Failure,08-02-2028,13346,Europe
+IT Failure,09-02-2028,77416,Latin America
+Fraud,10-02-2028,24448,North America
+IT Failure,11-02-2028,11982,Asia-Pacific
+Human Error,12-02-2028,33741,North America
+Fraud,13-02-2028,56090,Asia-Pacific
+Compliance Breach,14-02-2028,46299,Europe
+Human Error,15-02-2028,85063,North America
+Human Error,16-02-2028,54494,Europe
+Fraud,17-02-2028,47902,Latin America
+IT Failure,18-02-2028,38968,Latin America
+Compliance Breach,19-02-2028,86874,Europe
+Human Error,20-02-2028,18848,Latin America
+Human Error,21-02-2028,99483,North America
+Compliance Breach,22-02-2028,60610,Latin America
+Fraud,23-02-2028,42467,Europe
+Human Error,24-02-2028,69601,Latin America
+IT Failure,25-02-2028,84155,North America
+IT Failure,26-02-2028,71167,Asia-Pacific
+Human Error,27-02-2028,68600,Latin America
+Human Error,28-02-2028,59946,Asia-Pacific
+Fraud,29-02-2028,61891,Europe
+IT Failure,01-03-2028,36883,Latin America
+IT Failure,02-03-2028,8262,Europe
+Compliance Breach,03-03-2028,92810,Europe
+Compliance Breach,04-03-2028,73673,Asia-Pacific
+Fraud,05-03-2028,97269,Latin America
+Compliance Breach,06-03-2028,66666,Latin America
+IT Failure,07-03-2028,16484,Latin America
+Compliance Breach,08-03-2028,34920,North America
+Human Error,09-03-2028,57518,Latin America
+Compliance Breach,10-03-2028,44224,Europe
+Fraud,11-03-2028,16619,Europe
+Human Error,12-03-2028,39698,Latin America
+Human Error,13-03-2028,48956,Asia-Pacific
+IT Failure,14-03-2028,82409,Latin America
+IT Failure,15-03-2028,33263,North America
+Compliance Breach,16-03-2028,15004,North America
+IT Failure,17-03-2028,22056,Asia-Pacific
+Human Error,18-03-2028,44496,Europe
+IT Failure,19-03-2028,7100,North America
+Fraud,20-03-2028,25405,Europe
+Compliance Breach,21-03-2028,55329,Latin America
+IT Failure,22-03-2028,21391,Asia-Pacific
+Human Error,23-03-2028,64712,North America
+Fraud,24-03-2028,40492,Latin America
+IT Failure,25-03-2028,22885,Latin America
+Compliance Breach,26-03-2028,39909,Europe
+Compliance Breach,27-03-2028,57251,Asia-Pacific
+Fraud,28-03-2028,62698,Asia-Pacific
+IT Failure,29-03-2028,84064,North America
+Compliance Breach,30-03-2028,35951,North America
+Fraud,31-03-2028,15169,Europe
+Fraud,01-04-2028,7188,Asia-Pacific
+Human Error,02-04-2028,60782,Latin America
+IT Failure,03-04-2028,28312,North America
+Fraud,04-04-2028,8090,Europe
+Compliance Breach,05-04-2028,80439,Asia-Pacific
+IT Failure,06-04-2028,59176,Asia-Pacific
+IT Failure,07-04-2028,41554,North America
+Compliance Breach,08-04-2028,13821,Asia-Pacific
+Human Error,09-04-2028,34279,Asia-Pacific
+Compliance Breach,10-04-2028,73468,Europe
+Compliance Breach,11-04-2028,53296,Europe
+Fraud,12-04-2028,18645,Asia-Pacific
+Fraud,13-04-2028,69238,Latin America
+Fraud,14-04-2028,68334,North America
+IT Failure,15-04-2028,31159,Europe
+Human Error,16-04-2028,20428,Europe
+IT Failure,17-04-2028,69299,Europe
+IT Failure,18-04-2028,77041,Latin America
+Human Error,19-04-2028,78536,Asia-Pacific
+Human Error,20-04-2028,87314,North America
+Fraud,21-04-2028,36132,Europe
+Human Error,22-04-2028,80641,North America
+IT Failure,23-04-2028,98966,North America
+IT Failure,24-04-2028,58455,Europe
+Human Error,25-04-2028,46100,North America
+Human Error,26-04-2028,42547,Asia-Pacific
+Compliance Breach,27-04-2028,40753,Europe
+Fraud,28-04-2028,71955,Europe
+Fraud,29-04-2028,22284,Europe
+IT Failure,30-04-2028,84275,Latin America
+Compliance Breach,01-05-2028,92052,Latin America
+Fraud,02-05-2028,54567,North America
+Compliance Breach,03-05-2028,28823,North America
+Fraud,04-05-2028,32925,North America
+IT Failure,05-05-2028,28209,Europe
+Compliance Breach,06-05-2028,74634,Asia-Pacific
+Human Error,07-05-2028,53826,Europe
+Compliance Breach,08-05-2028,32392,Asia-Pacific
+IT Failure,09-05-2028,29064,Asia-Pacific
+Fraud,10-05-2028,82560,Asia-Pacific
+Compliance Breach,11-05-2028,96541,Europe
+Human Error,12-05-2028,95015,Europe
+Compliance Breach,13-05-2028,95553,Latin America
+IT Failure,14-05-2028,96549,Europe
+IT Failure,15-05-2028,75206,North America
+Fraud,16-05-2028,47745,Europe
+Fraud,17-05-2028,36685,North America
+Fraud,18-05-2028,63627,Europe
+Fraud,19-05-2028,12929,Europe
+Fraud,20-05-2028,85979,Asia-Pacific
+IT Failure,21-05-2028,47024,North America
+Compliance Breach,22-05-2028,34581,Asia-Pacific
+IT Failure,23-05-2028,39379,North America
+Fraud,24-05-2028,73746,Europe
+Fraud,25-05-2028,14230,Europe
+Human Error,26-05-2028,66937,Europe
+Compliance Breach,27-05-2028,69422,Asia-Pacific
+Fraud,28-05-2028,5217,Asia-Pacific
+IT Failure,29-05-2028,88233,Latin America
+Compliance Breach,30-05-2028,89974,North America
+Compliance Breach,31-05-2028,56925,Asia-Pacific
+Fraud,01-06-2028,44081,North America
+Human Error,02-06-2028,57935,Europe
+IT Failure,03-06-2028,32488,Europe
+Fraud,04-06-2028,35957,Europe
+Compliance Breach,05-06-2028,43946,Europe
+Compliance Breach,06-06-2028,47665,Asia-Pacific
+IT Failure,07-06-2028,83940,Latin America
+Human Error,08-06-2028,75450,Latin America
+IT Failure,09-06-2028,95659,Latin America
+Compliance Breach,10-06-2028,28688,Europe
+Fraud,11-06-2028,87472,Asia-Pacific
+IT Failure,12-06-2028,72680,Latin America
+Fraud,13-06-2028,47103,Asia-Pacific
+IT Failure,14-06-2028,18602,Latin America
+IT Failure,15-06-2028,99293,Latin America
+IT Failure,16-06-2028,44655,Europe
+Human Error,17-06-2028,58535,Europe
+Fraud,18-06-2028,38920,Latin America
+Human Error,19-06-2028,30060,Europe
+Human Error,20-06-2028,72492,Europe
+Compliance Breach,21-06-2028,31682,North America
+Fraud,22-06-2028,74400,Asia-Pacific

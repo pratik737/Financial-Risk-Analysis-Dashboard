@@ -1,0 +1,2001 @@
+Client ID,Loan Amount,Interest Rate (%),Payment Status,Credit Score,Industry Sector,Date
+1001,277181,5.07,Current,753,Healthcare,01-01-2023
+1002,335187,4.47,Current,757,Telecommunications,01-02-2023
+1003,63913,4.28,Defaulted,771,Real Estate,01-03-2023
+1004,279008,8.17,Current,560,Retail,01-04-2023
+1005,128127,7.29,Current,474,Financial Services,01-05-2023
+1006,473617,4.18,Current,691,Construction,01-06-2023
+1007,211434,5.59,Overdue,491,Technology,01-07-2023
+1008,409446,8.44,Current,678,Transportation,01-08-2023
+1009,345105,6.72,Overdue,611,Real Estate,01-09-2023
+1010,285936,8.08,Current,792,Healthcare,01-10-2023
+1011,215275,7.62,Overdue,454,Technology,01-11-2023
+1012,120579,4.43,Current,515,Financial Services,01-12-2023
+1013,422153,5.75,Current,635,Transportation,1/13/2023
+1014,197628,6.15,Current,811,Technology,1/14/2023
+1015,316204,3.81,Current,795,Energy,1/15/2023
+1016,374730,6.63,Current,490,Energy,1/16/2023
+1017,98572,5.27,Current,686,Retail,1/17/2023
+1018,145640,8.4,Current,752,Real Estate,1/18/2023
+1019,176998,3.73,Defaulted,794,Financial Services,1/19/2023
+1020,476349,7.39,Current,489,Real Estate,1/20/2023
+1021,237301,8,Overdue,669,Telecommunications,1/21/2023
+1022,156723,8.19,Defaulted,618,Technology,1/22/2023
+1023,422873,3.76,Overdue,808,Real Estate,1/23/2023
+1024,22042,8.02,Current,639,Manufacturing,1/24/2023
+1025,273761,5.15,Current,768,Manufacturing,1/25/2023
+1026,82836,4.51,Current,573,Construction,1/26/2023
+1027,51254,3.99,Overdue,584,Financial Services,1/27/2023
+1028,471213,7.99,Current,790,Construction,1/28/2023
+1029,177634,4.71,Current,696,Technology,1/29/2023
+1030,415403,7.82,Current,732,Real Estate,1/30/2023
+1031,306609,8.33,Current,829,Manufacturing,1/31/2023
+1032,423114,6.48,Overdue,482,Financial Services,02-01-2023
+1033,210086,7.95,Defaulted,830,Transportation,02-02-2023
+1034,334586,5.38,Overdue,561,Energy,02-03-2023
+1035,357845,4.83,Defaulted,483,Retail,02-04-2023
+1036,470307,3.7,Current,485,Financial Services,02-05-2023
+1037,211156,7.45,Defaulted,839,Energy,02-06-2023
+1038,202925,7.4,Current,698,Financial Services,02-07-2023
+1039,488775,8.01,Current,590,Manufacturing,02-08-2023
+1040,323242,6.14,Defaulted,618,Energy,02-09-2023
+1041,365951,6.49,Overdue,621,Transportation,02-10-2023
+1042,72601,6.77,Current,848,Financial Services,02-11-2023
+1043,78388,6.59,Current,813,Manufacturing,02-12-2023
+1044,426986,6.38,Current,835,Energy,2/13/2023
+1045,400789,3.84,Current,500,Energy,2/14/2023
+1046,419070,4.76,Current,553,Construction,2/15/2023
+1047,438566,5.76,Current,573,Retail,2/16/2023
+1048,313877,8.28,Overdue,754,Manufacturing,2/17/2023
+1049,147853,6.02,Defaulted,632,Telecommunications,2/18/2023
+1050,74940,4.69,Current,622,Financial Services,2/19/2023
+1051,171854,4.27,Defaulted,684,Financial Services,2/20/2023
+1052,170051,5.68,Current,557,Financial Services,2/21/2023
+1053,94997,4.53,Overdue,847,Transportation,2/22/2023
+1054,225212,3.53,Defaulted,592,Healthcare,2/23/2023
+1055,16029,3.8,Current,607,Healthcare,2/24/2023
+1056,182719,8.41,Current,757,Retail,2/25/2023
+1057,262801,6.31,Current,780,Telecommunications,2/26/2023
+1058,42423,4.1,Current,604,Healthcare,2/27/2023
+1059,469215,4.29,Current,709,Technology,2/28/2023
+1060,290210,6.47,Current,461,Telecommunications,03-01-2023
+1061,149895,6.69,Current,453,Construction,03-02-2023
+1062,57020,4,Current,462,Transportation,03-03-2023
+1063,492190,5.71,Current,683,Manufacturing,03-04-2023
+1064,347725,4.34,Current,754,Transportation,03-05-2023
+1065,157914,3.66,Current,730,Transportation,03-06-2023
+1066,445544,4.25,Current,645,Energy,03-07-2023
+1067,41830,8.21,Current,670,Construction,03-08-2023
+1068,19064,6.26,Current,462,Technology,03-09-2023
+1069,373387,6.78,Overdue,819,Financial Services,03-10-2023
+1070,276832,5.05,Overdue,629,Real Estate,03-11-2023
+1071,486445,4.44,Overdue,734,Telecommunications,03-12-2023
+1072,443002,3.76,Current,557,Transportation,3/13/2023
+1073,332189,4.28,Overdue,574,Construction,3/14/2023
+1074,395150,8.23,Defaulted,745,Real Estate,3/15/2023
+1075,144976,7.79,Overdue,760,Construction,3/16/2023
+1076,374167,4.21,Overdue,597,Financial Services,3/17/2023
+1077,385419,8.38,Overdue,485,Retail,3/18/2023
+1078,316813,7.4,Current,608,Financial Services,3/19/2023
+1079,322215,5.27,Current,788,Manufacturing,3/20/2023
+1080,349673,7.06,Current,846,Energy,3/21/2023
+1081,177623,6.93,Overdue,737,Financial Services,3/22/2023
+1082,156875,5.77,Overdue,650,Retail,3/23/2023
+1083,499265,4.87,Current,701,Transportation,3/24/2023
+1084,165258,5.32,Defaulted,845,Telecommunications,3/25/2023
+1085,212974,6.51,Overdue,539,Construction,3/26/2023
+1086,472038,5.76,Current,489,Energy,3/27/2023
+1087,237266,6.4,Current,735,Telecommunications,3/28/2023
+1088,69503,7.36,Current,727,Transportation,3/29/2023
+1089,131560,3.51,Current,671,Transportation,3/30/2023
+1090,68704,4.59,Defaulted,803,Technology,3/31/2023
+1091,408730,4.95,Current,801,Real Estate,04-01-2023
+1092,364419,6.86,Current,755,Manufacturing,04-02-2023
+1093,65259,7.4,Current,709,Transportation,04-03-2023
+1094,39020,6.03,Current,566,Telecommunications,04-04-2023
+1095,135109,7.76,Current,849,Real Estate,04-05-2023
+1096,225869,6.47,Overdue,583,Retail,04-06-2023
+1097,409191,3.8,Current,556,Technology,04-07-2023
+1098,186890,6.34,Overdue,542,Transportation,04-08-2023
+1099,493866,4.08,Overdue,649,Financial Services,04-09-2023
+1100,204052,6.73,Current,651,Real Estate,04-10-2023
+1101,453443,4.26,Current,848,Telecommunications,04-11-2023
+1102,420607,3.67,Overdue,671,Financial Services,04-12-2023
+1103,117303,5.06,Current,576,Healthcare,4/13/2023
+1104,108046,4.93,Defaulted,607,Construction,4/14/2023
+1105,97954,3.51,Current,555,Manufacturing,4/15/2023
+1106,210028,7.38,Current,750,Financial Services,4/16/2023
+1107,38507,7.93,Current,714,Healthcare,4/17/2023
+1108,249095,5.23,Defaulted,734,Manufacturing,4/18/2023
+1109,268269,8.18,Current,750,Construction,4/19/2023
+1110,37653,4.17,Overdue,651,Transportation,4/20/2023
+1111,197750,7.83,Overdue,473,Financial Services,4/21/2023
+1112,325733,5.42,Current,753,Energy,4/22/2023
+1113,19883,3.72,Current,630,Transportation,4/23/2023
+1114,176802,4.29,Overdue,723,Energy,4/24/2023
+1115,395070,4.88,Overdue,518,Retail,4/25/2023
+1116,357768,4.57,Overdue,760,Healthcare,4/26/2023
+1117,223939,7.59,Current,477,Manufacturing,4/27/2023
+1118,391596,6.07,Current,718,Energy,4/28/2023
+1119,18553,4.8,Overdue,672,Technology,4/29/2023
+1120,323233,8.38,Current,742,Transportation,4/30/2023
+1121,165059,4.02,Current,710,Healthcare,05-01-2023
+1122,360401,3.92,Current,785,Real Estate,05-02-2023
+1123,193848,6.12,Current,621,Retail,05-03-2023
+1124,361822,4.18,Current,766,Construction,05-04-2023
+1125,203459,5.13,Current,785,Retail,05-05-2023
+1126,407425,5.22,Current,550,Manufacturing,05-06-2023
+1127,339583,8,Overdue,702,Technology,05-07-2023
+1128,248565,7.81,Defaulted,688,Construction,05-08-2023
+1129,113627,3.72,Overdue,528,Manufacturing,05-09-2023
+1130,286694,7.77,Overdue,461,Telecommunications,05-10-2023
+1131,374758,8.48,Current,607,Financial Services,05-11-2023
+1132,387606,6.49,Current,586,Energy,05-12-2023
+1133,104249,8.17,Current,684,Transportation,5/13/2023
+1134,192732,5.97,Defaulted,734,Healthcare,5/14/2023
+1135,67125,3.99,Current,658,Transportation,5/15/2023
+1136,179772,4.15,Current,528,Energy,5/16/2023
+1137,202654,4.91,Current,752,Manufacturing,5/17/2023
+1138,438556,6.09,Defaulted,510,Energy,5/18/2023
+1139,326948,8.01,Defaulted,615,Telecommunications,5/19/2023
+1140,425893,7.99,Defaulted,621,Manufacturing,5/20/2023
+1141,231812,8.3,Current,736,Healthcare,5/21/2023
+1142,273182,8.28,Current,556,Real Estate,5/22/2023
+1143,371716,6.39,Current,784,Financial Services,5/23/2023
+1144,324636,3.8,Current,633,Healthcare,5/24/2023
+1145,252538,5.12,Current,482,Financial Services,5/25/2023
+1146,260536,5.72,Current,823,Construction,5/26/2023
+1147,371760,4.41,Current,825,Technology,5/27/2023
+1148,52653,5.64,Current,751,Telecommunications,5/28/2023
+1149,147413,3.6,Overdue,583,Real Estate,5/29/2023
+1150,260770,3.83,Current,489,Manufacturing,5/30/2023
+1151,323379,3.93,Current,786,Transportation,5/31/2023
+1152,267844,6.83,Current,804,Construction,06-01-2023
+1153,351231,4.83,Current,794,Energy,06-02-2023
+1154,292129,8.31,Current,454,Energy,06-03-2023
+1155,184297,3.95,Current,646,Construction,06-04-2023
+1156,450199,6.1,Overdue,509,Manufacturing,06-05-2023
+1157,421857,3.68,Defaulted,741,Financial Services,06-06-2023
+1158,37353,6.16,Overdue,572,Manufacturing,06-07-2023
+1159,138552,3.57,Current,733,Financial Services,06-08-2023
+1160,237607,8.04,Current,455,Technology,06-09-2023
+1161,354785,8.17,Current,635,Construction,06-10-2023
+1162,414906,4.38,Current,547,Telecommunications,06-11-2023
+1163,315016,4.09,Current,679,Manufacturing,06-12-2023
+1164,111811,3.87,Current,839,Retail,6/13/2023
+1165,37951,6.35,Current,845,Manufacturing,6/14/2023
+1166,133265,4.88,Current,528,Healthcare,6/15/2023
+1167,70675,8.45,Current,656,Technology,6/16/2023
+1168,371984,5.18,Current,784,Transportation,6/17/2023
+1169,95643,6.23,Current,583,Energy,6/18/2023
+1170,444163,6.94,Current,564,Energy,6/19/2023
+1171,20394,4.16,Current,726,Telecommunications,6/20/2023
+1172,395859,4.67,Overdue,467,Telecommunications,6/21/2023
+1173,472648,4.1,Current,799,Real Estate,6/22/2023
+1174,455530,7.31,Current,763,Financial Services,6/23/2023
+1175,210474,4.38,Current,512,Financial Services,6/24/2023
+1176,328792,3.52,Current,652,Healthcare,6/25/2023
+1177,391451,7.57,Current,620,Technology,6/26/2023
+1178,413664,3.8,Current,844,Financial Services,6/27/2023
+1179,479268,4.53,Defaulted,723,Technology,6/28/2023
+1180,462264,5.52,Current,533,Energy,6/29/2023
+1181,195750,6.13,Defaulted,521,Telecommunications,6/30/2023
+1182,412140,4.74,Current,694,Real Estate,07-01-2023
+1183,17371,7.6,Defaulted,814,Energy,07-02-2023
+1184,388078,5,Current,696,Healthcare,07-03-2023
+1185,41617,4.24,Current,848,Telecommunications,07-04-2023
+1186,229332,4.01,Current,508,Manufacturing,07-05-2023
+1187,29320,8.21,Current,829,Telecommunications,07-06-2023
+1188,211730,7.47,Overdue,754,Transportation,07-07-2023
+1189,132075,7.56,Current,451,Telecommunications,07-08-2023
+1190,385401,5.59,Defaulted,486,Energy,07-09-2023
+1191,231956,6.49,Current,669,Telecommunications,07-10-2023
+1192,329016,7.92,Current,780,Healthcare,07-11-2023
+1193,299970,8.02,Overdue,590,Energy,07-12-2023
+1194,265419,3.73,Current,791,Retail,7/13/2023
+1195,343180,5.8,Current,677,Healthcare,7/14/2023
+1196,489963,4.59,Current,728,Retail,7/15/2023
+1197,117678,5.43,Overdue,510,Telecommunications,7/16/2023
+1198,31110,3.81,Current,455,Financial Services,7/17/2023
+1199,346612,4.34,Current,595,Energy,7/18/2023
+1200,394209,5.03,Current,476,Retail,7/19/2023
+1201,372393,4.46,Overdue,682,Construction,7/20/2023
+1202,255927,8.33,Current,839,Transportation,7/21/2023
+1203,394087,6.56,Current,595,Real Estate,7/22/2023
+1204,117939,7.25,Current,785,Manufacturing,7/23/2023
+1205,411978,4.46,Overdue,616,Construction,7/24/2023
+1206,28544,4.36,Overdue,655,Construction,7/25/2023
+1207,294581,4.64,Current,835,Construction,7/26/2023
+1208,86510,7.83,Current,842,Retail,7/27/2023
+1209,491734,7.02,Overdue,619,Retail,7/28/2023
+1210,272679,5.42,Current,705,Healthcare,7/29/2023
+1211,376114,4.45,Current,553,Manufacturing,7/30/2023
+1212,101980,5.83,Current,845,Manufacturing,7/31/2023
+1213,317072,7.34,Current,604,Healthcare,08-01-2023
+1214,253728,6.77,Defaulted,537,Healthcare,08-02-2023
+1215,106582,5.32,Overdue,562,Technology,08-03-2023
+1216,229269,4.46,Current,806,Telecommunications,08-04-2023
+1217,421059,7.68,Current,662,Telecommunications,08-05-2023
+1218,79878,7.4,Current,497,Transportation,08-06-2023
+1219,330883,4.35,Defaulted,790,Healthcare,08-07-2023
+1220,272226,7.49,Overdue,826,Telecommunications,08-08-2023
+1221,348593,8.25,Current,709,Transportation,08-09-2023
+1222,424670,6.62,Defaulted,712,Manufacturing,08-10-2023
+1223,79286,7.19,Overdue,825,Energy,08-11-2023
+1224,315667,5.46,Current,669,Telecommunications,08-12-2023
+1225,116335,7.21,Current,591,Real Estate,8/13/2023
+1226,208137,5.51,Overdue,680,Technology,8/14/2023
+1227,356423,8.48,Current,638,Technology,8/15/2023
+1228,272289,7.35,Current,757,Technology,8/16/2023
+1229,217590,4.74,Current,655,Energy,8/17/2023
+1230,316880,4.23,Current,620,Construction,8/18/2023
+1231,252237,3.56,Current,834,Energy,8/19/2023
+1232,229906,7.51,Current,628,Telecommunications,8/20/2023
+1233,136639,7.18,Defaulted,456,Financial Services,8/21/2023
+1234,283049,5.58,Current,797,Financial Services,8/22/2023
+1235,177414,5.26,Overdue,471,Real Estate,8/23/2023
+1236,306856,6.51,Overdue,806,Technology,8/24/2023
+1237,59516,6.13,Current,544,Technology,8/25/2023
+1238,426876,5.95,Current,519,Technology,8/26/2023
+1239,87184,5.75,Current,768,Manufacturing,8/27/2023
+1240,217190,4.4,Current,744,Healthcare,8/28/2023
+1241,88465,7.41,Overdue,500,Telecommunications,8/29/2023
+1242,177006,6.35,Overdue,484,Healthcare,8/30/2023
+1243,336324,6.51,Current,550,Manufacturing,8/31/2023
+1244,323089,5.49,Overdue,830,Retail,09-01-2023
+1245,273853,4.25,Overdue,629,Technology,09-02-2023
+1246,479369,4.54,Overdue,525,Construction,09-03-2023
+1247,205872,7.45,Current,476,Manufacturing,09-04-2023
+1248,212656,6.85,Overdue,802,Telecommunications,09-05-2023
+1249,277703,8.3,Current,730,Financial Services,09-06-2023
+1250,442175,4.1,Overdue,472,Energy,09-07-2023
+1251,75076,7.02,Current,522,Manufacturing,09-08-2023
+1252,344211,6.71,Current,638,Manufacturing,09-09-2023
+1253,152924,6.28,Overdue,636,Construction,09-10-2023
+1254,74997,7.95,Current,470,Technology,09-11-2023
+1255,26833,7.02,Current,776,Manufacturing,09-12-2023
+1256,331606,5.34,Overdue,565,Healthcare,9/13/2023
+1257,280941,4.77,Current,463,Construction,9/14/2023
+1258,376725,4.09,Defaulted,843,Retail,9/15/2023
+1259,356482,3.62,Defaulted,826,Manufacturing,9/16/2023
+1260,285644,3.57,Current,483,Financial Services,9/17/2023
+1261,170661,7.12,Current,751,Retail,9/18/2023
+1262,473741,8.45,Current,489,Real Estate,9/19/2023
+1263,483214,6.5,Current,622,Technology,9/20/2023
+1264,279256,8.04,Overdue,583,Energy,9/21/2023
+1265,389936,7.1,Defaulted,601,Real Estate,9/22/2023
+1266,177752,4.55,Current,662,Technology,9/23/2023
+1267,461764,6.03,Current,646,Telecommunications,9/24/2023
+1268,405457,7.59,Overdue,724,Technology,9/25/2023
+1269,449607,4.88,Overdue,463,Transportation,9/26/2023
+1270,335756,6.26,Current,466,Transportation,9/27/2023
+1271,389665,8.31,Overdue,536,Manufacturing,9/28/2023
+1272,103917,6.27,Overdue,690,Financial Services,9/29/2023
+1273,281082,7.08,Current,542,Technology,9/30/2023
+1274,171009,4.29,Current,720,Energy,10-01-2023
+1275,463113,3.8,Defaulted,714,Retail,10-02-2023
+1276,61406,5.14,Defaulted,503,Manufacturing,10-03-2023
+1277,327295,6.01,Current,808,Healthcare,10-04-2023
+1278,245606,4.58,Current,686,Technology,10-05-2023
+1279,61219,5.72,Defaulted,775,Healthcare,10-06-2023
+1280,170355,5.36,Current,461,Healthcare,10-07-2023
+1281,382364,6.75,Current,703,Technology,10-08-2023
+1282,390745,4.23,Overdue,569,Energy,10-09-2023
+1283,486153,5.02,Current,525,Construction,10-10-2023
+1284,395007,4.68,Defaulted,827,Energy,10-11-2023
+1285,198558,8,Current,607,Real Estate,10-12-2023
+1286,291977,6.15,Current,819,Technology,10/13/2023
+1287,64797,4.53,Current,822,Healthcare,10/14/2023
+1288,226317,4.29,Overdue,481,Manufacturing,10/15/2023
+1289,294158,5.61,Overdue,551,Energy,10/16/2023
+1290,277247,3.98,Current,838,Manufacturing,10/17/2023
+1291,234749,7.56,Current,728,Transportation,10/18/2023
+1292,245707,6.04,Current,473,Healthcare,10/19/2023
+1293,286665,7.26,Overdue,493,Healthcare,10/20/2023
+1294,153405,5.59,Current,602,Technology,10/21/2023
+1295,348777,7.82,Overdue,457,Energy,10/22/2023
+1296,73061,6.1,Overdue,819,Healthcare,10/23/2023
+1297,280072,4.9,Defaulted,813,Retail,10/24/2023
+1298,112513,7.97,Overdue,801,Retail,10/25/2023
+1299,53427,5.4,Overdue,529,Telecommunications,10/26/2023
+1300,461374,4.24,Overdue,724,Retail,10/27/2023
+1301,107510,5.95,Current,527,Real Estate,10/28/2023
+1302,184034,5.02,Current,704,Financial Services,10/29/2023
+1303,265372,6.62,Overdue,644,Construction,10/30/2023
+1304,374129,4.09,Current,598,Healthcare,10/31/2023
+1305,199458,5.78,Defaulted,714,Telecommunications,11-01-2023
+1306,37876,3.91,Current,679,Energy,11-02-2023
+1307,466567,6.43,Overdue,661,Construction,11-03-2023
+1308,453496,4.32,Defaulted,609,Real Estate,11-04-2023
+1309,100282,4.03,Current,567,Telecommunications,11-05-2023
+1310,290505,8.3,Overdue,640,Healthcare,11-06-2023
+1311,42462,3.6,Current,610,Technology,11-07-2023
+1312,171031,4.74,Current,656,Energy,11-08-2023
+1313,24091,3.97,Overdue,531,Telecommunications,11-09-2023
+1314,395219,3.95,Current,637,Real Estate,11-10-2023
+1315,10408,3.9,Overdue,499,Manufacturing,11-11-2023
+1316,319431,7.6,Current,637,Manufacturing,11-12-2023
+1317,238069,6.38,Current,658,Technology,11/13/2023
+1318,54212,3.62,Current,770,Real Estate,11/14/2023
+1319,417550,3.87,Current,625,Healthcare,11/15/2023
+1320,293698,4.31,Current,544,Telecommunications,11/16/2023
+1321,68260,5.23,Current,802,Transportation,11/17/2023
+1322,33448,4.22,Current,542,Telecommunications,11/18/2023
+1323,255111,4.2,Current,633,Financial Services,11/19/2023
+1324,90235,5.29,Current,817,Construction,11/20/2023
+1325,197141,5,Overdue,824,Manufacturing,11/21/2023
+1326,420792,5.65,Current,534,Energy,11/22/2023
+1327,283284,4.76,Current,845,Telecommunications,11/23/2023
+1328,343838,5.95,Overdue,553,Energy,11/24/2023
+1329,430436,8.28,Current,799,Telecommunications,11/25/2023
+1330,252082,6.93,Current,485,Manufacturing,11/26/2023
+1331,338631,3.85,Current,798,Energy,11/27/2023
+1332,330943,5.16,Defaulted,725,Transportation,11/28/2023
+1333,302157,7.79,Current,479,Retail,11/29/2023
+1334,210001,8.45,Current,527,Retail,11/30/2023
+1335,43087,5.2,Current,503,Financial Services,12-01-2023
+1336,481962,4.03,Current,817,Energy,12-02-2023
+1337,450456,3.53,Current,492,Financial Services,12-03-2023
+1338,180992,5.85,Current,597,Retail,12-04-2023
+1339,324998,6.86,Overdue,605,Transportation,12-05-2023
+1340,295597,6.98,Current,636,Technology,12-06-2023
+1341,199487,6.45,Current,840,Financial Services,12-07-2023
+1342,24893,7.39,Defaulted,706,Financial Services,12-08-2023
+1343,447022,4.59,Current,850,Real Estate,12-09-2023
+1344,284334,6.21,Current,620,Telecommunications,12-10-2023
+1345,478668,7.71,Current,606,Energy,12-11-2023
+1346,167202,6.09,Current,473,Healthcare,12-12-2023
+1347,242154,3.67,Current,497,Manufacturing,12/13/2023
+1348,259567,4.71,Defaulted,646,Healthcare,12/14/2023
+1349,301430,6.95,Current,523,Transportation,12/15/2023
+1350,352418,5.74,Current,555,Healthcare,12/16/2023
+1351,56174,7.77,Current,568,Financial Services,12/17/2023
+1352,22718,5.76,Current,503,Real Estate,12/18/2023
+1353,321084,7.77,Overdue,531,Financial Services,12/19/2023
+1354,307260,4.88,Overdue,849,Financial Services,12/20/2023
+1355,15465,5.1,Current,481,Real Estate,12/21/2023
+1356,349303,6.72,Current,461,Real Estate,12/22/2023
+1357,375371,6.46,Current,477,Transportation,12/23/2023
+1358,197354,3.59,Current,509,Financial Services,12/24/2023
+1359,479758,3.86,Current,565,Construction,12/25/2023
+1360,405794,7.64,Current,711,Energy,12/26/2023
+1361,379397,4.74,Current,815,Manufacturing,12/27/2023
+1362,309479,7.48,Current,566,Manufacturing,12/28/2023
+1363,350829,4.99,Current,657,Telecommunications,12/29/2023
+1364,208262,7.6,Defaulted,718,Real Estate,12/30/2023
+1365,339419,5.21,Current,526,Telecommunications,12/31/2023
+1366,481789,7.3,Overdue,796,Manufacturing,01-01-2024
+1367,499502,5.5,Current,476,Construction,01-02-2024
+1368,483668,4.99,Defaulted,634,Construction,01-03-2024
+1369,189042,7.89,Current,482,Energy,01-04-2024
+1370,126589,8.4,Current,571,Healthcare,01-05-2024
+1371,380234,7.72,Current,710,Real Estate,01-06-2024
+1372,359130,4.29,Current,736,Construction,01-07-2024
+1373,163425,7.91,Current,547,Real Estate,01-08-2024
+1374,144567,6.28,Defaulted,805,Manufacturing,01-09-2024
+1375,407923,4.73,Current,758,Healthcare,01-10-2024
+1376,185992,8.04,Overdue,676,Energy,01-11-2024
+1377,383424,7.16,Overdue,804,Real Estate,01-12-2024
+1378,237363,4.4,Current,769,Manufacturing,1/13/2024
+1379,163053,4.69,Current,616,Technology,1/14/2024
+1380,305117,7.82,Current,608,Energy,1/15/2024
+1381,130695,6.67,Current,836,Construction,1/16/2024
+1382,286394,7.85,Current,502,Manufacturing,1/17/2024
+1383,329492,5.28,Overdue,665,Construction,1/18/2024
+1384,65228,3.58,Overdue,725,Energy,1/19/2024
+1385,25457,6.15,Current,506,Manufacturing,1/20/2024
+1386,469806,5.17,Current,701,Retail,1/21/2024
+1387,472263,4.05,Defaulted,569,Real Estate,1/22/2024
+1388,230486,6.8,Overdue,761,Healthcare,1/23/2024
+1389,358162,5.67,Current,702,Telecommunications,1/24/2024
+1390,439141,8.22,Overdue,603,Financial Services,1/25/2024
+1391,485510,4.85,Current,574,Financial Services,1/26/2024
+1392,407867,5.63,Current,640,Technology,1/27/2024
+1393,475916,4.71,Current,698,Telecommunications,1/28/2024
+1394,17907,6.99,Current,689,Real Estate,1/29/2024
+1395,150587,3.6,Current,499,Transportation,1/30/2024
+1396,354579,6.74,Current,742,Healthcare,1/31/2024
+1397,324034,4.36,Current,487,Retail,02-01-2024
+1398,22431,8.41,Current,777,Financial Services,02-02-2024
+1399,76420,8.21,Current,660,Real Estate,02-03-2024
+1400,230728,6.96,Current,770,Transportation,02-04-2024
+1401,348887,6.58,Current,798,Healthcare,02-05-2024
+1402,394606,8.28,Current,714,Manufacturing,02-06-2024
+1403,300224,7.32,Current,496,Transportation,02-07-2024
+1404,186906,6.12,Defaulted,646,Retail,02-08-2024
+1405,355097,6.28,Overdue,835,Financial Services,02-09-2024
+1406,301324,4.47,Defaulted,682,Real Estate,02-10-2024
+1407,33760,7.51,Current,633,Transportation,02-11-2024
+1408,30028,5.58,Current,712,Construction,02-12-2024
+1409,142098,5.57,Current,731,Transportation,2/13/2024
+1410,38280,4.14,Current,553,Financial Services,2/14/2024
+1411,459989,5.93,Current,819,Financial Services,2/15/2024
+1412,131710,7.38,Current,484,Transportation,2/16/2024
+1413,498808,5.96,Current,663,Construction,2/17/2024
+1414,434797,6.84,Current,455,Telecommunications,2/18/2024
+1415,409714,8.3,Current,479,Construction,2/19/2024
+1416,431165,8.3,Overdue,585,Telecommunications,2/20/2024
+1417,351158,7.89,Current,601,Energy,2/21/2024
+1418,190251,5.7,Defaulted,821,Construction,2/22/2024
+1419,433228,6.45,Defaulted,529,Financial Services,2/23/2024
+1420,436918,8.01,Current,624,Transportation,2/24/2024
+1421,103364,5.51,Current,776,Manufacturing,2/25/2024
+1422,58838,5.69,Current,741,Real Estate,2/26/2024
+1423,209837,5.79,Current,663,Technology,2/27/2024
+1424,319683,6,Overdue,685,Transportation,2/28/2024
+1425,30191,5.77,Current,828,Telecommunications,2/29/2024
+1426,247168,5.46,Overdue,618,Energy,03-01-2024
+1427,421303,8.47,Current,730,Retail,03-02-2024
+1428,37869,4.11,Current,702,Energy,03-03-2024
+1429,52901,5.56,Current,560,Financial Services,03-04-2024
+1430,53385,7.53,Current,741,Manufacturing,03-05-2024
+1431,268464,5.86,Current,808,Construction,03-06-2024
+1432,198198,7.94,Overdue,534,Healthcare,03-07-2024
+1433,449592,4.09,Current,656,Technology,03-08-2024
+1434,439531,4.83,Current,525,Telecommunications,03-09-2024
+1435,423309,4.15,Defaulted,748,Healthcare,03-10-2024
+1436,317394,4.01,Defaulted,845,Transportation,03-11-2024
+1437,190201,7.97,Current,756,Energy,03-12-2024
+1438,338342,6.21,Overdue,646,Telecommunications,3/13/2024
+1439,156134,5.51,Defaulted,816,Construction,3/14/2024
+1440,46951,5.14,Overdue,703,Construction,3/15/2024
+1441,183499,5.13,Overdue,793,Construction,3/16/2024
+1442,269011,3.97,Current,524,Retail,3/17/2024
+1443,275689,7.33,Current,778,Construction,3/18/2024
+1444,435949,4.53,Current,760,Healthcare,3/19/2024
+1445,327022,6.32,Current,536,Real Estate,3/20/2024
+1446,336156,6.62,Current,533,Energy,3/21/2024
+1447,398475,4.19,Overdue,678,Manufacturing,3/22/2024
+1448,191815,4.16,Defaulted,517,Technology,3/23/2024
+1449,265845,6.02,Current,576,Real Estate,3/24/2024
+1450,217542,6.22,Current,511,Manufacturing,3/25/2024
+1451,82306,4.84,Current,754,Financial Services,3/26/2024
+1452,277729,5.61,Current,836,Real Estate,3/27/2024
+1453,139631,3.88,Current,751,Real Estate,3/28/2024
+1454,144458,4.86,Overdue,772,Transportation,3/29/2024
+1455,296522,3.62,Current,599,Financial Services,3/30/2024
+1456,219487,6.55,Overdue,583,Healthcare,3/31/2024
+1457,29275,7.71,Current,766,Transportation,04-01-2024
+1458,72458,7.45,Current,655,Technology,04-02-2024
+1459,480151,8.5,Current,521,Manufacturing,04-03-2024
+1460,371653,8.43,Current,532,Healthcare,04-04-2024
+1461,52724,4.92,Defaulted,676,Financial Services,04-05-2024
+1462,355440,7.82,Current,825,Manufacturing,04-06-2024
+1463,43241,7.47,Current,681,Healthcare,04-07-2024
+1464,291350,3.76,Current,810,Real Estate,04-08-2024
+1465,264268,7.92,Current,672,Healthcare,04-09-2024
+1466,149608,6.43,Current,676,Real Estate,04-10-2024
+1467,71993,5.84,Overdue,694,Technology,04-11-2024
+1468,97956,4.73,Current,794,Telecommunications,04-12-2024
+1469,256297,4.23,Current,701,Technology,4/13/2024
+1470,135291,5.06,Current,545,Retail,4/14/2024
+1471,234445,4.99,Current,488,Retail,4/15/2024
+1472,457370,4.66,Defaulted,525,Real Estate,4/16/2024
+1473,394495,6.93,Current,467,Real Estate,4/17/2024
+1474,250281,5,Current,774,Real Estate,4/18/2024
+1475,350665,5.12,Overdue,505,Transportation,4/19/2024
+1476,169805,4.95,Current,790,Construction,4/20/2024
+1477,90795,4.23,Overdue,796,Energy,4/21/2024
+1478,178903,7.78,Current,594,Telecommunications,4/22/2024
+1479,145547,5.44,Current,664,Retail,4/23/2024
+1480,131978,7.54,Current,723,Manufacturing,4/24/2024
+1481,268502,6.6,Overdue,726,Healthcare,4/25/2024
+1482,300646,5.61,Current,842,Real Estate,4/26/2024
+1483,18908,4.43,Current,642,Manufacturing,4/27/2024
+1484,177131,6.32,Overdue,719,Financial Services,4/28/2024
+1485,69293,5.71,Current,534,Healthcare,4/29/2024
+1486,300336,6.37,Current,568,Technology,4/30/2024
+1487,236141,4.6,Defaulted,608,Telecommunications,05-01-2024
+1488,496240,4.66,Current,555,Real Estate,05-02-2024
+1489,378523,7.82,Defaulted,747,Real Estate,05-03-2024
+1490,157919,6.27,Current,801,Energy,05-04-2024
+1491,144358,4.29,Current,815,Real Estate,05-05-2024
+1492,238151,4.64,Current,766,Manufacturing,05-06-2024
+1493,123464,8.05,Current,696,Healthcare,05-07-2024
+1494,426648,4.03,Current,814,Manufacturing,05-08-2024
+1495,368110,7.01,Defaulted,849,Energy,05-09-2024
+1496,294474,5.55,Current,686,Energy,05-10-2024
+1497,37950,5.46,Overdue,578,Manufacturing,05-11-2024
+1498,452004,4.21,Current,597,Transportation,05-12-2024
+1499,251497,3.98,Current,836,Real Estate,5/13/2024
+1500,32783,4.09,Overdue,485,Financial Services,5/14/2024
+1501,55440,7.84,Current,585,Retail,5/15/2024
+1502,448575,4.92,Current,721,Manufacturing,5/16/2024
+1503,481317,7.25,Overdue,627,Real Estate,5/17/2024
+1504,273796,4.08,Defaulted,571,Financial Services,5/18/2024
+1505,317217,4.05,Overdue,518,Technology,5/19/2024
+1506,341812,3.83,Current,721,Retail,5/20/2024
+1507,102557,6.68,Defaulted,570,Technology,5/21/2024
+1508,80800,7.96,Current,686,Retail,5/22/2024
+1509,225316,8.07,Current,486,Transportation,5/23/2024
+1510,483952,5.23,Current,804,Real Estate,5/24/2024
+1511,384388,5.34,Current,745,Financial Services,5/25/2024
+1512,354749,7.36,Current,655,Energy,5/26/2024
+1513,247633,3.61,Current,817,Construction,5/27/2024
+1514,424796,6.46,Current,452,Healthcare,5/28/2024
+1515,69198,3.91,Current,793,Retail,5/29/2024
+1516,331977,4.65,Current,756,Real Estate,5/30/2024
+1517,42199,5.42,Current,844,Telecommunications,5/31/2024
+1518,389637,3.96,Current,740,Real Estate,06-01-2024
+1519,135976,7.66,Current,612,Financial Services,06-02-2024
+1520,424980,6.74,Current,841,Telecommunications,06-03-2024
+1521,319778,4.67,Current,512,Real Estate,06-04-2024
+1522,449997,6.07,Current,615,Retail,06-05-2024
+1523,251662,7.6,Current,630,Construction,06-06-2024
+1524,340934,5.84,Overdue,481,Transportation,06-07-2024
+1525,31200,6.31,Overdue,592,Energy,06-08-2024
+1526,84977,5.99,Current,814,Telecommunications,06-09-2024
+1527,212056,7.53,Current,850,Manufacturing,06-10-2024
+1528,205725,6.66,Current,831,Retail,06-11-2024
+1529,239005,8.1,Current,469,Telecommunications,06-12-2024
+1530,186171,4.54,Defaulted,670,Transportation,6/13/2024
+1531,47948,8.5,Current,575,Construction,6/14/2024
+1532,475947,6.74,Current,539,Energy,6/15/2024
+1533,177318,4.56,Current,537,Technology,6/16/2024
+1534,62958,5.84,Current,691,Energy,6/17/2024
+1535,472837,7.65,Current,493,Transportation,6/18/2024
+1536,184809,6.54,Current,624,Transportation,6/19/2024
+1537,306221,8.04,Current,537,Real Estate,6/20/2024
+1538,471726,6.87,Overdue,514,Real Estate,6/21/2024
+1539,242085,4.31,Overdue,786,Telecommunications,6/22/2024
+1540,115194,5.14,Current,607,Energy,6/23/2024
+1541,474765,7.03,Defaulted,834,Retail,6/24/2024
+1542,176734,8.11,Current,806,Healthcare,6/25/2024
+1543,273128,7.99,Current,693,Real Estate,6/26/2024
+1544,42086,6.1,Current,681,Manufacturing,6/27/2024
+1545,468812,7.58,Defaulted,632,Real Estate,6/28/2024
+1546,265842,7.17,Overdue,698,Technology,6/29/2024
+1547,440113,4.84,Current,511,Real Estate,6/30/2024
+1548,422751,8.4,Defaulted,789,Construction,07-01-2024
+1549,383782,5.22,Current,691,Energy,07-02-2024
+1550,40580,4.52,Current,536,Telecommunications,07-03-2024
+1551,376182,4.18,Current,599,Construction,07-04-2024
+1552,325482,6.44,Current,569,Manufacturing,07-05-2024
+1553,169007,6.02,Current,738,Retail,07-06-2024
+1554,131460,6.73,Overdue,673,Manufacturing,07-07-2024
+1555,52310,4.4,Current,756,Retail,07-08-2024
+1556,390282,4.6,Current,575,Retail,07-09-2024
+1557,125910,6.72,Current,570,Transportation,07-10-2024
+1558,286733,6.42,Current,800,Construction,07-11-2024
+1559,70381,5.92,Defaulted,611,Construction,07-12-2024
+1560,30239,5.34,Current,597,Real Estate,7/13/2024
+1561,405977,4.86,Overdue,572,Financial Services,7/14/2024
+1562,476595,4.21,Current,732,Energy,7/15/2024
+1563,79668,4.73,Current,527,Telecommunications,7/16/2024
+1564,205599,3.87,Current,698,Healthcare,7/17/2024
+1565,465337,6.54,Current,814,Technology,7/18/2024
+1566,334755,8.09,Current,561,Technology,7/19/2024
+1567,286858,7.66,Defaulted,567,Technology,7/20/2024
+1568,219362,6.07,Overdue,506,Construction,7/21/2024
+1569,177119,5.19,Overdue,758,Real Estate,7/22/2024
+1570,465217,5.06,Overdue,558,Telecommunications,7/23/2024
+1571,338625,7.27,Defaulted,634,Telecommunications,7/24/2024
+1572,197728,3.92,Current,669,Healthcare,7/25/2024
+1573,489924,3.53,Overdue,745,Energy,7/26/2024
+1574,483430,7.55,Current,671,Manufacturing,7/27/2024
+1575,479526,7.56,Current,718,Real Estate,7/28/2024
+1576,476674,5.34,Current,716,Telecommunications,7/29/2024
+1577,169043,8.13,Current,486,Real Estate,7/30/2024
+1578,146246,3.56,Current,702,Construction,7/31/2024
+1579,349871,5.07,Current,500,Energy,08-01-2024
+1580,232473,6.78,Overdue,833,Healthcare,08-02-2024
+1581,476994,4.33,Current,506,Retail,08-03-2024
+1582,121881,4.74,Defaulted,635,Financial Services,08-04-2024
+1583,231649,5.86,Current,606,Real Estate,08-05-2024
+1584,474484,4.09,Overdue,561,Retail,08-06-2024
+1585,167196,3.75,Current,837,Construction,08-07-2024
+1586,453871,7.69,Defaulted,606,Transportation,08-08-2024
+1587,70281,7.88,Current,464,Manufacturing,08-09-2024
+1588,128328,7.82,Defaulted,536,Real Estate,08-10-2024
+1589,473352,3.85,Current,563,Retail,08-11-2024
+1590,27854,5.04,Overdue,630,Energy,08-12-2024
+1591,294275,3.91,Overdue,585,Retail,8/13/2024
+1592,259511,4.65,Current,500,Financial Services,8/14/2024
+1593,28174,5.24,Current,640,Technology,8/15/2024
+1594,302904,7.04,Current,567,Financial Services,8/16/2024
+1595,306773,7.55,Defaulted,628,Financial Services,8/17/2024
+1596,471602,5.82,Current,690,Real Estate,8/18/2024
+1597,80054,7.76,Overdue,531,Telecommunications,8/19/2024
+1598,374346,5.54,Current,722,Telecommunications,8/20/2024
+1599,442815,6.72,Defaulted,550,Real Estate,8/21/2024
+1600,296392,3.85,Current,695,Construction,8/22/2024
+1601,416087,3.93,Current,693,Technology,8/23/2024
+1602,404988,4.72,Current,505,Energy,8/24/2024
+1603,468242,3.92,Current,796,Transportation,8/25/2024
+1604,87436,6.68,Current,849,Transportation,8/26/2024
+1605,430041,7.47,Current,768,Energy,8/27/2024
+1606,49277,4.39,Current,675,Construction,8/28/2024
+1607,357405,4.78,Overdue,465,Construction,8/29/2024
+1608,472023,6.49,Current,599,Construction,8/30/2024
+1609,437193,5.87,Defaulted,616,Transportation,8/31/2024
+1610,279602,8.1,Defaulted,518,Retail,09-01-2024
+1611,242835,4.63,Current,642,Technology,09-02-2024
+1612,292853,7.34,Defaulted,716,Telecommunications,09-03-2024
+1613,151357,5.47,Current,545,Real Estate,09-04-2024
+1614,325938,6.19,Overdue,467,Technology,09-05-2024
+1615,150814,7.18,Defaulted,508,Real Estate,09-06-2024
+1616,360381,4.28,Current,506,Financial Services,09-07-2024
+1617,163541,6.69,Current,778,Healthcare,09-08-2024
+1618,479393,5.22,Current,632,Healthcare,09-09-2024
+1619,359685,7.22,Current,516,Manufacturing,09-10-2024
+1620,32326,3.51,Current,802,Telecommunications,09-11-2024
+1621,242581,7.37,Current,688,Healthcare,09-12-2024
+1622,424909,4.6,Current,678,Energy,9/13/2024
+1623,325454,8.28,Current,677,Real Estate,9/14/2024
+1624,209199,5.49,Current,842,Construction,9/15/2024
+1625,330852,4.27,Overdue,588,Technology,9/16/2024
+1626,332722,8,Current,457,Healthcare,9/17/2024
+1627,369893,5.92,Current,475,Financial Services,9/18/2024
+1628,320186,5.06,Current,684,Retail,9/19/2024
+1629,361595,4.8,Current,567,Telecommunications,9/20/2024
+1630,82980,8.27,Current,617,Manufacturing,9/21/2024
+1631,127903,5.1,Defaulted,638,Retail,9/22/2024
+1632,487569,4.94,Current,652,Construction,9/23/2024
+1633,175955,5.9,Overdue,663,Manufacturing,9/24/2024
+1634,354178,3.91,Overdue,768,Manufacturing,9/25/2024
+1635,313985,7.66,Current,764,Healthcare,9/26/2024
+1636,126552,7.52,Current,556,Telecommunications,9/27/2024
+1637,75615,6.53,Overdue,820,Retail,9/28/2024
+1638,375069,4.2,Overdue,556,Financial Services,9/29/2024
+1639,374475,3.86,Current,523,Financial Services,9/30/2024
+1640,451674,8.04,Defaulted,526,Energy,10-01-2024
+1641,474608,3.87,Overdue,748,Energy,10-02-2024
+1642,348453,4.08,Current,530,Real Estate,10-03-2024
+1643,257862,6.62,Current,839,Financial Services,10-04-2024
+1644,22831,8.43,Overdue,598,Healthcare,10-05-2024
+1645,236881,4.62,Current,608,Construction,10-06-2024
+1646,351411,6.01,Current,756,Manufacturing,10-07-2024
+1647,207398,5.32,Current,813,Energy,10-08-2024
+1648,168292,5.09,Current,594,Energy,10-09-2024
+1649,145138,5.03,Current,829,Healthcare,10-10-2024
+1650,189245,4.44,Current,555,Transportation,10-11-2024
+1651,69029,6.8,Overdue,819,Technology,10-12-2024
+1652,82256,8.29,Current,809,Real Estate,10/13/2024
+1653,52642,7.3,Current,451,Energy,10/14/2024
+1654,345660,6.16,Defaulted,609,Manufacturing,10/15/2024
+1655,234544,3.69,Current,514,Construction,10/16/2024
+1656,124437,3.62,Current,744,Real Estate,10/17/2024
+1657,291995,4.78,Current,468,Technology,10/18/2024
+1658,94168,4.72,Current,543,Retail,10/19/2024
+1659,261639,7.21,Overdue,795,Financial Services,10/20/2024
+1660,163387,4.13,Overdue,583,Financial Services,10/21/2024
+1661,389305,5.04,Current,453,Real Estate,10/22/2024
+1662,47316,8.07,Current,456,Retail,10/23/2024
+1663,439672,4.08,Defaulted,684,Construction,10/24/2024
+1664,388741,4.99,Current,697,Construction,10/25/2024
+1665,196129,6.65,Current,839,Retail,10/26/2024
+1666,164576,3.68,Current,602,Financial Services,10/27/2024
+1667,12227,7.56,Current,587,Retail,10/28/2024
+1668,225194,7.65,Current,547,Retail,10/29/2024
+1669,98451,7.16,Current,654,Financial Services,10/30/2024
+1670,249551,4.71,Current,479,Construction,10/31/2024
+1671,462167,4.75,Current,489,Retail,11-01-2024
+1672,43665,7.59,Defaulted,658,Energy,11-02-2024
+1673,414847,4.42,Current,551,Financial Services,11-03-2024
+1674,317239,5.83,Current,484,Technology,11-04-2024
+1675,308433,6.54,Current,554,Financial Services,11-05-2024
+1676,164528,7.1,Current,500,Financial Services,11-06-2024
+1677,177652,5.7,Current,824,Telecommunications,11-07-2024
+1678,391476,5.69,Current,620,Healthcare,11-08-2024
+1679,198901,6.49,Current,668,Healthcare,11-09-2024
+1680,365216,7.09,Current,714,Financial Services,11-10-2024
+1681,326857,3.74,Defaulted,670,Healthcare,11-11-2024
+1682,424487,7.68,Current,461,Construction,11-12-2024
+1683,243406,8.32,Current,789,Real Estate,11/13/2024
+1684,455919,7.85,Current,798,Real Estate,11/14/2024
+1685,147803,5.68,Overdue,587,Healthcare,11/15/2024
+1686,377963,6.21,Overdue,556,Energy,11/16/2024
+1687,444984,4.02,Current,693,Retail,11/17/2024
+1688,65421,5.93,Current,791,Healthcare,11/18/2024
+1689,446304,5.51,Current,821,Construction,11/19/2024
+1690,408401,7.32,Current,626,Healthcare,11/20/2024
+1691,18594,6.01,Overdue,524,Real Estate,11/21/2024
+1692,20734,7.8,Current,799,Telecommunications,11/22/2024
+1693,473238,3.6,Current,809,Healthcare,11/23/2024
+1694,295300,4.21,Current,654,Energy,11/24/2024
+1695,72152,4.46,Current,719,Real Estate,11/25/2024
+1696,31213,6.76,Defaulted,745,Healthcare,11/26/2024
+1697,103164,5.55,Current,730,Financial Services,11/27/2024
+1698,196470,7.9,Current,524,Real Estate,11/28/2024
+1699,331436,7.46,Overdue,761,Transportation,11/29/2024
+1700,423473,8.43,Overdue,675,Telecommunications,11/30/2024
+1701,56776,8.4,Current,556,Technology,12-01-2024
+1702,354746,4.98,Current,826,Transportation,12-02-2024
+1703,148625,4.83,Current,778,Transportation,12-03-2024
+1704,285281,7.14,Current,555,Telecommunications,12-04-2024
+1705,329259,5.26,Overdue,527,Construction,12-05-2024
+1706,249940,4.79,Current,625,Technology,12-06-2024
+1707,85550,8.07,Current,728,Construction,12-07-2024
+1708,91078,6.95,Current,498,Manufacturing,12-08-2024
+1709,88896,7.23,Overdue,701,Construction,12-09-2024
+1710,358418,6.32,Current,491,Manufacturing,12-10-2024
+1711,168233,6.99,Current,664,Technology,12-11-2024
+1712,304942,6.58,Current,687,Financial Services,12-12-2024
+1713,332331,6.86,Current,798,Technology,12/13/2024
+1714,435239,6.26,Current,708,Real Estate,12/14/2024
+1715,472310,8.49,Current,845,Manufacturing,12/15/2024
+1716,75790,6.52,Current,453,Financial Services,12/16/2024
+1717,403412,6.49,Current,550,Transportation,12/17/2024
+1718,173341,8.01,Current,810,Telecommunications,12/18/2024
+1719,131818,5.03,Overdue,813,Healthcare,12/19/2024
+1720,224900,5.72,Current,719,Manufacturing,12/20/2024
+1721,352416,8.04,Current,604,Energy,12/21/2024
+1722,167331,4.09,Current,800,Financial Services,12/22/2024
+1723,382815,7.27,Current,542,Technology,12/23/2024
+1724,169398,8.37,Current,462,Healthcare,12/24/2024
+1725,279099,7.56,Defaulted,600,Construction,12/25/2024
+1726,355675,5.99,Overdue,583,Energy,12/26/2024
+1727,467703,5.78,Defaulted,842,Transportation,12/27/2024
+1728,473480,6.97,Current,660,Telecommunications,12/28/2024
+1729,141762,4.15,Defaulted,765,Real Estate,12/29/2024
+1730,94582,4.93,Current,474,Financial Services,12/30/2024
+1731,286349,7.65,Current,675,Energy,12/31/2024
+1732,376701,5.98,Current,802,Real Estate,01-01-2025
+1733,78028,3.68,Current,507,Energy,01-02-2025
+1734,29280,8.05,Current,473,Retail,01-03-2025
+1735,380361,6.85,Current,847,Technology,01-04-2025
+1736,422801,5.28,Overdue,831,Construction,01-05-2025
+1737,250679,7.47,Current,709,Transportation,01-06-2025
+1738,412161,3.53,Current,606,Telecommunications,01-07-2025
+1739,387309,4.32,Current,669,Manufacturing,01-08-2025
+1740,316811,4.55,Current,820,Technology,01-09-2025
+1741,87460,6.79,Overdue,818,Retail,01-10-2025
+1742,424504,6.2,Current,459,Technology,01-11-2025
+1743,288416,6.05,Overdue,780,Manufacturing,01-12-2025
+1744,420941,7.7,Current,813,Transportation,1/13/2025
+1745,387957,7.59,Current,544,Healthcare,1/14/2025
+1746,95489,5.62,Current,820,Energy,1/15/2025
+1747,39264,5.24,Current,826,Manufacturing,1/16/2025
+1748,414184,7.06,Current,516,Telecommunications,1/17/2025
+1749,69952,6.39,Defaulted,536,Manufacturing,1/18/2025
+1750,478457,3.52,Defaulted,487,Telecommunications,1/19/2025
+1751,346517,6.89,Current,630,Construction,1/20/2025
+1752,295707,4.4,Current,740,Real Estate,1/21/2025
+1753,497944,6.02,Current,791,Real Estate,1/22/2025
+1754,261505,3.82,Overdue,839,Financial Services,1/23/2025
+1755,128404,4.16,Defaulted,785,Real Estate,1/24/2025
+1756,470793,8.44,Current,555,Healthcare,1/25/2025
+1757,107986,7.36,Current,574,Energy,1/26/2025
+1758,105831,4.02,Current,737,Telecommunications,1/27/2025
+1759,265723,8.48,Current,797,Real Estate,1/28/2025
+1760,290503,7.45,Current,593,Real Estate,1/29/2025
+1761,489672,4.93,Overdue,687,Technology,1/30/2025
+1762,216818,6.34,Current,631,Manufacturing,1/31/2025
+1763,232940,8.39,Current,467,Healthcare,02-01-2025
+1764,105015,6.82,Current,716,Manufacturing,02-02-2025
+1765,183042,7,Current,766,Telecommunications,02-03-2025
+1766,109598,8.26,Defaulted,746,Telecommunications,02-04-2025
+1767,256998,6.6,Current,645,Telecommunications,02-05-2025
+1768,149777,6.65,Current,594,Telecommunications,02-06-2025
+1769,10519,6.45,Current,820,Healthcare,02-07-2025
+1770,459435,5.93,Current,802,Technology,02-08-2025
+1771,27385,5.98,Overdue,697,Transportation,02-09-2025
+1772,50566,4.07,Overdue,636,Financial Services,02-10-2025
+1773,432035,4.13,Current,519,Healthcare,02-11-2025
+1774,360634,5.16,Current,606,Technology,02-12-2025
+1775,105156,4.35,Current,799,Financial Services,2/13/2025
+1776,381480,8.33,Current,654,Construction,2/14/2025
+1777,323779,3.66,Current,469,Retail,2/15/2025
+1778,110891,4.37,Current,510,Transportation,2/16/2025
+1779,229344,6.51,Overdue,804,Energy,2/17/2025
+1780,427409,4.94,Current,744,Financial Services,2/18/2025
+1781,352607,3.8,Defaulted,557,Energy,2/19/2025
+1782,301142,3.54,Current,744,Retail,2/20/2025
+1783,270349,5,Current,573,Technology,2/21/2025
+1784,194980,5.1,Overdue,752,Retail,2/22/2025
+1785,211087,6.66,Current,454,Energy,2/23/2025
+1786,440926,6.18,Current,646,Telecommunications,2/24/2025
+1787,325003,4.52,Current,479,Construction,2/25/2025
+1788,72956,6.23,Current,829,Retail,2/26/2025
+1789,102770,5.36,Current,532,Construction,2/27/2025
+1790,228130,4.08,Current,485,Transportation,2/28/2025
+1791,330843,4.94,Current,756,Healthcare,03-01-2025
+1792,304375,5.83,Current,845,Retail,03-02-2025
+1793,92885,3.67,Current,491,Telecommunications,03-03-2025
+1794,405485,3.93,Current,609,Construction,03-04-2025
+1795,110899,7.19,Overdue,795,Real Estate,03-05-2025
+1796,43301,5.3,Overdue,532,Real Estate,03-06-2025
+1797,177965,3.83,Current,545,Technology,03-07-2025
+1798,455230,5.45,Current,528,Real Estate,03-08-2025
+1799,125422,5.63,Current,479,Telecommunications,03-09-2025
+1800,95212,6.59,Overdue,718,Technology,03-10-2025
+1801,461055,3.62,Overdue,634,Transportation,03-11-2025
+1802,499535,7.99,Defaulted,813,Telecommunications,03-12-2025
+1803,261239,4.9,Defaulted,805,Construction,3/13/2025
+1804,125198,3.73,Current,644,Real Estate,3/14/2025
+1805,159139,6.25,Current,726,Manufacturing,3/15/2025
+1806,319080,8.25,Current,597,Retail,3/16/2025
+1807,136440,7.87,Current,757,Real Estate,3/17/2025
+1808,265351,7.74,Overdue,597,Financial Services,3/18/2025
+1809,135416,6.75,Current,625,Retail,3/19/2025
+1810,11072,6.35,Current,462,Technology,3/20/2025
+1811,407871,4.96,Current,780,Manufacturing,3/21/2025
+1812,416388,7.46,Current,774,Telecommunications,3/22/2025
+1813,369891,5.33,Current,631,Energy,3/23/2025
+1814,84440,5.24,Current,795,Telecommunications,3/24/2025
+1815,97968,5,Overdue,697,Retail,3/25/2025
+1816,280021,5.75,Overdue,658,Retail,3/26/2025
+1817,486876,3.64,Current,667,Energy,3/27/2025
+1818,222775,6.27,Current,823,Energy,3/28/2025
+1819,88174,3.75,Current,563,Energy,3/29/2025
+1820,447273,8.25,Overdue,468,Financial Services,3/30/2025
+1821,228240,6.6,Overdue,683,Transportation,3/31/2025
+1822,322075,6.59,Current,500,Financial Services,04-01-2025
+1823,126291,4.1,Defaulted,655,Telecommunications,04-02-2025
+1824,236678,8.05,Current,757,Retail,04-03-2025
+1825,470628,5.4,Current,625,Financial Services,04-04-2025
+1826,147978,6.52,Defaulted,847,Real Estate,04-05-2025
+1827,107596,3.75,Current,818,Technology,04-06-2025
+1828,100342,4.36,Current,495,Energy,04-07-2025
+1829,326504,5.96,Current,662,Manufacturing,04-08-2025
+1830,131606,5.97,Current,839,Real Estate,04-09-2025
+1831,414496,3.99,Overdue,506,Energy,04-10-2025
+1832,311668,5.32,Current,720,Telecommunications,04-11-2025
+1833,431888,3.68,Defaulted,473,Transportation,04-12-2025
+1834,70480,7.41,Current,651,Telecommunications,4/13/2025
+1835,419149,4.13,Current,649,Telecommunications,4/14/2025
+1836,96379,8.04,Current,775,Retail,4/15/2025
+1837,138070,4.14,Current,576,Telecommunications,4/16/2025
+1838,151891,4.99,Current,506,Healthcare,4/17/2025
+1839,486039,7.77,Current,459,Healthcare,4/18/2025
+1840,254952,8.03,Overdue,775,Energy,4/19/2025
+1841,289761,7.02,Current,566,Energy,4/20/2025
+1842,95676,7.71,Current,579,Energy,4/21/2025
+1843,33473,5.72,Current,820,Energy,4/22/2025
+1844,188612,6.04,Current,797,Retail,4/23/2025
+1845,220529,4.9,Current,496,Telecommunications,4/24/2025
+1846,142713,4.28,Current,830,Manufacturing,4/25/2025
+1847,87798,7.22,Current,580,Construction,4/26/2025
+1848,385421,6.68,Current,535,Telecommunications,4/27/2025
+1849,284843,8.15,Overdue,627,Retail,4/28/2025
+1850,343188,5.43,Current,714,Manufacturing,4/29/2025
+1851,409586,5.64,Current,477,Manufacturing,4/30/2025
+1852,302828,5.66,Current,841,Financial Services,05-01-2025
+1853,38226,4.95,Current,526,Healthcare,05-02-2025
+1854,57355,6.07,Current,667,Technology,05-03-2025
+1855,285451,7.81,Current,592,Retail,05-04-2025
+1856,71117,4.78,Defaulted,551,Financial Services,05-05-2025
+1857,329206,6.65,Current,844,Financial Services,05-06-2025
+1858,259352,5.01,Defaulted,611,Energy,05-07-2025
+1859,311914,4.15,Current,458,Real Estate,05-08-2025
+1860,101004,4.84,Current,574,Energy,05-09-2025
+1861,350771,7.94,Current,461,Technology,05-10-2025
+1862,95362,8.06,Current,653,Financial Services,05-11-2025
+1863,266016,6.5,Current,799,Telecommunications,05-12-2025
+1864,226333,5.12,Current,598,Real Estate,5/13/2025
+1865,309293,3.97,Overdue,675,Construction,5/14/2025
+1866,256050,5.28,Current,629,Real Estate,5/15/2025
+1867,313394,5.06,Current,574,Manufacturing,5/16/2025
+1868,185938,5.71,Current,513,Financial Services,5/17/2025
+1869,325325,4.45,Current,659,Healthcare,5/18/2025
+1870,213277,7.63,Current,603,Financial Services,5/19/2025
+1871,29494,3.88,Current,467,Healthcare,5/20/2025
+1872,243843,6.24,Current,562,Retail,5/21/2025
+1873,390712,7.72,Overdue,790,Telecommunications,5/22/2025
+1874,88874,4.63,Overdue,574,Financial Services,5/23/2025
+1875,33122,3.56,Current,794,Transportation,5/24/2025
+1876,98162,5.03,Overdue,578,Energy,5/25/2025
+1877,259467,6.28,Current,455,Telecommunications,5/26/2025
+1878,275693,5.37,Current,533,Construction,5/27/2025
+1879,125639,5.79,Current,635,Technology,5/28/2025
+1880,463713,5.47,Current,765,Financial Services,5/29/2025
+1881,334697,5.73,Current,806,Construction,5/30/2025
+1882,275769,8.1,Current,670,Healthcare,5/31/2025
+1883,378369,5.19,Defaulted,691,Telecommunications,06-01-2025
+1884,488585,6.98,Overdue,821,Manufacturing,06-02-2025
+1885,265594,8.11,Defaulted,566,Real Estate,06-03-2025
+1886,88924,7.49,Defaulted,627,Transportation,06-04-2025
+1887,159927,8.09,Current,795,Healthcare,06-05-2025
+1888,177555,7.54,Defaulted,595,Telecommunications,06-06-2025
+1889,263444,4.88,Overdue,617,Manufacturing,06-07-2025
+1890,246352,7.85,Current,460,Technology,06-08-2025
+1891,390905,6.89,Current,831,Telecommunications,06-09-2025
+1892,353698,7.04,Current,598,Construction,06-10-2025
+1893,152842,7.04,Overdue,744,Technology,06-11-2025
+1894,200930,3.95,Current,583,Transportation,06-12-2025
+1895,112333,7.22,Current,655,Construction,6/13/2025
+1896,407852,7.24,Overdue,820,Healthcare,6/14/2025
+1897,323757,4.91,Current,597,Construction,6/15/2025
+1898,82248,5.21,Current,708,Real Estate,6/16/2025
+1899,199875,7.88,Current,788,Transportation,6/17/2025
+1900,116790,3.56,Current,836,Financial Services,6/18/2025
+1901,473541,6.52,Overdue,595,Transportation,6/19/2025
+1902,221473,6.42,Current,685,Telecommunications,6/20/2025
+1903,359025,7.89,Overdue,750,Financial Services,6/21/2025
+1904,15115,4.1,Current,794,Transportation,6/22/2025
+1905,174595,8.27,Defaulted,502,Retail,6/23/2025
+1906,259266,6.45,Current,699,Transportation,6/24/2025
+1907,355298,7.93,Defaulted,530,Manufacturing,6/25/2025
+1908,14750,5.56,Current,796,Financial Services,6/26/2025
+1909,248726,5.32,Overdue,551,Financial Services,6/27/2025
+1910,440261,5.45,Current,833,Healthcare,6/28/2025
+1911,70600,5.81,Current,475,Healthcare,6/29/2025
+1912,111896,7.93,Current,720,Healthcare,6/30/2025
+1913,75564,8.22,Current,525,Energy,07-01-2025
+1914,453218,4.01,Current,792,Healthcare,07-02-2025
+1915,252213,7.48,Current,775,Technology,07-03-2025
+1916,444413,6.03,Current,833,Technology,07-04-2025
+1917,117041,5.23,Current,713,Technology,07-05-2025
+1918,459450,5.26,Current,553,Construction,07-06-2025
+1919,207214,3.54,Current,556,Healthcare,07-07-2025
+1920,426019,7.83,Current,829,Retail,07-08-2025
+1921,26359,4.54,Current,728,Financial Services,07-09-2025
+1922,365623,5.21,Current,786,Healthcare,07-10-2025
+1923,50439,5.77,Current,613,Real Estate,07-11-2025
+1924,272841,5.76,Current,833,Manufacturing,07-12-2025
+1925,246617,6.75,Defaulted,543,Healthcare,7/13/2025
+1926,366516,6.46,Current,785,Healthcare,7/14/2025
+1927,201952,7.57,Current,754,Manufacturing,7/15/2025
+1928,416054,4.66,Current,453,Real Estate,7/16/2025
+1929,297743,4.36,Overdue,668,Transportation,7/17/2025
+1930,87104,3.66,Current,827,Manufacturing,7/18/2025
+1931,298315,6.47,Current,595,Telecommunications,7/19/2025
+1932,19771,4.66,Defaulted,554,Manufacturing,7/20/2025
+1933,197318,5.09,Current,538,Financial Services,7/21/2025
+1934,152244,5.92,Current,665,Construction,7/22/2025
+1935,384654,4.13,Current,800,Transportation,7/23/2025
+1936,47054,6.2,Current,613,Retail,7/24/2025
+1937,41182,3.89,Overdue,748,Manufacturing,7/25/2025
+1938,408450,6.05,Current,604,Technology,7/26/2025
+1939,117578,5.98,Overdue,813,Construction,7/27/2025
+1940,202741,8.46,Overdue,489,Retail,7/28/2025
+1941,101344,8.25,Current,835,Telecommunications,7/29/2025
+1942,421818,6.13,Current,848,Construction,7/30/2025
+1943,178404,6.55,Current,548,Real Estate,7/31/2025
+1944,388661,4.04,Current,733,Healthcare,08-01-2025
+1945,43264,6.3,Current,712,Manufacturing,08-02-2025
+1946,27707,6.01,Current,781,Technology,08-03-2025
+1947,106974,4.19,Defaulted,691,Manufacturing,08-04-2025
+1948,456094,5.67,Current,520,Real Estate,08-05-2025
+1949,266160,6.14,Current,564,Real Estate,08-06-2025
+1950,436366,5.86,Current,798,Energy,08-07-2025
+1951,476893,8.06,Current,593,Transportation,08-08-2025
+1952,482150,4.68,Current,818,Financial Services,08-09-2025
+1953,36889,6.93,Defaulted,631,Healthcare,08-10-2025
+1954,46792,8.18,Current,839,Retail,08-11-2025
+1955,313219,4.99,Current,839,Technology,08-12-2025
+1956,232328,7.7,Current,518,Telecommunications,8/13/2025
+1957,389941,4.91,Current,821,Financial Services,8/14/2025
+1958,230838,7.73,Current,689,Transportation,8/15/2025
+1959,367303,5.92,Current,516,Technology,8/16/2025
+1960,247275,3.93,Current,747,Real Estate,8/17/2025
+1961,465208,7.7,Current,750,Telecommunications,8/18/2025
+1962,59311,7.94,Current,850,Construction,8/19/2025
+1963,198868,8.12,Overdue,710,Real Estate,8/20/2025
+1964,109255,4.32,Current,597,Financial Services,8/21/2025
+1965,410955,3.73,Overdue,511,Transportation,8/22/2025
+1966,337322,5.05,Overdue,591,Financial Services,8/23/2025
+1967,443912,4.12,Current,469,Manufacturing,8/24/2025
+1968,51197,7.06,Current,713,Telecommunications,8/25/2025
+1969,198008,7.91,Current,807,Retail,8/26/2025
+1970,423230,8.17,Current,486,Telecommunications,8/27/2025
+1971,283539,8.03,Current,598,Telecommunications,8/28/2025
+1972,46766,8.29,Overdue,754,Technology,8/29/2025
+1973,219036,4.33,Current,502,Manufacturing,8/30/2025
+1974,44114,4.98,Current,676,Financial Services,8/31/2025
+1975,97397,6.76,Current,563,Retail,09-01-2025
+1976,68511,7.69,Overdue,718,Real Estate,09-02-2025
+1977,239295,7.3,Overdue,517,Manufacturing,09-03-2025
+1978,238729,5.24,Defaulted,539,Transportation,09-04-2025
+1979,101777,6.13,Current,722,Real Estate,09-05-2025
+1980,494439,5.85,Current,536,Telecommunications,09-06-2025
+1981,57373,7.95,Overdue,606,Real Estate,09-07-2025
+1982,220185,8.15,Current,777,Financial Services,09-08-2025
+1983,260453,7.57,Current,620,Telecommunications,09-09-2025
+1984,118985,6.98,Current,836,Healthcare,09-10-2025
+1985,169683,6.56,Current,845,Construction,09-11-2025
+1986,95820,7.55,Current,461,Retail,09-12-2025
+1987,96627,7.65,Current,823,Retail,9/13/2025
+1988,243793,8,Current,700,Technology,9/14/2025
+1989,443771,3.88,Current,695,Energy,9/15/2025
+1990,357838,6.68,Current,660,Construction,9/16/2025
+1991,245438,7.07,Defaulted,527,Healthcare,9/17/2025
+1992,39329,6.3,Current,558,Transportation,9/18/2025
+1993,487982,6.52,Current,836,Manufacturing,9/19/2025
+1994,169101,4.63,Overdue,455,Transportation,9/20/2025
+1995,99853,5.34,Overdue,607,Manufacturing,9/21/2025
+1996,138104,6,Overdue,482,Construction,9/22/2025
+1997,41945,7.82,Current,579,Healthcare,9/23/2025
+1998,434802,4.7,Current,532,Retail,9/24/2025
+1999,333116,8.4,Current,713,Telecommunications,9/25/2025
+2000,242127,6.63,Current,681,Telecommunications,9/26/2025
+2001,37572,5.54,Current,807,Healthcare,9/27/2025
+2002,400650,8.12,Current,617,Financial Services,9/28/2025
+2003,420602,5.82,Overdue,769,Real Estate,9/29/2025
+2004,132723,4.56,Current,744,Real Estate,9/30/2025
+2005,245280,4.98,Overdue,451,Telecommunications,10-01-2025
+2006,463095,4.22,Overdue,476,Transportation,10-02-2025
+2007,88571,8.38,Current,833,Real Estate,10-03-2025
+2008,22526,5.92,Current,846,Energy,10-04-2025
+2009,135193,8.48,Current,569,Technology,10-05-2025
+2010,417169,6.74,Current,739,Technology,10-06-2025
+2011,42182,7.18,Current,600,Energy,10-07-2025
+2012,347220,6.33,Current,764,Healthcare,10-08-2025
+2013,104777,4.26,Current,761,Real Estate,10-09-2025
+2014,186248,4.54,Current,780,Construction,10-10-2025
+2015,388968,4.73,Overdue,743,Energy,10-11-2025
+2016,212702,7.96,Current,706,Telecommunications,10-12-2025
+2017,197335,6.86,Current,553,Financial Services,10/13/2025
+2018,165558,6.61,Overdue,600,Transportation,10/14/2025
+2019,414752,4.65,Current,649,Manufacturing,10/15/2025
+2020,432244,7.56,Current,838,Transportation,10/16/2025
+2021,282946,7.32,Current,702,Construction,10/17/2025
+2022,487141,4.45,Defaulted,692,Manufacturing,10/18/2025
+2023,245113,4.55,Current,608,Transportation,10/19/2025
+2024,141761,7.4,Current,659,Financial Services,10/20/2025
+2025,272770,4,Current,487,Real Estate,10/21/2025
+2026,109183,6.37,Current,639,Manufacturing,10/22/2025
+2027,310765,6.84,Current,522,Energy,10/23/2025
+2028,188785,6.52,Current,581,Healthcare,10/24/2025
+2029,237771,6.79,Current,722,Transportation,10/25/2025
+2030,136082,3.79,Current,828,Healthcare,10/26/2025
+2031,429497,3.63,Overdue,736,Construction,10/27/2025
+2032,361495,7.62,Current,643,Real Estate,10/28/2025
+2033,118409,5.12,Current,500,Real Estate,10/29/2025
+2034,321200,6.35,Defaulted,769,Healthcare,10/30/2025
+2035,217279,6.08,Current,700,Technology,10/31/2025
+2036,26688,6.24,Current,570,Real Estate,11-01-2025
+2037,176653,7.5,Current,465,Telecommunications,11-02-2025
+2038,316881,7.1,Current,781,Energy,11-03-2025
+2039,300048,6.68,Current,545,Telecommunications,11-04-2025
+2040,232194,5.75,Current,663,Energy,11-05-2025
+2041,351833,6.01,Current,763,Financial Services,11-06-2025
+2042,58363,7.89,Current,831,Real Estate,11-07-2025
+2043,172777,4.69,Current,475,Real Estate,11-08-2025
+2044,140314,6.14,Current,685,Transportation,11-09-2025
+2045,169723,3.55,Overdue,660,Financial Services,11-10-2025
+2046,42556,8.49,Current,674,Telecommunications,11-11-2025
+2047,396317,6.94,Defaulted,542,Transportation,11-12-2025
+2048,225045,8.29,Current,545,Real Estate,11/13/2025
+2049,227816,6.57,Current,791,Technology,11/14/2025
+2050,13848,7.89,Current,763,Telecommunications,11/15/2025
+2051,339902,3.82,Defaulted,549,Retail,11/16/2025
+2052,88949,5.6,Current,694,Healthcare,11/17/2025
+2053,435825,5.28,Current,660,Telecommunications,11/18/2025
+2054,200690,7.01,Overdue,809,Real Estate,11/19/2025
+2055,191643,5.14,Current,539,Construction,11/20/2025
+2056,195696,7.08,Current,478,Real Estate,11/21/2025
+2057,470913,7.68,Current,796,Transportation,11/22/2025
+2058,31192,3.77,Overdue,542,Healthcare,11/23/2025
+2059,244151,5.6,Overdue,524,Telecommunications,11/24/2025
+2060,361189,6.83,Current,597,Healthcare,11/25/2025
+2061,347197,4.46,Current,476,Construction,11/26/2025
+2062,28771,6.24,Current,802,Manufacturing,11/27/2025
+2063,136596,5.87,Current,585,Telecommunications,11/28/2025
+2064,456016,4.58,Current,719,Healthcare,11/29/2025
+2065,403453,6.89,Current,746,Construction,11/30/2025
+2066,485313,4.43,Current,783,Manufacturing,12-01-2025
+2067,324643,7.14,Current,747,Financial Services,12-02-2025
+2068,286233,8.25,Overdue,797,Energy,12-03-2025
+2069,352101,3.94,Defaulted,684,Transportation,12-04-2025
+2070,72140,6.72,Current,532,Healthcare,12-05-2025
+2071,108342,5.38,Current,813,Technology,12-06-2025
+2072,89052,5.82,Overdue,780,Retail,12-07-2025
+2073,375072,6.22,Current,850,Retail,12-08-2025
+2074,75978,4.36,Current,779,Retail,12-09-2025
+2075,10201,4.85,Overdue,458,Healthcare,12-10-2025
+2076,314586,5.07,Current,760,Transportation,12-11-2025
+2077,201435,5.82,Current,612,Real Estate,12-12-2025
+2078,404819,4.84,Current,524,Healthcare,12/13/2025
+2079,187217,6.19,Current,555,Financial Services,12/14/2025
+2080,485064,4.9,Current,649,Technology,12/15/2025
+2081,311606,7.75,Overdue,554,Financial Services,12/16/2025
+2082,202508,3.54,Defaulted,650,Telecommunications,12/17/2025
+2083,237965,3.65,Overdue,670,Real Estate,12/18/2025
+2084,497102,4.93,Current,619,Retail,12/19/2025
+2085,109564,7.22,Defaulted,747,Real Estate,12/20/2025
+2086,258541,5.26,Defaulted,549,Telecommunications,12/21/2025
+2087,258299,6.81,Current,582,Transportation,12/22/2025
+2088,267547,3.76,Current,616,Healthcare,12/23/2025
+2089,196327,4.51,Overdue,821,Financial Services,12/24/2025
+2090,256016,3.7,Current,456,Energy,12/25/2025
+2091,354155,6.83,Overdue,532,Telecommunications,12/26/2025
+2092,253862,5.37,Current,579,Financial Services,12/27/2025
+2093,359163,4.88,Current,680,Healthcare,12/28/2025
+2094,138598,7.65,Defaulted,602,Construction,12/29/2025
+2095,17201,6.73,Current,780,Manufacturing,12/30/2025
+2096,471498,5.83,Current,773,Transportation,12/31/2025
+2097,366219,5.39,Current,746,Transportation,01-01-2026
+2098,242953,3.7,Current,507,Financial Services,01-02-2026
+2099,77116,4.78,Defaulted,541,Healthcare,01-03-2026
+2100,359569,3.89,Current,714,Financial Services,01-04-2026
+2101,256007,7.68,Overdue,569,Real Estate,01-05-2026
+2102,120517,5.09,Current,750,Healthcare,01-06-2026
+2103,446465,8.19,Current,818,Financial Services,01-07-2026
+2104,162835,6.78,Current,598,Healthcare,01-08-2026
+2105,118957,5.35,Current,454,Energy,01-09-2026
+2106,371933,7.21,Current,673,Financial Services,01-10-2026
+2107,61580,7.24,Current,588,Transportation,01-11-2026
+2108,403530,5.58,Defaulted,792,Telecommunications,01-12-2026
+2109,227079,5.33,Current,647,Healthcare,1/13/2026
+2110,208804,4.27,Overdue,669,Manufacturing,1/14/2026
+2111,180297,8.2,Defaulted,556,Financial Services,1/15/2026
+2112,58035,5.25,Current,682,Real Estate,1/16/2026
+2113,328768,4.16,Current,640,Technology,1/17/2026
+2114,96920,6.65,Current,577,Healthcare,1/18/2026
+2115,12981,6.63,Current,844,Telecommunications,1/19/2026
+2116,29706,5.83,Current,500,Technology,1/20/2026
+2117,191388,3.76,Current,792,Financial Services,1/21/2026
+2118,279627,5.46,Current,649,Transportation,1/22/2026
+2119,268091,7.73,Current,739,Telecommunications,1/23/2026
+2120,178237,6.6,Current,694,Retail,1/24/2026
+2121,74822,7.3,Current,786,Healthcare,1/25/2026
+2122,204329,6.79,Current,706,Real Estate,1/26/2026
+2123,290661,5.04,Current,692,Real Estate,1/27/2026
+2124,281335,6.1,Defaulted,848,Energy,1/28/2026
+2125,187000,7.81,Overdue,814,Energy,1/29/2026
+2126,425716,8.43,Current,638,Construction,1/30/2026
+2127,265601,8.37,Defaulted,664,Telecommunications,1/31/2026
+2128,12930,3.83,Current,771,Retail,02-01-2026
+2129,485685,5.56,Overdue,468,Manufacturing,02-02-2026
+2130,240370,6.43,Current,801,Manufacturing,02-03-2026
+2131,218853,3.54,Overdue,503,Real Estate,02-04-2026
+2132,166352,3.5,Current,464,Transportation,02-05-2026
+2133,378023,5.57,Current,845,Construction,02-06-2026
+2134,296669,5.59,Current,517,Real Estate,02-07-2026
+2135,490718,7.71,Current,810,Energy,02-08-2026
+2136,282090,3.77,Overdue,685,Telecommunications,02-09-2026
+2137,60415,6.86,Overdue,753,Real Estate,02-10-2026
+2138,60699,8.19,Current,456,Retail,02-11-2026
+2139,124790,3.93,Defaulted,665,Technology,02-12-2026
+2140,435844,4.88,Current,550,Manufacturing,2/13/2026
+2141,240310,6.29,Overdue,739,Retail,2/14/2026
+2142,281747,5.02,Current,720,Retail,2/15/2026
+2143,424527,4.23,Overdue,754,Healthcare,2/16/2026
+2144,301911,7.87,Current,615,Manufacturing,2/17/2026
+2145,184618,7.26,Current,760,Real Estate,2/18/2026
+2146,433918,7.16,Current,585,Telecommunications,2/19/2026
+2147,219586,8.34,Current,691,Transportation,2/20/2026
+2148,395482,4.03,Current,780,Real Estate,2/21/2026
+2149,474259,3.91,Overdue,523,Manufacturing,2/22/2026
+2150,360537,5.64,Current,481,Construction,2/23/2026
+2151,332666,4.08,Current,493,Technology,2/24/2026
+2152,430360,7.58,Current,589,Construction,2/25/2026
+2153,403822,5.79,Overdue,564,Financial Services,2/26/2026
+2154,211733,3.75,Current,567,Retail,2/27/2026
+2155,276051,3.63,Defaulted,816,Real Estate,2/28/2026
+2156,440896,7.56,Current,778,Manufacturing,03-01-2026
+2157,245089,7.45,Current,483,Construction,03-02-2026
+2158,420771,5.28,Current,479,Technology,03-03-2026
+2159,372327,4.23,Overdue,743,Technology,03-04-2026
+2160,369209,8.29,Current,489,Energy,03-05-2026
+2161,80571,6.5,Current,744,Energy,03-06-2026
+2162,294684,6.94,Current,619,Healthcare,03-07-2026
+2163,438187,6.06,Overdue,830,Healthcare,03-08-2026
+2164,415687,5.91,Current,667,Manufacturing,03-09-2026
+2165,46418,5.87,Current,752,Healthcare,03-10-2026
+2166,134439,6.08,Current,595,Manufacturing,03-11-2026
+2167,328782,5.93,Overdue,571,Energy,03-12-2026
+2168,229569,5.09,Current,637,Telecommunications,3/13/2026
+2169,202614,5.13,Current,729,Manufacturing,3/14/2026
+2170,327036,7.73,Current,564,Retail,3/15/2026
+2171,322563,6.79,Current,581,Real Estate,3/16/2026
+2172,65762,4.08,Current,823,Energy,3/17/2026
+2173,187288,6.64,Current,803,Healthcare,3/18/2026
+2174,314490,8.32,Current,604,Financial Services,3/19/2026
+2175,300147,6.45,Current,462,Manufacturing,3/20/2026
+2176,182349,5.6,Overdue,509,Financial Services,3/21/2026
+2177,77811,3.83,Current,495,Construction,3/22/2026
+2178,454524,7.41,Current,614,Energy,3/23/2026
+2179,10835,6.88,Overdue,781,Telecommunications,3/24/2026
+2180,430374,5.62,Overdue,522,Telecommunications,3/25/2026
+2181,29500,5.69,Current,795,Construction,3/26/2026
+2182,476045,4.06,Overdue,650,Retail,3/27/2026
+2183,72655,8.05,Defaulted,663,Transportation,3/28/2026
+2184,99991,6.63,Current,488,Telecommunications,3/29/2026
+2185,375979,8.35,Current,588,Financial Services,3/30/2026
+2186,102907,7.46,Current,584,Transportation,3/31/2026
+2187,315523,4.55,Current,616,Financial Services,04-01-2026
+2188,442981,4.16,Overdue,840,Transportation,04-02-2026
+2189,34355,4.38,Current,512,Manufacturing,04-03-2026
+2190,15783,8.21,Defaulted,517,Healthcare,04-04-2026
+2191,465906,4.11,Overdue,597,Retail,04-05-2026
+2192,305375,3.67,Current,701,Transportation,04-06-2026
+2193,370695,7.02,Current,532,Healthcare,04-07-2026
+2194,143966,3.94,Current,840,Technology,04-08-2026
+2195,377666,4.61,Overdue,540,Construction,04-09-2026
+2196,79756,4.36,Current,846,Manufacturing,04-10-2026
+2197,178560,4.8,Current,789,Construction,04-11-2026
+2198,69412,7.66,Current,456,Energy,04-12-2026
+2199,323573,7.78,Overdue,495,Energy,4/13/2026
+2200,294163,4.75,Current,664,Technology,4/14/2026
+2201,204614,6.18,Current,469,Real Estate,4/15/2026
+2202,387621,3.7,Current,800,Telecommunications,4/16/2026
+2203,50511,7.61,Current,462,Healthcare,4/17/2026
+2204,120999,7.24,Current,485,Construction,4/18/2026
+2205,333267,7.3,Overdue,475,Healthcare,4/19/2026
+2206,108306,6.8,Current,581,Construction,4/20/2026
+2207,106969,5.54,Current,471,Transportation,4/21/2026
+2208,85971,5.43,Defaulted,755,Healthcare,4/22/2026
+2209,180299,7.48,Current,619,Transportation,4/23/2026
+2210,408753,7.47,Current,758,Construction,4/24/2026
+2211,416454,5.2,Current,517,Telecommunications,4/25/2026
+2212,64657,4.46,Current,849,Real Estate,4/26/2026
+2213,320426,6.49,Defaulted,736,Energy,4/27/2026
+2214,441141,7.35,Current,812,Financial Services,4/28/2026
+2215,62049,4.85,Current,774,Telecommunications,4/29/2026
+2216,111211,7.15,Defaulted,725,Retail,4/30/2026
+2217,480345,5.35,Defaulted,842,Transportation,05-01-2026
+2218,177598,5.72,Overdue,622,Healthcare,05-02-2026
+2219,447979,5.7,Current,731,Real Estate,05-03-2026
+2220,209322,4.41,Defaulted,499,Real Estate,05-04-2026
+2221,380275,5.38,Defaulted,593,Financial Services,05-05-2026
+2222,184524,6,Current,564,Energy,05-06-2026
+2223,107822,7.01,Overdue,677,Financial Services,05-07-2026
+2224,453054,7.65,Defaulted,487,Energy,05-08-2026
+2225,123321,4.88,Current,799,Energy,05-09-2026
+2226,431405,5.44,Current,489,Financial Services,05-10-2026
+2227,295717,3.56,Current,456,Telecommunications,05-11-2026
+2228,257955,4.55,Current,470,Retail,05-12-2026
+2229,133864,5.09,Current,835,Transportation,5/13/2026
+2230,13363,5.77,Current,780,Energy,5/14/2026
+2231,48442,4.44,Current,721,Retail,5/15/2026
+2232,324185,6.3,Current,681,Construction,5/16/2026
+2233,135360,5.81,Defaulted,708,Energy,5/17/2026
+2234,26044,5.79,Defaulted,829,Transportation,5/18/2026
+2235,402216,8.09,Current,764,Manufacturing,5/19/2026
+2236,338750,7.89,Current,545,Construction,5/20/2026
+2237,497190,7.5,Defaulted,636,Technology,5/21/2026
+2238,457923,7.66,Current,658,Healthcare,5/22/2026
+2239,275503,6.01,Current,810,Financial Services,5/23/2026
+2240,473014,4.55,Overdue,596,Healthcare,5/24/2026
+2241,479199,7.98,Current,579,Telecommunications,5/25/2026
+2242,236315,6.73,Overdue,543,Telecommunications,5/26/2026
+2243,299729,7.72,Defaulted,648,Financial Services,5/27/2026
+2244,347812,6.13,Overdue,754,Healthcare,5/28/2026
+2245,257090,3.63,Defaulted,691,Retail,5/29/2026
+2246,232775,7.05,Overdue,751,Manufacturing,5/30/2026
+2247,362809,4.14,Current,728,Telecommunications,5/31/2026
+2248,83304,7.05,Current,641,Healthcare,06-01-2026
+2249,303277,8.14,Overdue,743,Telecommunications,06-02-2026
+2250,86438,4.82,Overdue,809,Financial Services,06-03-2026
+2251,365525,4.11,Current,699,Real Estate,06-04-2026
+2252,424493,4.68,Current,618,Real Estate,06-05-2026
+2253,205744,3.92,Current,656,Technology,06-06-2026
+2254,351291,3.51,Current,543,Transportation,06-07-2026
+2255,419745,7.17,Defaulted,765,Construction,06-08-2026
+2256,305732,4.16,Current,562,Construction,06-09-2026
+2257,285306,7.92,Overdue,476,Telecommunications,06-10-2026
+2258,68427,7.4,Current,827,Construction,06-11-2026
+2259,182072,4.31,Current,495,Energy,06-12-2026
+2260,415273,4.12,Defaulted,725,Construction,6/13/2026
+2261,380687,8.35,Current,729,Transportation,6/14/2026
+2262,480276,7.73,Defaulted,772,Energy,6/15/2026
+2263,230168,5.4,Overdue,701,Construction,6/16/2026
+2264,381212,7.99,Current,490,Energy,6/17/2026
+2265,23524,4.19,Current,490,Real Estate,6/18/2026
+2266,383219,3.63,Current,799,Healthcare,6/19/2026
+2267,460476,8.43,Current,702,Technology,6/20/2026
+2268,397017,7.6,Current,593,Real Estate,6/21/2026
+2269,50818,4.57,Current,850,Energy,6/22/2026
+2270,275328,4.27,Overdue,774,Manufacturing,6/23/2026
+2271,289917,8.3,Current,612,Energy,6/24/2026
+2272,94245,5.2,Current,650,Real Estate,6/25/2026
+2273,347774,5.83,Current,672,Construction,6/26/2026
+2274,29832,8.45,Current,637,Healthcare,6/27/2026
+2275,480864,4.51,Defaulted,817,Manufacturing,6/28/2026
+2276,136766,6.95,Current,624,Construction,6/29/2026
+2277,457771,6.58,Overdue,634,Real Estate,6/30/2026
+2278,214150,5.11,Current,521,Telecommunications,07-01-2026
+2279,310739,6.34,Current,579,Financial Services,07-02-2026
+2280,398800,5.55,Current,619,Energy,07-03-2026
+2281,135487,7.52,Current,539,Financial Services,07-04-2026
+2282,241051,4.07,Current,824,Retail,07-05-2026
+2283,175411,5.63,Current,725,Energy,07-06-2026
+2284,308663,4.44,Current,521,Healthcare,07-07-2026
+2285,409231,7.35,Current,814,Manufacturing,07-08-2026
+2286,485365,3.62,Overdue,728,Transportation,07-09-2026
+2287,96613,7.68,Current,806,Healthcare,07-10-2026
+2288,241373,6.05,Current,675,Technology,07-11-2026
+2289,310620,6.6,Defaulted,768,Healthcare,07-12-2026
+2290,149893,4.34,Overdue,751,Telecommunications,7/13/2026
+2291,405535,6.53,Current,734,Financial Services,7/14/2026
+2292,419065,7.21,Current,568,Construction,7/15/2026
+2293,129138,7.43,Current,803,Retail,7/16/2026
+2294,376708,6.95,Current,834,Transportation,7/17/2026
+2295,225340,8.14,Defaulted,600,Telecommunications,7/18/2026
+2296,13053,3.82,Current,659,Energy,7/19/2026
+2297,239415,7.38,Current,596,Transportation,7/20/2026
+2298,491773,5.93,Current,789,Telecommunications,7/21/2026
+2299,470535,5.54,Current,774,Retail,7/22/2026
+2300,244673,8.43,Current,479,Retail,7/23/2026
+2301,271252,4.74,Current,630,Construction,7/24/2026
+2302,395034,7.18,Overdue,515,Telecommunications,7/25/2026
+2303,282302,7.14,Overdue,817,Healthcare,7/26/2026
+2304,243735,5.39,Overdue,606,Healthcare,7/27/2026
+2305,227532,4.65,Current,840,Real Estate,7/28/2026
+2306,291328,8.48,Current,787,Financial Services,7/29/2026
+2307,41529,4.91,Current,768,Construction,7/30/2026
+2308,243735,6.53,Defaulted,629,Manufacturing,7/31/2026
+2309,38463,4.12,Overdue,519,Energy,08-01-2026
+2310,288566,5.6,Defaulted,483,Energy,08-02-2026
+2311,304370,5.99,Current,740,Technology,08-03-2026
+2312,55884,3.98,Current,678,Telecommunications,08-04-2026
+2313,317153,7.08,Current,587,Real Estate,08-05-2026
+2314,237233,6.33,Current,619,Construction,08-06-2026
+2315,147938,3.92,Current,813,Energy,08-07-2026
+2316,427007,4.53,Current,541,Telecommunications,08-08-2026
+2317,335275,6.75,Current,845,Technology,08-09-2026
+2318,443183,7.49,Current,481,Telecommunications,08-10-2026
+2319,141520,3.81,Current,594,Financial Services,08-11-2026
+2320,194825,6.75,Current,706,Telecommunications,08-12-2026
+2321,10864,6.28,Current,514,Healthcare,8/13/2026
+2322,46969,7.83,Overdue,689,Telecommunications,8/14/2026
+2323,447778,5.08,Current,606,Financial Services,8/15/2026
+2324,24342,7.32,Current,575,Healthcare,8/16/2026
+2325,216614,3.95,Current,600,Manufacturing,8/17/2026
+2326,225106,8.06,Defaulted,592,Energy,8/18/2026
+2327,117634,3.67,Current,485,Retail,8/19/2026
+2328,383228,6.41,Current,606,Construction,8/20/2026
+2329,302374,5.07,Overdue,770,Real Estate,8/21/2026
+2330,133604,5.82,Current,515,Technology,8/22/2026
+2331,242932,3.9,Current,760,Technology,8/23/2026
+2332,180270,7.61,Defaulted,601,Technology,8/24/2026
+2333,90785,4.38,Current,688,Retail,8/25/2026
+2334,167662,3.69,Overdue,696,Telecommunications,8/26/2026
+2335,414485,7.8,Overdue,574,Financial Services,8/27/2026
+2336,413117,6.23,Current,723,Transportation,8/28/2026
+2337,41794,5.54,Current,554,Manufacturing,8/29/2026
+2338,83709,5.11,Defaulted,539,Real Estate,8/30/2026
+2339,95554,8.3,Current,489,Telecommunications,8/31/2026
+2340,165644,6.7,Current,807,Transportation,09-01-2026
+2341,359344,3.67,Current,720,Real Estate,09-02-2026
+2342,254186,5.25,Overdue,850,Telecommunications,09-03-2026
+2343,465903,6.42,Current,528,Telecommunications,09-04-2026
+2344,468098,5.95,Defaulted,625,Financial Services,09-05-2026
+2345,53160,6.82,Overdue,818,Retail,09-06-2026
+2346,138336,8.25,Current,632,Construction,09-07-2026
+2347,250712,4.24,Overdue,819,Telecommunications,09-08-2026
+2348,67720,6.24,Current,635,Telecommunications,09-09-2026
+2349,245482,6.02,Current,458,Financial Services,09-10-2026
+2350,20944,3.93,Overdue,515,Construction,09-11-2026
+2351,407397,7.61,Current,536,Manufacturing,09-12-2026
+2352,114189,3.96,Overdue,582,Real Estate,9/13/2026
+2353,288534,5.93,Overdue,813,Telecommunications,9/14/2026
+2354,256817,5.09,Current,847,Telecommunications,9/15/2026
+2355,176173,3.72,Current,847,Manufacturing,9/16/2026
+2356,78904,8.31,Current,663,Transportation,9/17/2026
+2357,344713,7.99,Overdue,770,Construction,9/18/2026
+2358,483815,6.14,Overdue,659,Energy,9/19/2026
+2359,64710,3.72,Current,781,Technology,9/20/2026
+2360,128793,3.54,Current,482,Transportation,9/21/2026
+2361,150812,3.97,Current,534,Telecommunications,9/22/2026
+2362,354150,7.55,Current,756,Real Estate,9/23/2026
+2363,61517,6.93,Current,627,Financial Services,9/24/2026
+2364,391233,5.25,Current,518,Construction,9/25/2026
+2365,395496,3.81,Overdue,840,Technology,9/26/2026
+2366,288248,8.39,Current,849,Technology,9/27/2026
+2367,479403,6.39,Current,706,Financial Services,9/28/2026
+2368,436371,8.15,Current,752,Real Estate,9/29/2026
+2369,31103,4.07,Current,592,Technology,9/30/2026
+2370,149495,7.03,Overdue,619,Retail,10-01-2026
+2371,59454,8.06,Current,467,Telecommunications,10-02-2026
+2372,240269,6.34,Overdue,516,Real Estate,10-03-2026
+2373,292450,6.53,Current,477,Technology,10-04-2026
+2374,161761,4.27,Defaulted,509,Construction,10-05-2026
+2375,391404,4.19,Overdue,506,Construction,10-06-2026
+2376,384238,4.75,Defaulted,666,Energy,10-07-2026
+2377,75015,6.45,Current,616,Technology,10-08-2026
+2378,284805,3.58,Current,528,Construction,10-09-2026
+2379,254089,3.56,Current,610,Manufacturing,10-10-2026
+2380,280233,4.57,Current,521,Manufacturing,10-11-2026
+2381,405285,6.45,Defaulted,779,Retail,10-12-2026
+2382,123858,6.68,Current,457,Telecommunications,10/13/2026
+2383,161622,6.82,Current,616,Manufacturing,10/14/2026
+2384,409123,5.15,Current,668,Transportation,10/15/2026
+2385,136655,4.77,Current,539,Construction,10/16/2026
+2386,115371,5.69,Current,750,Manufacturing,10/17/2026
+2387,250663,3.68,Overdue,518,Telecommunications,10/18/2026
+2388,209929,5.95,Current,518,Telecommunications,10/19/2026
+2389,258089,5.91,Overdue,845,Technology,10/20/2026
+2390,388190,3.88,Current,613,Retail,10/21/2026
+2391,113424,7.63,Current,752,Real Estate,10/22/2026
+2392,112380,7.68,Defaulted,500,Retail,10/23/2026
+2393,199666,5.84,Current,655,Real Estate,10/24/2026
+2394,159196,5.24,Current,452,Real Estate,10/25/2026
+2395,472642,6.48,Overdue,529,Real Estate,10/26/2026
+2396,260825,6.86,Current,469,Manufacturing,10/27/2026
+2397,110487,6.64,Current,672,Healthcare,10/28/2026
+2398,287001,7.9,Overdue,790,Financial Services,10/29/2026
+2399,229592,8.28,Current,564,Construction,10/30/2026
+2400,243769,5.43,Current,682,Financial Services,10/31/2026
+2401,492389,6.48,Current,780,Real Estate,11-01-2026
+2402,485297,6.35,Overdue,578,Technology,11-02-2026
+2403,387595,4.96,Overdue,662,Financial Services,11-03-2026
+2404,473181,4.59,Overdue,651,Retail,11-04-2026
+2405,412137,6.81,Overdue,453,Energy,11-05-2026
+2406,78065,7.04,Overdue,534,Telecommunications,11-06-2026
+2407,160634,7.78,Current,592,Telecommunications,11-07-2026
+2408,477792,5.54,Defaulted,795,Manufacturing,11-08-2026
+2409,225482,4.34,Overdue,748,Financial Services,11-09-2026
+2410,301524,4.38,Defaulted,836,Energy,11-10-2026
+2411,94908,7.47,Current,451,Transportation,11-11-2026
+2412,245530,8.31,Current,809,Real Estate,11-12-2026
+2413,291227,5.25,Overdue,667,Energy,11/13/2026
+2414,470245,6.52,Current,750,Energy,11/14/2026
+2415,406569,5.38,Current,459,Healthcare,11/15/2026
+2416,243658,8.28,Current,659,Financial Services,11/16/2026
+2417,498359,6.47,Overdue,792,Technology,11/17/2026
+2418,477762,6.26,Overdue,775,Technology,11/18/2026
+2419,419026,5.8,Overdue,608,Financial Services,11/19/2026
+2420,201439,4.32,Current,839,Transportation,11/20/2026
+2421,237916,6.89,Overdue,658,Transportation,11/21/2026
+2422,339367,8.33,Current,808,Construction,11/22/2026
+2423,175823,8.46,Current,781,Telecommunications,11/23/2026
+2424,382320,6.48,Current,794,Real Estate,11/24/2026
+2425,420316,6.76,Current,692,Financial Services,11/25/2026
+2426,207234,5.52,Current,677,Real Estate,11/26/2026
+2427,322476,4.97,Current,765,Construction,11/27/2026
+2428,305870,8.48,Current,793,Transportation,11/28/2026
+2429,257405,7.73,Current,704,Financial Services,11/29/2026
+2430,10394,3.56,Defaulted,771,Construction,11/30/2026
+2431,384133,3.88,Current,825,Manufacturing,12-01-2026
+2432,405470,3.96,Current,777,Energy,12-02-2026
+2433,99303,6.01,Current,510,Financial Services,12-03-2026
+2434,21659,5.47,Current,718,Telecommunications,12-04-2026
+2435,12027,6.2,Current,616,Transportation,12-05-2026
+2436,278662,4.48,Current,598,Transportation,12-06-2026
+2437,77256,4.99,Current,797,Manufacturing,12-07-2026
+2438,124499,3.58,Current,789,Energy,12-08-2026
+2439,56156,8.08,Current,576,Telecommunications,12-09-2026
+2440,355655,4.58,Overdue,522,Real Estate,12-10-2026
+2441,389282,3.87,Current,587,Healthcare,12-11-2026
+2442,326536,6.45,Defaulted,643,Telecommunications,12-12-2026
+2443,37395,7.22,Overdue,847,Transportation,12/13/2026
+2444,112246,7.87,Current,548,Construction,12/14/2026
+2445,286864,5.27,Overdue,643,Energy,12/15/2026
+2446,99850,5.49,Defaulted,739,Telecommunications,12/16/2026
+2447,230258,7.89,Current,741,Telecommunications,12/17/2026
+2448,144075,3.65,Current,746,Real Estate,12/18/2026
+2449,407506,4.64,Current,708,Financial Services,12/19/2026
+2450,422677,8.24,Current,815,Energy,12/20/2026
+2451,168034,5.69,Current,732,Energy,12/21/2026
+2452,240294,6.96,Current,727,Real Estate,12/22/2026
+2453,131326,8.3,Overdue,677,Technology,12/23/2026
+2454,284329,4.35,Current,728,Construction,12/24/2026
+2455,102465,3.85,Current,619,Retail,12/25/2026
+2456,134440,6.58,Current,546,Energy,12/26/2026
+2457,330205,7.54,Defaulted,626,Real Estate,12/27/2026
+2458,16819,5.43,Current,467,Technology,12/28/2026
+2459,348902,5.79,Defaulted,733,Telecommunications,12/29/2026
+2460,245040,7.4,Current,741,Healthcare,12/30/2026
+2461,89349,6.76,Overdue,822,Real Estate,12/31/2026
+2462,174883,3.78,Overdue,703,Financial Services,01-01-2027
+2463,363168,4.42,Current,846,Construction,01-02-2027
+2464,409090,4.1,Current,624,Retail,01-03-2027
+2465,257782,4.72,Current,713,Manufacturing,01-04-2027
+2466,247480,6.84,Current,514,Financial Services,01-05-2027
+2467,215328,4.93,Current,758,Transportation,01-06-2027
+2468,358621,5.94,Current,607,Telecommunications,01-07-2027
+2469,274281,4.18,Current,462,Manufacturing,01-08-2027
+2470,144602,3.58,Current,518,Technology,01-09-2027
+2471,462024,8.16,Current,512,Technology,01-10-2027
+2472,330223,4.27,Overdue,564,Telecommunications,01-11-2027
+2473,14329,7.15,Current,475,Financial Services,01-12-2027
+2474,167736,6.29,Current,568,Manufacturing,1/13/2027
+2475,139444,7.58,Current,588,Retail,1/14/2027
+2476,17993,8.14,Current,558,Transportation,1/15/2027
+2477,99771,6.73,Current,783,Financial Services,1/16/2027
+2478,121197,7.12,Current,533,Transportation,1/17/2027
+2479,399188,6.52,Current,565,Manufacturing,1/18/2027
+2480,312186,5.12,Current,773,Healthcare,1/19/2027
+2481,403612,5.18,Current,828,Healthcare,1/20/2027
+2482,484046,7.21,Current,644,Technology,1/21/2027
+2483,335236,7.88,Current,840,Energy,1/22/2027
+2484,228527,4.5,Overdue,730,Telecommunications,1/23/2027
+2485,188643,6.65,Current,841,Financial Services,1/24/2027
+2486,451556,6.81,Current,687,Telecommunications,1/25/2027
+2487,440870,5.84,Overdue,602,Energy,1/26/2027
+2488,17263,8.5,Current,796,Healthcare,1/27/2027
+2489,268338,6.08,Overdue,745,Construction,1/28/2027
+2490,35157,4.09,Current,577,Technology,1/29/2027
+2491,260315,6.95,Current,476,Telecommunications,1/30/2027
+2492,19359,4.45,Current,694,Telecommunications,1/31/2027
+2493,472022,4.61,Overdue,670,Construction,02-01-2027
+2494,164147,6.23,Defaulted,812,Retail,02-02-2027
+2495,352672,5.3,Current,820,Technology,02-03-2027
+2496,68457,6.39,Overdue,672,Energy,02-04-2027
+2497,83643,4.26,Current,592,Financial Services,02-05-2027
+2498,370181,6.6,Current,466,Manufacturing,02-06-2027
+2499,19060,6.91,Current,574,Transportation,02-07-2027
+2500,352209,4.89,Current,587,Healthcare,02-08-2027
+2501,420509,3.53,Overdue,582,Telecommunications,02-09-2027
+2502,161999,4.04,Current,735,Healthcare,02-10-2027
+2503,227549,4.18,Current,843,Retail,02-11-2027
+2504,436054,4.16,Overdue,674,Energy,02-12-2027
+2505,378212,5.29,Current,810,Manufacturing,2/13/2027
+2506,498657,4.91,Current,548,Manufacturing,2/14/2027
+2507,412075,6.1,Defaulted,460,Retail,2/15/2027
+2508,39654,7.87,Current,531,Transportation,2/16/2027
+2509,311654,4.01,Current,726,Technology,2/17/2027
+2510,336857,5.12,Current,609,Healthcare,2/18/2027
+2511,471996,6.07,Overdue,625,Financial Services,2/19/2027
+2512,269685,5.04,Current,632,Real Estate,2/20/2027
+2513,235708,4.23,Current,726,Technology,2/21/2027
+2514,239679,4.17,Current,797,Retail,2/22/2027
+2515,364409,6.7,Current,518,Transportation,2/23/2027
+2516,49519,6.91,Overdue,659,Transportation,2/24/2027
+2517,229736,5.18,Current,678,Construction,2/25/2027
+2518,446753,4.05,Current,766,Construction,2/26/2027
+2519,269230,3.54,Current,728,Energy,2/27/2027
+2520,238037,5.45,Overdue,715,Manufacturing,2/28/2027
+2521,331422,7.83,Overdue,622,Financial Services,03-01-2027
+2522,171748,5.35,Defaulted,478,Transportation,03-02-2027
+2523,170917,5.75,Current,549,Technology,03-03-2027
+2524,97177,8.17,Current,604,Manufacturing,03-04-2027
+2525,123106,5.67,Current,712,Retail,03-05-2027
+2526,63643,4.3,Current,793,Technology,03-06-2027
+2527,27295,3.64,Defaulted,648,Technology,03-07-2027
+2528,278948,4.86,Overdue,499,Manufacturing,03-08-2027
+2529,140221,4.69,Overdue,617,Technology,03-09-2027
+2530,17905,7.33,Current,596,Telecommunications,03-10-2027
+2531,311898,5.52,Current,762,Technology,03-11-2027
+2532,73519,5.88,Current,710,Retail,03-12-2027
+2533,46588,5.9,Current,559,Transportation,3/13/2027
+2534,160104,5.69,Current,469,Healthcare,3/14/2027
+2535,102510,6.31,Current,751,Transportation,3/15/2027
+2536,343875,4.16,Current,509,Financial Services,3/16/2027
+2537,454564,6.17,Current,522,Real Estate,3/17/2027
+2538,258435,4.57,Overdue,746,Retail,3/18/2027
+2539,99463,6.13,Current,604,Retail,3/19/2027
+2540,466450,4.67,Overdue,470,Real Estate,3/20/2027
+2541,18044,7.65,Current,647,Energy,3/21/2027
+2542,17062,4.12,Current,685,Healthcare,3/22/2027
+2543,54872,6.32,Overdue,829,Manufacturing,3/23/2027
+2544,37187,4.59,Current,640,Financial Services,3/24/2027
+2545,253476,4.88,Current,551,Telecommunications,3/25/2027
+2546,231009,3.91,Current,822,Construction,3/26/2027
+2547,33976,4.26,Current,713,Telecommunications,3/27/2027
+2548,214122,6.85,Current,452,Telecommunications,3/28/2027
+2549,233729,4.61,Defaulted,758,Construction,3/29/2027
+2550,424469,4.27,Defaulted,687,Retail,3/30/2027
+2551,74573,4.23,Defaulted,516,Retail,3/31/2027
+2552,196826,7.5,Current,792,Retail,04-01-2027
+2553,417953,7.07,Current,624,Technology,04-02-2027
+2554,199589,7.02,Current,816,Financial Services,04-03-2027
+2555,204269,3.81,Current,547,Healthcare,04-04-2027
+2556,357301,7.92,Defaulted,603,Healthcare,04-05-2027
+2557,490216,5.38,Current,814,Telecommunications,04-06-2027
+2558,362559,7.14,Current,839,Real Estate,04-07-2027
+2559,104330,6.92,Overdue,650,Manufacturing,04-08-2027
+2560,204190,4.33,Current,462,Retail,04-09-2027
+2561,31899,6.04,Overdue,794,Telecommunications,04-10-2027
+2562,247827,4.74,Current,671,Real Estate,04-11-2027
+2563,376996,5.52,Current,668,Real Estate,04-12-2027
+2564,324292,7.43,Current,696,Construction,4/13/2027
+2565,50130,4.54,Current,721,Manufacturing,4/14/2027
+2566,481206,5.01,Defaulted,697,Manufacturing,4/15/2027
+2567,239482,7.59,Current,457,Energy,4/16/2027
+2568,353858,5.87,Overdue,732,Telecommunications,4/17/2027
+2569,389597,8.38,Overdue,667,Retail,4/18/2027
+2570,33461,3.95,Current,831,Healthcare,4/19/2027
+2571,233661,4.09,Current,623,Telecommunications,4/20/2027
+2572,249258,7.03,Current,722,Manufacturing,4/21/2027
+2573,370540,7.93,Current,695,Construction,4/22/2027
+2574,225795,5.29,Current,645,Energy,4/23/2027
+2575,458674,8.39,Current,529,Energy,4/24/2027
+2576,152945,7.3,Current,749,Financial Services,4/25/2027
+2577,92804,7.66,Current,671,Technology,4/26/2027
+2578,482183,4.49,Overdue,456,Telecommunications,4/27/2027
+2579,429502,5.32,Current,509,Retail,4/28/2027
+2580,12761,5.02,Current,727,Energy,4/29/2027
+2581,159224,5.05,Overdue,675,Real Estate,4/30/2027
+2582,158815,7.3,Defaulted,829,Manufacturing,05-01-2027
+2583,89568,6.92,Current,537,Telecommunications,05-02-2027
+2584,140854,4.18,Current,478,Technology,05-03-2027
+2585,338565,4.21,Current,719,Manufacturing,05-04-2027
+2586,424049,7.19,Defaulted,656,Telecommunications,05-05-2027
+2587,400592,6.48,Current,834,Transportation,05-06-2027
+2588,450818,4.04,Current,459,Retail,05-07-2027
+2589,99333,5.35,Current,475,Healthcare,05-08-2027
+2590,406875,5.92,Current,570,Transportation,05-09-2027
+2591,363035,5.91,Overdue,764,Manufacturing,05-10-2027
+2592,107256,6.35,Current,660,Real Estate,05-11-2027
+2593,43498,5.84,Current,781,Manufacturing,05-12-2027
+2594,15926,5.36,Current,762,Real Estate,5/13/2027
+2595,86786,3.53,Current,528,Healthcare,5/14/2027
+2596,433259,7.78,Overdue,827,Real Estate,5/15/2027
+2597,132672,8.15,Current,475,Construction,5/16/2027
+2598,214792,5.83,Current,782,Telecommunications,5/17/2027
+2599,465265,5.53,Current,702,Manufacturing,5/18/2027
+2600,348788,4.66,Current,637,Telecommunications,5/19/2027
+2601,175652,5.6,Defaulted,675,Transportation,5/20/2027
+2602,462714,7.04,Current,754,Construction,5/21/2027
+2603,54340,8.31,Defaulted,809,Financial Services,5/22/2027
+2604,120796,6.47,Current,638,Technology,5/23/2027
+2605,141653,5.08,Current,467,Technology,5/24/2027
+2606,224495,5.47,Current,545,Technology,5/25/2027
+2607,466618,3.66,Current,566,Transportation,5/26/2027
+2608,142608,6.26,Defaulted,630,Retail,5/27/2027
+2609,27021,6.89,Current,557,Retail,5/28/2027
+2610,298279,7.34,Current,520,Transportation,5/29/2027
+2611,403502,5.97,Current,649,Real Estate,5/30/2027
+2612,283525,7.54,Defaulted,705,Healthcare,5/31/2027
+2613,353844,3.75,Current,717,Construction,06-01-2027
+2614,371446,4.95,Overdue,778,Financial Services,06-02-2027
+2615,21044,3.62,Defaulted,488,Construction,06-03-2027
+2616,167758,6.07,Current,474,Financial Services,06-04-2027
+2617,266867,8.5,Current,471,Transportation,06-05-2027
+2618,17435,3.81,Current,663,Telecommunications,06-06-2027
+2619,217819,3.57,Current,626,Manufacturing,06-07-2027
+2620,250676,8.13,Current,785,Energy,06-08-2027
+2621,191443,4.36,Current,613,Real Estate,06-09-2027
+2622,293411,6.1,Overdue,477,Technology,06-10-2027
+2623,465512,5.29,Current,568,Manufacturing,06-11-2027
+2624,318817,3.96,Current,459,Energy,06-12-2027
+2625,285980,5.86,Current,831,Transportation,6/13/2027
+2626,82456,3.64,Current,808,Financial Services,6/14/2027
+2627,119795,7.29,Current,659,Financial Services,6/15/2027
+2628,278547,5.98,Current,748,Technology,6/16/2027
+2629,166300,4.83,Overdue,502,Transportation,6/17/2027
+2630,458965,8.12,Overdue,703,Healthcare,6/18/2027
+2631,165226,7.66,Current,639,Retail,6/19/2027
+2632,349274,7.3,Current,634,Construction,6/20/2027
+2633,374863,4.92,Current,755,Technology,6/21/2027
+2634,91634,5.16,Overdue,540,Technology,6/22/2027
+2635,278528,4.9,Overdue,494,Retail,6/23/2027
+2636,325465,7.27,Overdue,517,Telecommunications,6/24/2027
+2637,163566,6.85,Overdue,687,Manufacturing,6/25/2027
+2638,486404,7.06,Current,663,Transportation,6/26/2027
+2639,352766,4.61,Current,691,Telecommunications,6/27/2027
+2640,172335,4.96,Current,779,Healthcare,6/28/2027
+2641,199700,7.1,Current,750,Construction,6/29/2027
+2642,494691,7.79,Overdue,799,Construction,6/30/2027
+2643,298628,3.77,Current,767,Telecommunications,07-01-2027
+2644,417064,5.66,Overdue,756,Healthcare,07-02-2027
+2645,225237,4.82,Current,500,Real Estate,07-03-2027
+2646,251888,5.08,Current,514,Transportation,07-04-2027
+2647,322642,5.9,Overdue,754,Energy,07-05-2027
+2648,49181,3.61,Current,508,Healthcare,07-06-2027
+2649,376680,4.37,Current,823,Telecommunications,07-07-2027
+2650,219189,4.12,Current,732,Technology,07-08-2027
+2651,364178,6.54,Current,515,Financial Services,07-09-2027
+2652,484642,5.06,Current,797,Transportation,07-10-2027
+2653,391180,7.55,Current,740,Financial Services,07-11-2027
+2654,44080,6.73,Current,525,Financial Services,07-12-2027
+2655,286257,5.4,Current,679,Manufacturing,7/13/2027
+2656,172703,4.56,Current,676,Energy,7/14/2027
+2657,95256,6.2,Current,591,Real Estate,7/15/2027
+2658,388823,7.73,Current,682,Transportation,7/16/2027
+2659,191498,6.09,Defaulted,830,Technology,7/17/2027
+2660,215460,4.41,Defaulted,741,Financial Services,7/18/2027
+2661,367836,6.4,Current,809,Energy,7/19/2027
+2662,238646,4.43,Defaulted,643,Technology,7/20/2027
+2663,345559,8.32,Current,455,Financial Services,7/21/2027
+2664,491080,7.04,Defaulted,663,Retail,7/22/2027
+2665,410586,7,Current,609,Technology,7/23/2027
+2666,342891,5.3,Current,652,Transportation,7/24/2027
+2667,42317,8.04,Current,675,Technology,7/25/2027
+2668,99390,4.93,Current,820,Financial Services,7/26/2027
+2669,302580,3.81,Current,824,Energy,7/27/2027
+2670,470714,6.3,Current,475,Manufacturing,7/28/2027
+2671,116180,8.19,Current,611,Technology,7/29/2027
+2672,65747,6.41,Current,753,Transportation,7/30/2027
+2673,361659,6.69,Current,660,Healthcare,7/31/2027
+2674,335574,5.98,Defaulted,714,Real Estate,08-01-2027
+2675,23520,4.14,Current,596,Real Estate,08-02-2027
+2676,265309,6.77,Current,538,Manufacturing,08-03-2027
+2677,115404,5.62,Overdue,811,Energy,08-04-2027
+2678,136271,3.91,Current,732,Healthcare,08-05-2027
+2679,405618,6.36,Current,779,Energy,08-06-2027
+2680,66631,7.54,Current,471,Healthcare,08-07-2027
+2681,475657,4.63,Current,751,Construction,08-08-2027
+2682,451192,8.25,Current,765,Energy,08-09-2027
+2683,28007,3.6,Current,664,Technology,08-10-2027
+2684,299593,5.97,Current,631,Technology,08-11-2027
+2685,372524,8.22,Current,837,Healthcare,08-12-2027
+2686,318871,8.32,Overdue,656,Technology,8/13/2027
+2687,200526,3.67,Current,611,Manufacturing,8/14/2027
+2688,212146,5.94,Current,546,Transportation,8/15/2027
+2689,269861,3.55,Current,495,Real Estate,8/16/2027
+2690,404918,8.23,Current,487,Technology,8/17/2027
+2691,253104,5.71,Defaulted,630,Manufacturing,8/18/2027
+2692,234332,4.85,Current,502,Real Estate,8/19/2027
+2693,320709,7.08,Current,806,Telecommunications,8/20/2027
+2694,141785,4.51,Overdue,608,Construction,8/21/2027
+2695,471042,6.28,Overdue,765,Construction,8/22/2027
+2696,483438,7.57,Current,723,Real Estate,8/23/2027
+2697,261097,4.01,Current,631,Construction,8/24/2027
+2698,64554,5.01,Overdue,508,Construction,8/25/2027
+2699,249022,8.27,Current,673,Healthcare,8/26/2027
+2700,306902,4.12,Current,812,Construction,8/27/2027
+2701,11544,6.47,Current,452,Manufacturing,8/28/2027
+2702,219874,7.68,Current,560,Construction,8/29/2027
+2703,284219,7.22,Current,602,Retail,8/30/2027
+2704,292353,6.61,Overdue,648,Technology,8/31/2027
+2705,66995,4.28,Current,838,Construction,09-01-2027
+2706,45803,8.09,Defaulted,642,Construction,09-02-2027
+2707,82690,4.24,Current,678,Healthcare,09-03-2027
+2708,333205,3.53,Current,705,Telecommunications,09-04-2027
+2709,400348,3.57,Defaulted,747,Telecommunications,09-05-2027
+2710,151886,8.01,Overdue,787,Construction,09-06-2027
+2711,355648,7.08,Current,688,Energy,09-07-2027
+2712,433516,7.58,Current,563,Construction,09-08-2027
+2713,354995,4.89,Overdue,790,Telecommunications,09-09-2027
+2714,418313,4.88,Current,719,Financial Services,09-10-2027
+2715,439703,7.79,Overdue,542,Telecommunications,09-11-2027
+2716,218049,5.58,Current,590,Real Estate,09-12-2027
+2717,460445,7.93,Current,736,Retail,9/13/2027
+2718,362919,7.35,Current,646,Technology,9/14/2027
+2719,465299,6.26,Current,799,Transportation,9/15/2027
+2720,296855,6.16,Current,807,Technology,9/16/2027
+2721,487680,4.24,Current,801,Manufacturing,9/17/2027
+2722,152811,5.33,Current,819,Energy,9/18/2027
+2723,142233,6.05,Defaulted,681,Energy,9/19/2027
+2724,21319,4.9,Current,487,Real Estate,9/20/2027
+2725,380507,6.71,Current,699,Construction,9/21/2027
+2726,205383,7.7,Overdue,840,Retail,9/22/2027
+2727,319380,3.59,Current,625,Technology,9/23/2027
+2728,129939,6.69,Defaulted,551,Energy,9/24/2027
+2729,452006,4.73,Current,637,Telecommunications,9/25/2027
+2730,235210,6.19,Current,530,Real Estate,9/26/2027
+2731,336999,4.9,Overdue,757,Telecommunications,9/27/2027
+2732,256597,5.96,Current,605,Financial Services,9/28/2027
+2733,10276,7.01,Current,666,Financial Services,9/29/2027
+2734,297898,7.33,Current,766,Technology,9/30/2027
+2735,100717,5.11,Overdue,800,Real Estate,10-01-2027
+2736,120327,6.99,Current,714,Manufacturing,10-02-2027
+2737,228162,7.18,Overdue,609,Telecommunications,10-03-2027
+2738,127050,7.84,Current,550,Financial Services,10-04-2027
+2739,261348,4.92,Overdue,516,Financial Services,10-05-2027
+2740,112617,8.22,Defaulted,453,Energy,10-06-2027
+2741,409318,6.64,Defaulted,723,Real Estate,10-07-2027
+2742,293055,7.6,Current,760,Technology,10-08-2027
+2743,222048,3.98,Current,512,Financial Services,10-09-2027
+2744,156494,7.24,Current,622,Healthcare,10-10-2027
+2745,179175,6.4,Overdue,774,Real Estate,10-11-2027
+2746,32424,4.43,Current,675,Transportation,10-12-2027
+2747,15514,4.5,Overdue,496,Retail,10/13/2027
+2748,108213,8.15,Current,842,Financial Services,10/14/2027
+2749,153584,4.17,Current,618,Real Estate,10/15/2027
+2750,428079,5.78,Overdue,692,Energy,10/16/2027
+2751,395366,7.84,Current,659,Healthcare,10/17/2027
+2752,272039,6.82,Current,514,Retail,10/18/2027
+2753,41098,8.15,Current,603,Transportation,10/19/2027
+2754,483446,5.44,Current,541,Manufacturing,10/20/2027
+2755,70113,6.11,Defaulted,733,Technology,10/21/2027
+2756,29241,5.81,Defaulted,812,Healthcare,10/22/2027
+2757,150236,6.51,Current,798,Healthcare,10/23/2027
+2758,231981,3.83,Current,845,Manufacturing,10/24/2027
+2759,23548,6.05,Current,620,Healthcare,10/25/2027
+2760,241604,7.31,Current,645,Healthcare,10/26/2027
+2761,172686,4.5,Overdue,701,Financial Services,10/27/2027
+2762,31778,7.87,Current,836,Energy,10/28/2027
+2763,230487,6.86,Current,511,Real Estate,10/29/2027
+2764,397506,4.38,Current,761,Retail,10/30/2027
+2765,211191,6.07,Defaulted,589,Manufacturing,10/31/2027
+2766,340718,4.98,Current,572,Construction,11-01-2027
+2767,54134,3.8,Current,579,Healthcare,11-02-2027
+2768,324717,4.99,Current,683,Energy,11-03-2027
+2769,358955,4.04,Current,662,Retail,11-04-2027
+2770,196708,6.38,Current,762,Technology,11-05-2027
+2771,199023,5.95,Current,584,Retail,11-06-2027
+2772,192897,5.86,Overdue,823,Telecommunications,11-07-2027
+2773,98324,4.88,Current,603,Financial Services,11-08-2027
+2774,470080,3.97,Current,735,Energy,11-09-2027
+2775,20562,4.47,Current,802,Manufacturing,11-10-2027
+2776,365661,7.55,Current,553,Real Estate,11-11-2027
+2777,120405,7.43,Current,828,Transportation,11-12-2027
+2778,167456,7.19,Current,611,Energy,11/13/2027
+2779,392400,3.88,Current,464,Construction,11/14/2027
+2780,449492,7.7,Current,713,Healthcare,11/15/2027
+2781,338964,8.27,Current,557,Construction,11/16/2027
+2782,479083,6.37,Current,533,Telecommunications,11/17/2027
+2783,32405,5.7,Overdue,516,Real Estate,11/18/2027
+2784,209107,4.34,Current,785,Financial Services,11/19/2027
+2785,48456,6.12,Current,803,Technology,11/20/2027
+2786,194594,4.93,Current,612,Construction,11/21/2027
+2787,189230,3.74,Defaulted,489,Retail,11/22/2027
+2788,392219,4.96,Current,570,Construction,11/23/2027
+2789,171476,6.51,Current,480,Construction,11/24/2027
+2790,47454,6.15,Current,481,Technology,11/25/2027
+2791,404905,5.25,Current,756,Healthcare,11/26/2027
+2792,385113,5.81,Current,625,Real Estate,11/27/2027
+2793,443953,4.1,Current,727,Healthcare,11/28/2027
+2794,283614,3.76,Current,562,Financial Services,11/29/2027
+2795,256000,6.66,Current,701,Transportation,11/30/2027
+2796,258072,6.46,Current,824,Real Estate,12-01-2027
+2797,401089,4.77,Overdue,748,Technology,12-02-2027
+2798,258384,7.05,Current,819,Real Estate,12-03-2027
+2799,31823,5.87,Overdue,519,Transportation,12-04-2027
+2800,431374,5.9,Overdue,569,Real Estate,12-05-2027
+2801,361632,6.33,Current,738,Transportation,12-06-2027
+2802,90369,7.55,Current,829,Retail,12-07-2027
+2803,423590,5.99,Defaulted,584,Financial Services,12-08-2027
+2804,375210,6.58,Current,508,Technology,12-09-2027
+2805,277797,7.9,Current,778,Real Estate,12-10-2027
+2806,451028,3.5,Current,669,Energy,12-11-2027
+2807,460404,5.59,Overdue,563,Energy,12-12-2027
+2808,153790,6.7,Current,839,Telecommunications,12/13/2027
+2809,60907,4.05,Current,787,Healthcare,12/14/2027
+2810,127079,6.14,Current,675,Transportation,12/15/2027
+2811,251556,4.2,Current,805,Financial Services,12/16/2027
+2812,162623,8.21,Current,534,Retail,12/17/2027
+2813,455026,8.42,Current,829,Technology,12/18/2027
+2814,85102,5.79,Current,766,Financial Services,12/19/2027
+2815,138489,3.92,Overdue,641,Transportation,12/20/2027
+2816,275110,4.93,Overdue,778,Energy,12/21/2027
+2817,223794,4.16,Overdue,755,Real Estate,12/22/2027
+2818,103534,7.07,Current,661,Real Estate,12/23/2027
+2819,136749,5.5,Current,556,Transportation,12/24/2027
+2820,160747,8.22,Current,495,Transportation,12/25/2027
+2821,166306,4.6,Current,746,Retail,12/26/2027
+2822,104696,5.01,Current,797,Transportation,12/27/2027
+2823,124440,5.83,Current,841,Construction,12/28/2027
+2824,204446,5.07,Current,668,Healthcare,12/29/2027
+2825,277668,4.73,Overdue,630,Construction,12/30/2027
+2826,61149,4.59,Current,587,Healthcare,12/31/2027
+2827,439777,7.95,Defaulted,782,Retail,01-01-2028
+2828,201460,6.61,Defaulted,456,Construction,01-02-2028
+2829,102692,7.34,Current,600,Retail,01-03-2028
+2830,114150,6.12,Current,755,Technology,01-04-2028
+2831,497299,3.51,Current,644,Technology,01-05-2028
+2832,35091,5.21,Current,758,Healthcare,01-06-2028
+2833,55711,3.82,Current,494,Technology,01-07-2028
+2834,265126,7.97,Current,798,Energy,01-08-2028
+2835,494015,7.36,Current,654,Retail,01-09-2028
+2836,91173,4.86,Overdue,687,Energy,01-10-2028
+2837,402342,7.73,Current,533,Healthcare,01-11-2028
+2838,399182,4.99,Current,772,Healthcare,01-12-2028
+2839,78193,6.17,Defaulted,691,Manufacturing,1/13/2028
+2840,426763,5.9,Current,802,Technology,1/14/2028
+2841,190545,7.45,Current,549,Manufacturing,1/15/2028
+2842,64791,5.77,Current,762,Telecommunications,1/16/2028
+2843,13662,6.48,Current,604,Energy,1/17/2028
+2844,445408,4.58,Current,523,Retail,1/18/2028
+2845,133671,5.04,Current,558,Construction,1/19/2028
+2846,468705,6.11,Overdue,764,Telecommunications,1/20/2028
+2847,366209,7.13,Current,722,Healthcare,1/21/2028
+2848,322494,5.65,Current,762,Energy,1/22/2028
+2849,285044,6.86,Current,805,Energy,1/23/2028
+2850,263321,5.92,Current,490,Real Estate,1/24/2028
+2851,400479,7.87,Current,674,Energy,1/25/2028
+2852,118992,6.28,Current,550,Healthcare,1/26/2028
+2853,100435,4.73,Overdue,605,Telecommunications,1/27/2028
+2854,137047,6.74,Current,762,Construction,1/28/2028
+2855,166023,4.78,Current,835,Transportation,1/29/2028
+2856,189908,6.36,Defaulted,504,Manufacturing,1/30/2028
+2857,123482,7.5,Overdue,503,Construction,1/31/2028
+2858,419070,5.58,Overdue,593,Energy,02-01-2028
+2859,256513,6.85,Defaulted,742,Telecommunications,02-02-2028
+2860,372836,5.15,Current,596,Manufacturing,02-03-2028
+2861,129675,5.84,Current,474,Construction,02-04-2028
+2862,438084,5.22,Current,558,Technology,02-05-2028
+2863,106414,4.55,Defaulted,779,Retail,02-06-2028
+2864,34066,7.98,Current,766,Real Estate,02-07-2028
+2865,258360,8.4,Overdue,564,Real Estate,02-08-2028
+2866,76646,6.68,Overdue,526,Financial Services,02-09-2028
+2867,423077,5.93,Current,682,Retail,02-10-2028
+2868,353247,5.2,Defaulted,588,Real Estate,02-11-2028
+2869,352063,4.81,Current,584,Energy,02-12-2028
+2870,409471,4.7,Current,691,Energy,2/13/2028
+2871,363137,8.36,Current,486,Telecommunications,2/14/2028
+2872,87215,3.76,Current,592,Manufacturing,2/15/2028
+2873,149735,6.51,Current,802,Construction,2/16/2028
+2874,117279,6.02,Defaulted,709,Real Estate,2/17/2028
+2875,53531,5.81,Current,526,Manufacturing,2/18/2028
+2876,35805,6.32,Current,651,Retail,2/19/2028
+2877,12561,7.76,Current,684,Real Estate,2/20/2028
+2878,305771,3.88,Current,729,Telecommunications,2/21/2028
+2879,391163,4.14,Overdue,479,Telecommunications,2/22/2028
+2880,432694,4.66,Current,467,Manufacturing,2/23/2028
+2881,375186,7,Overdue,786,Manufacturing,2/24/2028
+2882,75100,5.63,Overdue,790,Telecommunications,2/25/2028
+2883,203349,5.02,Current,793,Healthcare,2/26/2028
+2884,347613,4.61,Current,612,Manufacturing,2/27/2028
+2885,141029,6.32,Current,716,Energy,2/28/2028
+2886,351544,7.54,Current,823,Manufacturing,2/29/2028
+2887,403342,7.85,Current,772,Transportation,03-01-2028
+2888,328039,5.54,Current,474,Manufacturing,03-02-2028
+2889,170086,8.24,Current,746,Telecommunications,03-03-2028
+2890,222395,7.13,Current,583,Technology,03-04-2028
+2891,126711,6.49,Overdue,633,Manufacturing,03-05-2028
+2892,218978,5.1,Defaulted,667,Healthcare,03-06-2028
+2893,378335,5.77,Overdue,522,Manufacturing,03-07-2028
+2894,48838,7.58,Overdue,666,Real Estate,03-08-2028
+2895,233979,4.06,Current,649,Healthcare,03-09-2028
+2896,322796,3.88,Current,765,Real Estate,03-10-2028
+2897,84611,7.18,Current,805,Technology,03-11-2028
+2898,14851,4.96,Current,559,Construction,03-12-2028
+2899,251909,7.81,Current,625,Telecommunications,3/13/2028
+2900,155163,4.84,Current,732,Energy,3/14/2028
+2901,269314,8.21,Current,613,Healthcare,3/15/2028
+2902,195839,6.56,Current,477,Energy,3/16/2028
+2903,302043,5.8,Current,673,Transportation,3/17/2028
+2904,92510,3.92,Current,497,Telecommunications,3/18/2028
+2905,329134,4.82,Current,645,Technology,3/19/2028
+2906,10758,3.68,Current,727,Construction,3/20/2028
+2907,331620,6.72,Current,606,Healthcare,3/21/2028
+2908,193683,4.22,Current,450,Financial Services,3/22/2028
+2909,92753,6.03,Current,844,Financial Services,3/23/2028
+2910,187431,4.52,Current,723,Retail,3/24/2028
+2911,153196,5.82,Overdue,461,Telecommunications,3/25/2028
+2912,22387,6.8,Current,657,Energy,3/26/2028
+2913,395571,8.05,Current,457,Energy,3/27/2028
+2914,39293,7.65,Overdue,502,Real Estate,3/28/2028
+2915,494496,5.36,Overdue,601,Real Estate,3/29/2028
+2916,129956,6.41,Defaulted,463,Financial Services,3/30/2028
+2917,46417,8.36,Current,465,Technology,3/31/2028
+2918,41536,4.43,Overdue,654,Energy,04-01-2028
+2919,316256,7.31,Defaulted,825,Telecommunications,04-02-2028
+2920,252197,6.06,Current,482,Healthcare,04-03-2028
+2921,380966,6.08,Current,570,Healthcare,04-04-2028
+2922,148133,4.85,Defaulted,454,Retail,04-05-2028
+2923,331289,5.36,Defaulted,505,Transportation,04-06-2028
+2924,477513,5.32,Current,618,Transportation,04-07-2028
+2925,268281,5.56,Overdue,747,Real Estate,04-08-2028
+2926,139407,7.96,Current,771,Manufacturing,04-09-2028
+2927,138651,3.84,Current,694,Real Estate,04-10-2028
+2928,212512,6.44,Current,492,Manufacturing,04-11-2028
+2929,399324,5.99,Overdue,669,Technology,04-12-2028
+2930,489974,7.08,Current,775,Healthcare,4/13/2028
+2931,18805,5.01,Current,836,Technology,4/14/2028
+2932,360735,6.64,Defaulted,708,Financial Services,4/15/2028
+2933,346791,5.66,Current,667,Energy,4/16/2028
+2934,227138,8.1,Current,706,Financial Services,4/17/2028
+2935,336195,7.79,Overdue,657,Healthcare,4/18/2028
+2936,467490,7.66,Defaulted,587,Technology,4/19/2028
+2937,153389,7.1,Current,741,Healthcare,4/20/2028
+2938,383362,3.95,Current,494,Technology,4/21/2028
+2939,101614,4.06,Overdue,726,Healthcare,4/22/2028
+2940,192028,6.93,Current,467,Manufacturing,4/23/2028
+2941,298520,4.93,Current,688,Telecommunications,4/24/2028
+2942,432919,3.9,Overdue,768,Energy,4/25/2028
+2943,207841,4.29,Current,629,Manufacturing,4/26/2028
+2944,336218,8.23,Current,581,Manufacturing,4/27/2028
+2945,121875,6.72,Current,847,Construction,4/28/2028
+2946,44349,3.57,Current,733,Real Estate,4/29/2028
+2947,253849,8.19,Current,810,Technology,4/30/2028
+2948,79029,6.98,Current,824,Telecommunications,05-01-2028
+2949,18782,4.82,Overdue,584,Technology,05-02-2028
+2950,370157,5.66,Current,732,Construction,05-03-2028
+2951,55228,4.87,Current,459,Construction,05-04-2028
+2952,207668,4.81,Current,619,Technology,05-05-2028
+2953,234648,7.65,Overdue,625,Financial Services,05-06-2028
+2954,169132,4.17,Current,561,Healthcare,05-07-2028
+2955,34824,5.31,Current,528,Technology,05-08-2028
+2956,455001,5.11,Current,635,Real Estate,05-09-2028
+2957,294719,5.13,Defaulted,689,Technology,05-10-2028
+2958,253770,4.76,Current,682,Transportation,05-11-2028
+2959,443017,6.8,Current,474,Manufacturing,05-12-2028
+2960,169958,5.04,Overdue,654,Healthcare,5/13/2028
+2961,377774,5.15,Current,472,Telecommunications,5/14/2028
+2962,17461,7.56,Current,769,Transportation,5/15/2028
+2963,274833,3.7,Overdue,812,Telecommunications,5/16/2028
+2964,477028,5.87,Overdue,537,Construction,5/17/2028
+2965,208146,6.12,Current,812,Manufacturing,5/18/2028
+2966,353913,7.34,Current,529,Technology,5/19/2028
+2967,464808,7.08,Defaulted,481,Real Estate,5/20/2028
+2968,196727,4.98,Current,764,Real Estate,5/21/2028
+2969,377010,6.57,Overdue,825,Telecommunications,5/22/2028
+2970,302197,5.99,Current,524,Telecommunications,5/23/2028
+2971,153631,4.09,Current,669,Real Estate,5/24/2028
+2972,27242,4.42,Overdue,707,Transportation,5/25/2028
+2973,487545,5.95,Current,724,Healthcare,5/26/2028
+2974,440552,3.68,Current,455,Energy,5/27/2028
+2975,301078,4.79,Defaulted,662,Construction,5/28/2028
+2976,333365,4.55,Current,629,Real Estate,5/29/2028
+2977,100024,4.76,Current,538,Real Estate,5/30/2028
+2978,283931,6.9,Current,650,Telecommunications,5/31/2028
+2979,111787,6.57,Current,838,Transportation,06-01-2028
+2980,429480,4.31,Current,660,Real Estate,06-02-2028
+2981,132473,7.57,Current,627,Energy,06-03-2028
+2982,150883,7.45,Current,608,Energy,06-04-2028
+2983,341266,4.3,Current,632,Telecommunications,06-05-2028
+2984,129058,4.18,Overdue,752,Real Estate,06-06-2028
+2985,208289,4.46,Current,545,Technology,06-07-2028
+2986,253957,5.02,Current,747,Financial Services,06-08-2028
+2987,293513,5.77,Current,672,Energy,06-09-2028
+2988,206306,7.77,Current,712,Financial Services,06-10-2028
+2989,361751,5.58,Current,770,Real Estate,06-11-2028
+2990,20294,6.54,Current,506,Energy,06-12-2028
+2991,158863,3.55,Current,658,Technology,6/13/2028
+2992,422072,4.75,Defaulted,663,Technology,6/14/2028
+2993,244997,7.79,Current,813,Energy,6/15/2028
+2994,127731,8.33,Current,761,Healthcare,6/16/2028
+2995,247959,5.84,Current,474,Manufacturing,6/17/2028
+2996,341084,8.03,Current,652,Financial Services,6/18/2028
+2997,122015,8.33,Defaulted,549,Real Estate,6/19/2028
+2998,217793,4.05,Current,748,Transportation,6/20/2028
+2999,112689,5.79,Current,841,Telecommunications,6/21/2028
+3000,404242,6.3,Current,479,Financial Services,6/22/2028
